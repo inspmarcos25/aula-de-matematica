@@ -1,0 +1,9 @@
+# Site estático: o caderno é um único HTML, sem etapa de build.
+[build]
+  publish = "."
+  command = ""
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
