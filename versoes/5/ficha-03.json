@@ -1,0 +1,75 @@
+{
+ "ficha": 3,
+ "qs": {
+  "11": [
+   {
+    "html": "Mesmo denominador: some ou subtraia.<div class=\"grid\"><div><span class=\"fr\"><span>1</span><span>6</span></span> + <span class=\"fr\"><span>4</span><span>6</span></span> = <input class=\"in\" data-a=\"5/6\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>9</span><span>10</span></span> − <span class=\"fr\"><span>3</span><span>10</span></span> = <input class=\"in\" data-a=\"6/10|3/5\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "5/6 · 6/10 = 3/5"
+   },
+   {
+    "html": "Mesmo denominador: some ou subtraia.<div class=\"grid\"><div><span class=\"fr\"><span>4</span><span>9</span></span> + <span class=\"fr\"><span>2</span><span>9</span></span> = <input class=\"in\" data-a=\"6/9|2/3\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>5</span><span>7</span></span> − <span class=\"fr\"><span>2</span><span>7</span></span> = <input class=\"in\" data-a=\"3/7\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "6/9 = 2/3 · 3/7"
+   },
+   {
+    "html": "Mesmo denominador: some ou subtraia.<div class=\"grid\"><div><span class=\"fr\"><span>3</span><span>10</span></span> + <span class=\"fr\"><span>5</span><span>10</span></span> = <input class=\"in\" data-a=\"8/10|4/5\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>11</span><span>12</span></span> − <span class=\"fr\"><span>5</span><span>12</span></span> = <input class=\"in\" data-a=\"6/12|1/2\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "8/10 = 4/5 · 6/12 = 1/2"
+   }
+  ],
+  "12": [
+   {
+    "html": "Denominadores diferentes: encontre frações equivalentes e calcule.<div class=\"grid\"><div><span class=\"fr\"><span>1</span><span>3</span></span> + <span class=\"fr\"><span>1</span><span>6</span></span> = <input class=\"in\" data-a=\"3/6|9/18|1/2\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>3</span><span>4</span></span> − <span class=\"fr\"><span>1</span><span>8</span></span> = <input class=\"in\" data-a=\"5/8|20/32\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "3/6 = 1/2 · 5/8"
+   },
+   {
+    "html": "Denominadores diferentes: encontre frações equivalentes e calcule.<div class=\"grid\"><div><span class=\"fr\"><span>2</span><span>5</span></span> + <span class=\"fr\"><span>3</span><span>10</span></span> = <input class=\"in\" data-a=\"7/10|35/50\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>1</span><span>2</span></span> − <span class=\"fr\"><span>1</span><span>6</span></span> = <input class=\"in\" data-a=\"2/6|4/12|1/3\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "7/10 · 2/6 = 1/3"
+   },
+   {
+    "html": "Denominadores diferentes: encontre frações equivalentes e calcule.<div class=\"grid\"><div><span class=\"fr\"><span>1</span><span>4</span></span> + <span class=\"fr\"><span>3</span><span>8</span></span> = <input class=\"in\" data-a=\"5/8|20/32\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>5</span><span>6</span></span> − <span class=\"fr\"><span>1</span><span>3</span></span> = <input class=\"in\" data-a=\"3/6|9/18|1/2\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "5/8 · 3/6 = 1/2"
+   }
+  ],
+  "13": [
+   {
+    "html": "Pedro comeu <span class=\"fr\"><span>2</span><span>6</span></span> da pizza e Lara comeu <span class=\"fr\"><span>3</span><span>6</span></span>.<div class=\"row\"><div class=\"cc\"><svg class=\"ill\" width=\"110\" height=\"110\" viewBox=\"0 0 110 110\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(55,55)\"><path d=\"M0 0 L0.00 -48.00 A48 48 0 0 1 41.57 -24.00 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L41.57 -24.00 A48 48 0 0 1 41.57 24.00 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L41.57 24.00 A48 48 0 0 1 0.00 48.00 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L0.00 48.00 A48 48 0 0 1 -41.57 24.00 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-41.57 24.00 A48 48 0 0 1 -41.57 -24.00 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-41.57 -24.00 A48 48 0 0 1 -0.00 -48.00 Z\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/></g></svg><div class=\"small\"><span style=\"display:inline-block;width:12px;height:12px;border-radius:3px;background:#F07E26;border:1px solid #2b2b3a;vertical-align:-1px\"></span> Pedro &nbsp; <span style=\"display:inline-block;width:12px;height:12px;border-radius:3px;background:#3D6FD1;border:1px solid #2b2b3a;vertical-align:-1px\"></span> Lara</div></div><div class=\"ql\"><div>a) Que fração eles comeram juntos? <input class=\"in\" data-a=\"5/6\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Que fração da pizza sobrou? <input class=\"in\" data-a=\"1/6\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "a) 5/6 · b) 1/6"
+   },
+   {
+    "html": "Rafa comeu <span class=\"fr\"><span>3</span><span>10</span></span> do bolo e Bianca comeu <span class=\"fr\"><span>4</span><span>10</span></span>.<div class=\"row\"><div class=\"cc\"><svg class=\"ill\" width=\"110\" height=\"110\" viewBox=\"0 0 110 110\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(55,55)\"><path d=\"M0 0 L0.00 -48.00 A48 48 0 0 1 28.21 -38.83 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L28.21 -38.83 A48 48 0 0 1 45.65 -14.83 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L45.65 -14.83 A48 48 0 0 1 45.65 14.83 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L45.65 14.83 A48 48 0 0 1 28.21 38.83 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L28.21 38.83 A48 48 0 0 1 0.00 48.00 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L0.00 48.00 A48 48 0 0 1 -28.21 38.83 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-28.21 38.83 A48 48 0 0 1 -45.65 14.83 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-45.65 14.83 A48 48 0 0 1 -45.65 -14.83 Z\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-45.65 -14.83 A48 48 0 0 1 -28.21 -38.83 Z\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-28.21 -38.83 A48 48 0 0 1 -0.00 -48.00 Z\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/></g></svg><div class=\"small\"><span style=\"display:inline-block;width:12px;height:12px;border-radius:3px;background:#F07E26;border:1px solid #2b2b3a;vertical-align:-1px\"></span> Rafa &nbsp; <span style=\"display:inline-block;width:12px;height:12px;border-radius:3px;background:#3D6FD1;border:1px solid #2b2b3a;vertical-align:-1px\"></span> Bianca</div></div><div class=\"ql\"><div>a) Que fração eles comeram juntos? <input class=\"in\" data-a=\"7/10\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Que fração do bolo sobrou? <input class=\"in\" data-a=\"3/10\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "a) 7/10 · b) 3/10"
+   },
+   {
+    "html": "Davi comeu <span class=\"fr\"><span>5</span><span>12</span></span> da torta e Helena comeu <span class=\"fr\"><span>4</span><span>12</span></span>.<div class=\"row\"><div class=\"cc\"><svg class=\"ill\" width=\"110\" height=\"110\" viewBox=\"0 0 110 110\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(55,55)\"><path d=\"M0 0 L0.00 -48.00 A48 48 0 0 1 24.00 -41.57 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L24.00 -41.57 A48 48 0 0 1 41.57 -24.00 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L41.57 -24.00 A48 48 0 0 1 48.00 0.00 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L48.00 0.00 A48 48 0 0 1 41.57 24.00 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L41.57 24.00 A48 48 0 0 1 24.00 41.57 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L24.00 41.57 A48 48 0 0 1 0.00 48.00 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L0.00 48.00 A48 48 0 0 1 -24.00 41.57 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-24.00 41.57 A48 48 0 0 1 -41.57 24.00 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-41.57 24.00 A48 48 0 0 1 -48.00 0.00 Z\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-48.00 0.00 A48 48 0 0 1 -41.57 -24.00 Z\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-41.57 -24.00 A48 48 0 0 1 -24.00 -41.57 Z\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L-24.00 -41.57 A48 48 0 0 1 -0.00 -48.00 Z\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/></g></svg><div class=\"small\"><span style=\"display:inline-block;width:12px;height:12px;border-radius:3px;background:#F07E26;border:1px solid #2b2b3a;vertical-align:-1px\"></span> Davi &nbsp; <span style=\"display:inline-block;width:12px;height:12px;border-radius:3px;background:#3D6FD1;border:1px solid #2b2b3a;vertical-align:-1px\"></span> Helena</div></div><div class=\"ql\"><div>a) Que fração eles comeram juntos? <input class=\"in\" data-a=\"9/12|3/4\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Que fração da torta sobrou? <input class=\"in\" data-a=\"3/12|1/4\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "a) 9/12 = 3/4 · b) 3/12 = 1/4"
+   }
+  ],
+  "14": [
+   {
+    "html": "Multiplique a fração pelo número natural:<div class=\"grid\"><div>2 × <span class=\"fr\"><span>3</span><span>9</span></span> = <input class=\"in\" data-a=\"6/9|2/3\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>5 × <span class=\"fr\"><span>1</span><span>8</span></span> = <input class=\"in\" data-a=\"5/8\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>4 × <span class=\"fr\"><span>2</span><span>12</span></span> = <input class=\"in\" data-a=\"8/12|2/3\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "2/3 · 5/8 · 2/3"
+   },
+   {
+    "html": "Multiplique a fração pelo número natural:<div class=\"grid\"><div>3 × <span class=\"fr\"><span>1</span><span>4</span></span> = <input class=\"in\" data-a=\"3/4\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>2 × <span class=\"fr\"><span>4</span><span>11</span></span> = <input class=\"in\" data-a=\"8/11\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>3 × <span class=\"fr\"><span>2</span><span>9</span></span> = <input class=\"in\" data-a=\"6/9|2/3\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "3/4 · 8/11 · 2/3"
+   },
+   {
+    "html": "Multiplique a fração pelo número natural:<div class=\"grid\"><div>4 × <span class=\"fr\"><span>2</span><span>9</span></span> = <input class=\"in\" data-a=\"8/9\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>3 × <span class=\"fr\"><span>3</span><span>10</span></span> = <input class=\"in\" data-a=\"9/10\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>2 × <span class=\"fr\"><span>5</span><span>12</span></span> = <input class=\"in\" data-a=\"10/12|5/6\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "8/9 · 9/10 · 5/6"
+   }
+  ],
+  "15": [
+   {
+    "html": "Caio leu <span class=\"fr\"><span>1</span><span>4</span></span> do livro no sábado e <span class=\"fr\"><span>1</span><span>2</span></span>no domingo.<div class=\"grid\"><div>Que fração do livro ele leu? <input class=\"in\" data-a=\"3/4\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto falta? <input class=\"in\" data-a=\"1/4\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "3/4 · 1/4"
+   },
+   {
+    "html": "Júlia pintou <span class=\"fr\"><span>2</span><span>5</span></span> do muro na segunda e <span class=\"fr\"><span>3</span><span>10</span></span>na terça.<div class=\"grid\"><div>Que fração do muro ela pintou? <input class=\"in\" data-a=\"7/10\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto falta? <input class=\"in\" data-a=\"3/10\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "7/10 · 3/10"
+   },
+   {
+    "html": "Na gincana, a equipe azul percorreu <span class=\"fr\"><span>1</span><span>4</span></span> da trilha antes do almoço e <span class=\"fr\"><span>3</span><span>8</span></span>depois.<div class=\"grid\"><div>Que fração da trilha ela percorreu? <input class=\"in\" data-a=\"5/8\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto falta? <input class=\"in\" data-a=\"3/8\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "5/8 · 3/8"
+   }
+  ]
+ }
+}

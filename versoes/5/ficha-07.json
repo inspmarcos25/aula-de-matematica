@@ -1,0 +1,75 @@
+{
+ "ficha": 7,
+ "qs": {
+  "31": [
+   {
+    "html": "Júlia lê <b>4 páginas</b> a cada <b>5 minutos</b>. Complete a tabela:<div class=\"tw\"><table class=\"tab\"><tr><th>Tempo (min)</th><td>5</td><td>10</td><td><input class=\"in\" data-a=\"15\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td><td>25</td></tr><tr><th>Páginas lidas</th><td>4</td><td><input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td><td>12</td><td><input class=\"in\" data-a=\"20\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td></tr></table></div>",
+    "gab": "8 · 15 · 20"
+   },
+   {
+    "html": "Um carro gasta <b>3 litros</b> de gasolina para andar <b>36 km</b>. Complete a tabela:<div class=\"tw\"><table class=\"tab\"><tr><th>Gasolina (L)</th><td>3</td><td>6</td><td><input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td><td>15</td></tr><tr><th>Distância (km)</th><td>36</td><td><input class=\"in\" data-a=\"72\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td><td>108</td><td><input class=\"in\" data-a=\"180\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td></tr></table></div>",
+    "gab": "72 · 9 · 180"
+   },
+   {
+    "html": "Uma torneira enche <b>2 baldes</b> em <b>6 minutos</b>. Complete a tabela:<div class=\"tw\"><table class=\"tab\"><tr><th>Baldes</th><td>2</td><td>4</td><td><input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td><td>10</td></tr><tr><th>Tempo (min)</th><td>6</td><td><input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td><td>24</td><td><input class=\"in\" data-a=\"30\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td></tr></table></div>",
+    "gab": "12 · 8 · 30"
+   }
+  ],
+  "32": [
+   {
+    "html": "Descubra o número escondido:<div class=\"grid\"><div>4 × <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 3 = 27</div><div><input class=\"in\" data-a=\"48\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> ÷ 6 = 8</div><div>50 − <input class=\"in\" data-a=\"15\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 30 + 5</div><div>3 × 8 = 2 × <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "6 · 48 · 15 · 12"
+   },
+   {
+    "html": "Descubra o número escondido:<div class=\"grid\"><div>5 × <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> − 4 = 36</div><div><input class=\"in\" data-a=\"63\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> ÷ 7 = 9</div><div>60 − <input class=\"in\" data-a=\"25\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 30 + 5</div><div>4 × 9 = 6 × <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "8 · 63 · 25 · 6"
+   },
+   {
+    "html": "Descubra o número escondido:<div class=\"grid\"><div>6 × <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 8 = 50</div><div><input class=\"in\" data-a=\"56\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> ÷ 8 = 7</div><div>72 − <input class=\"in\" data-a=\"30\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 40 + 2</div><div>5 × 6 = 3 × <input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "7 · 56 · 30 · 10"
+   }
+  ],
+  "33": [
+   {
+    "html": "<b>R$ 150,00</b> serão divididos entre Davi e Caio, de modo que Caio receba o <b>dobro</b> de Davi. Quanto cada um recebe?<div class=\"grid\"><div>Davi: R$ <input class=\"in\" data-a=\"50\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Caio: R$ <input class=\"in\" data-a=\"100\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "Davi R$ 50 · Caio R$ 100"
+   },
+   {
+    "html": "<b>R$ 180,00</b> serão divididos entre Ana e Rosa, de modo que Rosa receba o <b>triplo</b> de Ana. Quanto cada um recebe?<div class=\"grid\"><div>Ana: R$ <input class=\"in\" data-a=\"45\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Rosa: R$ <input class=\"in\" data-a=\"135\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "Ana R$ 45 · Rosa R$ 135"
+   },
+   {
+    "html": "<b>R$ 210,00</b> serão divididos entre Pedro e Júlia, de modo que Júlia receba o <b>dobro</b> de Pedro. Quanto cada um recebe?<div class=\"grid\"><div>Pedro: R$ <input class=\"in\" data-a=\"70\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Júlia: R$ <input class=\"in\" data-a=\"140\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "Pedro R$ 70 · Júlia R$ 140"
+   }
+  ],
+  "34": [
+   {
+    "html": "A loja de sucos tem <b>5 frutas</b> e <b>2 tamanhos</b> de copo. Quantos pedidos diferentes de 1 fruta com 1 tamanho são possíveis?<div class=\"row\"><svg class=\"ill\" width=\"230\" height=\"56\" viewBox=\"0 0 230 56\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"16\" cy=\"22\" r=\"11\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><path d=\"M16 11 q3 -6 7 -6\" stroke=\"#3a8a3a\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"46\" cy=\"22\" r=\"11\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><path d=\"M46 11 q3 -6 7 -6\" stroke=\"#3a8a3a\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"76\" cy=\"22\" r=\"11\" fill=\"#f07e26\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><path d=\"M76 11 q3 -6 7 -6\" stroke=\"#3a8a3a\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"106\" cy=\"22\" r=\"11\" fill=\"#7fd3a0\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><path d=\"M106 11 q3 -6 7 -6\" stroke=\"#3a8a3a\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"136\" cy=\"22\" r=\"11\" fill=\"#a77bd1\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><path d=\"M136 11 q3 -6 7 -6\" stroke=\"#3a8a3a\" stroke-width=\"2\" fill=\"none\"/><path d=\"M170 26 h20 l-3 24 h-14 Z\" fill=\"#cfe8ff\" stroke=\"#2b2b3a\"/><path d=\"M200 16 h20 l-3 34 h-14 Z\" fill=\"#cfe8ff\" stroke=\"#2b2b3a\"/></svg><input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> pedidos</div>",
+    "gab": "10"
+   },
+   {
+    "html": "No almoço da escola há <b>3 pratos</b>, <b>3 sobremesas</b> e <b>2 sucos</b>. Quantas refeições diferentes com 1 prato, 1 sobremesa e 1 suco dá para montar?<div class=\"row\"><svg class=\"ill\" width=\"256\" height=\"56\" viewBox=\"0 0 256 56\" xmlns=\"http://www.w3.org/2000/svg\"><ellipse cx=\"18\" cy=\"34\" rx=\"14\" ry=\"6\" fill=\"#fff\" stroke=\"#2b2b3a\"/><ellipse cx=\"18\" cy=\"31\" rx=\"8\" ry=\"5\" fill=\"#e5506a\"/><ellipse cx=\"50\" cy=\"34\" rx=\"14\" ry=\"6\" fill=\"#fff\" stroke=\"#2b2b3a\"/><ellipse cx=\"50\" cy=\"31\" rx=\"8\" ry=\"5\" fill=\"#ffcf33\"/><ellipse cx=\"82\" cy=\"34\" rx=\"14\" ry=\"6\" fill=\"#fff\" stroke=\"#2b2b3a\"/><ellipse cx=\"82\" cy=\"31\" rx=\"8\" ry=\"5\" fill=\"#7fd3a0\"/><path d=\"M113 30 h18 l-3 16 h-12 Z\" fill=\"#e0a96d\" stroke=\"#b5651d\"/><circle cx=\"122\" cy=\"26\" r=\"9\" fill=\"#FF8FAB\"/><path d=\"M139 30 h18 l-3 16 h-12 Z\" fill=\"#e0a96d\" stroke=\"#b5651d\"/><circle cx=\"148\" cy=\"26\" r=\"9\" fill=\"#8a5a3b\"/><path d=\"M165 30 h18 l-3 16 h-12 Z\" fill=\"#e0a96d\" stroke=\"#b5651d\"/><circle cx=\"174\" cy=\"26\" r=\"9\" fill=\"#fff2c2\"/><path d=\"M204 24 h20 l-3 26 h-14 Z\" fill=\"#ffcf33\" stroke=\"#2b2b3a\"/><path d=\"M230 24 h20 l-3 26 h-14 Z\" fill=\"#f07e26\" stroke=\"#2b2b3a\"/></svg><input class=\"in\" data-a=\"18\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> refeições</div>",
+    "gab": "18"
+   },
+   {
+    "html": "Uma bandeira tem duas faixas. A faixa de cima pode ter <b>5 cores</b> e a de baixo <b>4 cores</b>. Quantas bandeiras diferentes dá para fazer?<div class=\"row\"><svg class=\"ill\" width=\"256\" height=\"58\" viewBox=\"0 0 256 58\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"4\" y=\"14\" width=\"22\" height=\"22\" rx=\"3\" fill=\"#e5506a\" stroke=\"#2b2b3a\"/><rect x=\"30\" y=\"14\" width=\"22\" height=\"22\" rx=\"3\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\"/><rect x=\"56\" y=\"14\" width=\"22\" height=\"22\" rx=\"3\" fill=\"#ffcf33\" stroke=\"#2b2b3a\"/><rect x=\"82\" y=\"14\" width=\"22\" height=\"22\" rx=\"3\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\"/><rect x=\"108\" y=\"14\" width=\"22\" height=\"22\" rx=\"3\" fill=\"#a77bd1\" stroke=\"#2b2b3a\"/><rect x=\"150\" y=\"14\" width=\"22\" height=\"22\" rx=\"3\" fill=\"#ffffff\" stroke=\"#2b2b3a\"/><rect x=\"176\" y=\"14\" width=\"22\" height=\"22\" rx=\"3\" fill=\"#2b2b3a\" stroke=\"#2b2b3a\"/><rect x=\"202\" y=\"14\" width=\"22\" height=\"22\" rx=\"3\" fill=\"#F07E26\" stroke=\"#2b2b3a\"/><rect x=\"228\" y=\"14\" width=\"22\" height=\"22\" rx=\"3\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\"/><text x=\"66\" y=\"52\" text-anchor=\"middle\" font-family=\"Fredoka\" font-size=\"11\" fill=\"#2b2b3a\">faixa de cima</text><text x=\"200\" y=\"52\" text-anchor=\"middle\" font-family=\"Fredoka\" font-size=\"11\" fill=\"#2b2b3a\">faixa de baixo</text></svg><input class=\"in\" data-a=\"20\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> bandeiras</div>",
+    "gab": "20"
+   }
+  ],
+  "35": [
+   {
+    "html": "Um ônibus percorre <b>80 km</b> em <b>1 hora</b>. Na mesma velocidade, quantos quilômetros percorrerá em <b>2 horas e meia</b>?<div><input class=\"in\" data-a=\"200\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> km</div>",
+    "gab": "200 km"
+   },
+   {
+    "html": "Rafaela pedala <b>18 km</b> em <b>1 hora</b>. No mesmo ritmo, quantos quilômetros ela pedalará em <b>4 horas e meia</b>?<div><input class=\"in\" data-a=\"81\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> km</div>",
+    "gab": "81 km"
+   },
+   {
+    "html": "Um trem anda <b>90 km</b> em <b>1 hora</b>. Na mesma velocidade, quantos quilômetros andará em <b>1 hora e meia</b>?<div><input class=\"in\" data-a=\"135\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> km</div>",
+    "gab": "135 km"
+   }
+  ]
+ }
+}

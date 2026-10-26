@@ -1,0 +1,32 @@
+{
+ "ficha": 6,
+ "title": "Multiplicação e divisão",
+ "sub": "Algoritmos e expressões numéricas",
+ "qs": [
+  {
+   "n": 26,
+   "html": "Efetue:<div class=\"row\"><div class=\"arm\"><div class=\"r\">487</div><div class=\"r\"><b class=\"op\">×</b>36</div><div class=\"bar\"></div><input class=\"in\" data-a=\"17532\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">2.304</div><div class=\"r\"><b class=\"op\">×</b>15</div><div class=\"bar\"></div><input class=\"in\" data-a=\"34560\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "17.532 · 34.560"
+  },
+  {
+   "n": 27,
+   "html": "Resolva as divisões:<div class=\"row\"><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">4.536</span><span class=\"dvs\">12</span></div><label>Quociente <input class=\"in\" data-a=\"378\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">9.875</span><span class=\"dvs\">25</span></div><label>Quociente <input class=\"in\" data-a=\"395\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div></div>",
+   "gab": "378 · 395"
+  },
+  {
+   "n": 28,
+   "html": "Uma escola comprou <b>18 caixas</b> com <b>144 lápis</b> em cada uma. Quantos lápis foram comprados?<div><input class=\"in\" data-a=\"2592\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> lápis</div>",
+   "gab": "2.592 lápis"
+  },
+  {
+   "n": 29,
+   "html": "Um auditório tem <b>540 lugares</b> divididos igualmente em <b>15 fileiras</b>. Quantos lugares há em cada fileira?<div><input class=\"in\" data-a=\"36\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> lugares</div>",
+   "gab": "36 lugares"
+  },
+  {
+   "n": 30,
+   "html": "Resolva as expressões (multiplicação e divisão primeiro!):<div class=\"grid\"><div>48 ÷ 6 + 5 × 3 = <input class=\"in\" data-a=\"23\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>100 − 4 × 12 = <input class=\"in\" data-a=\"52\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "23 · 52"
+  }
+ ]
+}

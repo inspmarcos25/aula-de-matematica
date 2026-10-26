@@ -1,0 +1,32 @@
+{
+ "ficha": 7,
+ "title": "Proporcionalidade e problemas",
+ "sub": "Igualdades, partes desiguais e contagem",
+ "qs": [
+  {
+   "n": 31,
+   "html": "Uma receita usa <b>2 xícaras</b> de farinha para fazer <b>12 biscoitos</b>. Complete a tabela:<div class=\"tw\"><table class=\"tab\"><tr><th>Farinha (xícaras)</th><td>2</td><td>4</td><td><input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td><td>10</td></tr><tr><th>Biscoitos</th><td>12</td><td><input class=\"in\" data-a=\"24\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td><td>36</td><td><input class=\"in\" data-a=\"60\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></td></tr></table></div>",
+   "gab": "24 · 6 · 60"
+  },
+  {
+   "n": 32,
+   "html": "Descubra o número escondido:<div class=\"grid\"><div>3 × <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 5 = 26</div><div><input class=\"in\" data-a=\"36\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> ÷ 4 = 9</div><div>45 − <input class=\"in\" data-a=\"20\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 20 + 5</div><div>2 × 8 = 4 × <input class=\"in\" data-a=\"4\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "7 · 36 · 20 · 4"
+  },
+  {
+   "n": 33,
+   "html": "<b>R$ 120,00</b> serão divididos entre Lia e Bia, de modo que Bia receba o <b>dobro</b> de Lia. Quanto cada uma recebe?<div class=\"grid\"><div>Lia: R$ <input class=\"in\" data-a=\"40\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Bia: R$ <input class=\"in\" data-a=\"80\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "Lia R$ 40 · Bia R$ 80"
+  },
+  {
+   "n": 34,
+   "html": "A sorveteria tem <b>4 sabores</b> e <b>3 coberturas</b>. Quantas combinações de 1 sabor com 1 cobertura são possíveis?<div class=\"row\"><svg class=\"ill\" width=\"240\" height=\"60\" viewBox=\"0 0 240 60\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(20,6)\"><circle cx=\"0\" cy=\"12\" r=\"12\" fill=\"#FF8FAB\"/><path d=\"M-10 18 L0 46 L10 18 Z\" fill=\"#e0a96d\" stroke=\"#b5651d\"/></g><g transform=\"translate(50,6)\"><circle cx=\"0\" cy=\"12\" r=\"12\" fill=\"#fff2c2\"/><path d=\"M-10 18 L0 46 L10 18 Z\" fill=\"#e0a96d\" stroke=\"#b5651d\"/></g><g transform=\"translate(80,6)\"><circle cx=\"0\" cy=\"12\" r=\"12\" fill=\"#8a5a3b\"/><path d=\"M-10 18 L0 46 L10 18 Z\" fill=\"#e0a96d\" stroke=\"#b5651d\"/></g><g transform=\"translate(110,6)\"><circle cx=\"0\" cy=\"12\" r=\"12\" fill=\"#7fd3a0\"/><path d=\"M-10 18 L0 46 L10 18 Z\" fill=\"#e0a96d\" stroke=\"#b5651d\"/></g><rect x=\"150\" y=\"12\" width=\"20\" height=\"34\" rx=\"4\" fill=\"#6b3e1f\" stroke=\"#2b2b3a\"/><rect x=\"178\" y=\"12\" width=\"20\" height=\"34\" rx=\"4\" fill=\"#e5506a\" stroke=\"#2b2b3a\"/><rect x=\"206\" y=\"12\" width=\"20\" height=\"34\" rx=\"4\" fill=\"#ffcf33\" stroke=\"#2b2b3a\"/></svg><input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> combinações</div>",
+   "gab": "12"
+  },
+  {
+   "n": 35,
+   "html": "Um carro percorre <b>60 km</b> em <b>1 hora</b>. Na mesma velocidade, quantos quilômetros percorrerá em <b>3 horas e meia</b>?<div><input class=\"in\" data-a=\"210\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> km</div>",
+   "gab": "210 km"
+  }
+ ]
+}

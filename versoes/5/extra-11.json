@@ -1,0 +1,190 @@
+{
+ "ficha": 11,
+ "title": "Probleminhas",
+ "sub": "Situações-problema para pensar e resolver",
+ "bncc": "EF05MA06 · EF05MA07 · EF05MA08 · EF05MA09 · EF05MA12 · EF05MA13 · EF05MA19 · EF05MA21",
+ "tip": "Leia tudo, separe os <b>dados</b> da <b>pergunta</b> e resolva por etapas!",
+ "mascot": 1,
+ "qs": {
+  "51": [
+   {
+    "html": "Bruno, Lara e Téo lancharam juntos: <b>3 sanduíches</b> de <b>R$ 8,50</b> e <b>3 sucos</b> de <b>R$ 4,20</b>. Eles dividiram a conta em partes iguais.<div class=\"ql\"><div>Quanto deu a conta? R$ <input class=\"in\" data-a=\"38,1|38,10\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto cada um pagou? R$ <input class=\"in\" data-a=\"12,7|12,70\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "R$ 38,10 · R$ 12,70 cada"
+   },
+   {
+    "html": "Mariana comprou <b>2 cadernos</b> de <b>R$ 12,90</b> e <b>1 caneta</b> de <b>R$ 3,75</b>. Pagou com uma nota de <b>R$ 50,00</b>.<div class=\"ql\"><div>Quanto ela gastou? R$ <input class=\"in\" data-a=\"29,55\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto recebeu de troco? R$ <input class=\"in\" data-a=\"20,45\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "R$ 29,55 · troco R$ 20,45"
+   },
+   {
+    "html": "Uma família de <b>4 pessoas</b> foi ao cinema. Cada ingresso custou <b>R$ 18,50</b> e eles compraram <b>2 pipocas</b> de <b>R$ 14,00</b>. A despesa foi dividida igualmente entre os 4.<div class=\"ql\"><div>Gasto total: R$ <input class=\"in\" data-a=\"102\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Cada pessoa pagou: R$ <input class=\"in\" data-a=\"25,5|25,50\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "R$ 102,00 · R$ 25,50 cada"
+   },
+   {
+    "html": "Rafael comprou na feira <b>3 kg de banana</b> a <b>R$ 4,80</b> o quilo e <b>2 kg de maçã</b> a <b>R$ 7,35</b> o quilo. Pagou com <b>R$ 50,00</b>.<div class=\"ql\"><div>Quanto gastou? R$ <input class=\"in\" data-a=\"29,1|29,10\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Troco: R$ <input class=\"in\" data-a=\"20,9|20,90\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: calcule primeiro cada fruta separada e depois junte.</div>",
+    "gab": "R$ 29,10 · troco R$ 20,90"
+   }
+  ],
+  "52": [
+   {
+    "html": "Um tênis custava <b>R$ 240,00</b> e entrou em promoção com <b>25% de desconto</b>.<div class=\"ql\"><div>De quanto é o desconto? R$ <input class=\"in\" data-a=\"60\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Qual é o preço novo? R$ <input class=\"in\" data-a=\"180\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: 25% é a quarta parte do preço.</div>",
+    "gab": "desconto R$ 60,00 · preço R$ 180,00"
+   },
+   {
+    "html": "Uma bicicleta custava <b>R$ 680,00</b> e entrou em promoção com <b>10% de desconto</b>.<div class=\"ql\"><div>De quanto é o desconto? R$ <input class=\"in\" data-a=\"68\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Qual é o preço novo? R$ <input class=\"in\" data-a=\"612\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "desconto R$ 68,00 · preço R$ 612,00"
+   },
+   {
+    "html": "A mensalidade da natação custava <b>R$ 150,00</b> por mês e teve um <b>aumento de 10%</b>.<div class=\"ql\"><div>De quanto foi o aumento? R$ <input class=\"in\" data-a=\"15\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Qual é o valor novo? R$ <input class=\"in\" data-a=\"165\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: 10% é a décima parte do valor.</div>",
+    "gab": "aumento R$ 15,00 · novo valor R$ 165,00"
+   },
+   {
+    "html": "Um jogo de videogame custava <b>R$ 320,00</b> e entrou em promoção com <b>75% de desconto</b>.<div class=\"ql\"><div>De quanto é o desconto? R$ <input class=\"in\" data-a=\"240\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Qual é o preço novo? R$ <input class=\"in\" data-a=\"80\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: 75% são 3 partes de 25%.</div>",
+    "gab": "desconto R$ 240,00 · preço R$ 80,00"
+   }
+  ],
+  "53": [
+   {
+    "html": "Um livro tem <b>300 páginas</b>. Ana leu <b>2/5</b> do livro no primeiro dia e, no segundo dia, leu <b>1/3 do que faltava</b>.<div class=\"ql\"><div>Páginas lidas no 1º dia: <input class=\"in\" data-a=\"120\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Páginas lidas no 2º dia: <input class=\"in\" data-a=\"60\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Páginas que ainda faltam: <input class=\"in\" data-a=\"120\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: primeiro descubra quantas páginas sobraram depois do 1º dia.</div>",
+    "gab": "120 · 60 · faltam 120"
+   },
+   {
+    "html": "Um sítio colheu <b>840 laranjas</b>. Vendeu <b>3/4</b> delas e, das que sobraram, <b>1/3</b> virou suco.<div class=\"ql\"><div>Laranjas vendidas: <input class=\"in\" data-a=\"630\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Laranjas que viraram suco: <input class=\"in\" data-a=\"70\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Laranjas que sobraram inteiras: <input class=\"in\" data-a=\"140\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "630 · 70 · 140"
+   },
+   {
+    "html": "Uma escola tem <b>450 alunos</b>. <b>2/3</b> vão de ônibus. Dos outros, <b>3/5</b> vão a pé e o resto vai de bicicleta.<div class=\"ql\"><div>Vão de ônibus: <input class=\"in\" data-a=\"300\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Vão a pé: <input class=\"in\" data-a=\"90\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Vão de bicicleta: <input class=\"in\" data-a=\"60\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "300 · 90 · 60"
+   },
+   {
+    "html": "Júlia ganhou <b>R$ 120,00</b> de presente. Gastou <b>1/4</b> com um lanche e guardou <b>2/3 do restante</b> no cofrinho.<div class=\"ql\"><div>Gastou no lanche: R$ <input class=\"in\" data-a=\"30\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Guardou no cofrinho: R$ <input class=\"in\" data-a=\"60\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Ficou na carteira: R$ <input class=\"in\" data-a=\"30\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: 2/3 é do que sobrou, não dos R$ 120,00.</div>",
+    "gab": "R$ 30,00 · R$ 60,00 · R$ 30,00"
+   }
+  ],
+  "54": [
+   {
+    "html": "Para <b>4 pessoas</b>, a receita de macarronada usa <b>300 g</b> de macarrão.<div class=\"ql\"><div>Para 10 pessoas: <input class=\"in\" data-a=\"750\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> g</div><div>Para 6 pessoas: <input class=\"in\" data-a=\"450\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> g</div></div><div class=\"note\">Dica: quanto vai para 2 pessoas?</div>",
+    "gab": "750 g · 450 g"
+   },
+   {
+    "html": "Num mapa, cada <b>1 cm</b> representa <b>5 km</b> de verdade.<div class=\"ql\"><div>Duas cidades estão a 7 cm no mapa. Distância real: <input class=\"in\" data-a=\"35\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> km</div><div>Uma estrada de 60 km aparece com quantos centímetros? <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> cm</div></div>",
+    "gab": "35 km · 12 cm"
+   },
+   {
+    "html": "Um caminhão anda sempre <b>80 km por hora</b>.<div class=\"ql\"><div>Em 2 horas e meia, quantos km ele percorre? <input class=\"in\" data-a=\"200\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> km</div><div>Quantas horas leva para percorrer 400 km? <input class=\"in\" data-a=\"5\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> horas</div></div>",
+    "gab": "200 km · 5 horas"
+   },
+   {
+    "html": "Na papelaria, <b>5 cadernos</b> custam <b>R$ 37,50</b>, todos com o mesmo preço.<div class=\"ql\"><div>Preço de 1 caderno: R$ <input class=\"in\" data-a=\"7,5|7,50\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Preço de 8 cadernos: R$ <input class=\"in\" data-a=\"60\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "R$ 7,50 · R$ 60,00"
+   }
+  ],
+  "55": [
+   {
+    "html": "Caio e Duda vão dividir <b>R$ 360,00</b> de um prêmio. Duda vai receber o <b>triplo</b> do que Caio receber.<div class=\"ql\"><div>Caio: R$ <input class=\"in\" data-a=\"90\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Duda: R$ <input class=\"in\" data-a=\"270\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: se Caio fica com 1 parte, Duda fica com 3. Quantas partes ao todo?</div>",
+    "gab": "Caio R$ 90,00 · Duda R$ 270,00"
+   },
+   {
+    "html": "Gabi e Léo têm juntos <b>56 figurinhas</b>. Gabi tem <b>8 figurinhas a mais</b> que Léo.<div class=\"ql\"><div>Léo: <input class=\"in\" data-a=\"24\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> figurinhas</div><div>Gabi: <input class=\"in\" data-a=\"32\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> figurinhas</div></div><div class=\"note\">Dica: tire as 8 a mais e divida o resto igualmente.</div>",
+    "gab": "Léo 24 · Gabi 32"
+   },
+   {
+    "html": "Três irmãos vão repartir <b>150 balas</b>. O do meio recebe o <b>dobro</b> do caçula, e o mais velho recebe o <b>triplo</b> do caçula.<div class=\"ql\"><div>Caçula: <input class=\"in\" data-a=\"25\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Do meio: <input class=\"in\" data-a=\"50\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Mais velho: <input class=\"in\" data-a=\"75\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "25 · 50 · 75"
+   },
+   {
+    "html": "Uma corda de <b>45 metros</b> foi cortada em 2 pedaços. Um pedaço ficou <b>4 vezes maior</b> que o outro.<div class=\"ql\"><div>Pedaço menor: <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m</div><div>Pedaço maior: <input class=\"in\" data-a=\"36\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m</div></div>",
+    "gab": "9 m e 36 m"
+   }
+  ],
+  "56": [
+   {
+    "html": "Seu Antônio e o filho Pedro têm, juntos, <b>48 anos</b>. O pai tem <b>28 anos a mais</b> que o filho.<div class=\"ql\"><div>Idade de Pedro: <input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> anos</div><div>Idade do pai: <input class=\"in\" data-a=\"38\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> anos</div></div>",
+    "gab": "Pedro 10 · pai 38"
+   },
+   {
+    "html": "Beatriz disse: <i>“Pensei num número, <b>dividi por 4</b>, <b>somei 15</b> e deu <b>40</b>.”</i> Em que número ela pensou?<div><input class=\"in\" data-a=\"100\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"note\">Dica: faça o caminho de volta: desfaça cada operação, de trás para a frente.</div>",
+    "gab": "100"
+   },
+   {
+    "html": "Num restaurante há <b>18 mesas</b>: algumas com <b>4 cadeiras</b> e outras com <b>6 cadeiras</b>. Ao todo são <b>86 cadeiras</b>.<div class=\"ql\"><div>Mesas de 4 cadeiras: <input class=\"in\" data-a=\"11\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Mesas de 6 cadeiras: <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: se todas tivessem 4 cadeiras, quantas seriam? Quantas faltam?</div>",
+    "gab": "11 mesas de 4 · 7 mesas de 6"
+   },
+   {
+    "html": "A soma de dois números é <b>1.250</b> e a diferença entre eles é <b>350</b>.<div class=\"ql\"><div>Número maior: <input class=\"in\" data-a=\"800\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Número menor: <input class=\"in\" data-a=\"450\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "800 e 450"
+   }
+  ],
+  "57": [
+   {
+    "html": "Nas três primeiras provas, Sofia tirou <b>8, 6, 9</b>. Ela quer terminar o ano com <b>média 8</b> nas 4 provas.<div class=\"ql\"><div>Quantos pontos as 4 provas precisam somar? <input class=\"in\" data-a=\"32\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto ela já somou? <input class=\"in\" data-a=\"23\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Nota necessária na 4ª prova: <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "32 · 23 · tirar 9"
+   },
+   {
+    "html": "Nos 4 primeiros jogos, Davi fez <b>12, 15, 9, 14</b> pontos.<div class=\"ql\"><div>Qual é a média de pontos por jogo? <input class=\"in\" data-a=\"12,5|12,50\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quantos pontos ele precisa fazer no 5º jogo para a média ficar 13? <input class=\"in\" data-a=\"15\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "12,5 · 15 pontos"
+   },
+   {
+    "html": "Lucas leu <b>30</b>, <b>45</b> e <b>25</b> páginas em 3 dias. Ele quer ter <b>média de 40 páginas por dia</b> em 4 dias.<div class=\"ql\"><div>Total de páginas nos 4 dias: <input class=\"in\" data-a=\"160\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Páginas que precisa ler no 4º dia: <input class=\"in\" data-a=\"60\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: média 40 em 4 dias quer dizer que o total é 4 × 40.</div>",
+    "gab": "160 · 60 páginas"
+   },
+   {
+    "html": "Na campanha de reciclagem, a turma juntou <b>18</b>, <b>22</b>, <b>25</b>, <b>15</b> kg de papel em 4 semanas.<div class=\"ql\"><div>Média por semana: <input class=\"in\" data-a=\"20\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> kg</div><div>Quantos kg precisam juntar na 5ª semana para a média subir para 21 kg? <input class=\"in\" data-a=\"25\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> kg</div></div>",
+    "gab": "20 kg · 25 kg"
+   }
+  ],
+  "58": [
+   {
+    "html": "Rita vai criar uma senha de <b>2 algarismos diferentes</b> usando só <b>1, 3, 5 e 7</b>. Quantas senhas diferentes ela pode criar?<div><input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> senhas</div><div class=\"note\">Dica: comece listando as que começam com 1: 13, 15, 17…</div>",
+    "gab": "12 senhas"
+   },
+   {
+    "html": "Na lanchonete, o combo tem <b>1 pão</b> (3 tipos), <b>1 recheio</b> (4 tipos) e <b>1 bebida</b> (2 tipos). Quantos combos diferentes dá para montar?<div><input class=\"in\" data-a=\"24\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> combos</div>",
+    "gab": "24 combos"
+   },
+   {
+    "html": "De casa até a praça há <b>2 caminhos</b>. Da praça até a escola há <b>5 caminhos</b>.<div class=\"ql\"><div>Quantos caminhos diferentes vão de casa à escola passando pela praça? <input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Se abrirem mais <b>2 caminhos diretos</b> de casa à escola, quantos caminhos haverá ao todo? <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "10 · 12"
+   },
+   {
+    "html": "Num torneio, <b>6 times</b> jogam: cada time enfrenta cada um dos outros <b>uma única vez</b>. Quantos jogos acontecem?<div><input class=\"in\" data-a=\"15\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> jogos</div><div class=\"note\">Dica: cuidado para não contar o mesmo jogo duas vezes (A×B é o mesmo que B×A).</div>",
+    "gab": "15 jogos"
+   }
+  ],
+  "59": [
+   {
+    "html": "Um terreno retangular mede <b>12 m</b> por <b>8 m</b>. A grama custa <b>R$ 15,00</b> o metro quadrado.<div class=\"ql\"><div>Área do terreno: <input class=\"in\" data-a=\"96\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m²</div><div>Custo para gramar tudo: R$ <input class=\"in\" data-a=\"1440\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "96 m² · R$ 1.440,00"
+   },
+   {
+    "html": "Uma caixa d'água tem a forma de bloco: <b>2 m</b> de comprimento, <b>1,5 m</b> de largura e <b>1 m</b> de altura. Uma torneira despeja <b>50 litros por minuto</b>.<div class=\"ql\"><div>Volume: <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m³</div><div>Em litros (1 m³ = 1.000 L): <input class=\"in\" data-a=\"3000\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> L</div><div>Minutos para encher: <input class=\"in\" data-a=\"60\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "3 m³ · 3.000 L · 60 min"
+   },
+   {
+    "html": "Ana deu <b>4 voltas</b> numa pista de <b>400 m</b> e depois correu mais <b>1,5 km</b> na rua.<div class=\"ql\"><div>Total em metros: <input class=\"in\" data-a=\"3100\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m</div><div>Total em quilômetros: <input class=\"in\" data-a=\"3,1|3,10\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> km</div></div>",
+    "gab": "3.100 m · 3,1 km"
+   },
+   {
+    "html": "Um terreno retangular de <b>25 m</b> por <b>18 m</b> vai ser cercado com tela. Cada metro de tela custa <b>R$ 12,00</b>.<div class=\"ql\"><div>Quantos metros de tela? <input class=\"in\" data-a=\"86\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m</div><div>Quanto vai custar? R$ <input class=\"in\" data-a=\"1032\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: a tela vai em volta do terreno: é o perímetro.</div>",
+    "gab": "86 m · R$ 1.032,00"
+   }
+  ],
+  "60": [
+   {
+    "html": "Uma família foi ao cinema e comprou <b>2 inteiras</b>, <b>3 meias</b> e <b>2 pipocas</b>. Pagou com <b>R$ 200,00</b>.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">CINEMA</div><div class=\"mi\"><span>Inteira</span><b>R$ 32,00</b></div><div class=\"mi\"><span>Meia-entrada</span><b>R$ 16,00</b></div><div class=\"mi\"><span>Pipoca</span><b>R$ 22,50</b></div></div><div class=\"ql\"><div>Total gasto: R$ <input class=\"in\" data-a=\"157\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Troco: R$ <input class=\"in\" data-a=\"43\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "R$ 157,00 · troco R$ 43,00"
+   },
+   {
+    "html": "O quadro mostra o estoque da papelaria. Na semana, foram vendidos <b>380 cadernos</b> e <b>1.150 lápis</b>.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">ESTOQUE</div><div class=\"mi\"><span>Cadernos</span><b>1.250</b></div><div class=\"mi\"><span>Lápis</span><b>3.480</b></div><div class=\"mi\"><span>Borrachas</span><b>975</b></div></div><div class=\"ql\"><div>Cadernos que restaram: <input class=\"in\" data-a=\"870\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Lápis que restaram: <input class=\"in\" data-a=\"2330\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Total de itens no estoque agora: <input class=\"in\" data-a=\"4175\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "870 · 2.330 · 4.175"
+   },
+   {
+    "html": "Seu Jorge comprou <b>2,5 kg de tomate</b> e <b>3 kg de batata</b> no sacolão.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">PREÇO DO QUILO</div><div class=\"mi\"><span>Tomate</span><b>R$ 6,40</b></div><div class=\"mi\"><span>Batata</span><b>R$ 4,50</b></div><div class=\"mi\"><span>Cebola</span><b>R$ 5,20</b></div></div><div class=\"ql\"><div>Quanto ele gastou? R$ <input class=\"in\" data-a=\"29,5|29,50\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Qual é o produto mais caro por quilo? <span class=\"choice\" data-a=\"2\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">batata</button><button type=\"button\" class=\"opt\" data-v=\"1\">cebola</button><button type=\"button\" class=\"opt\" data-v=\"2\">tomate</button></span></div></div></div>",
+    "gab": "R$ 29,50 · tomate"
+   },
+   {
+    "html": "No campeonato, cada <b>vitória vale 3 pontos</b> e cada <b>empate vale 1 ponto</b>. Veja o quadro:<div class=\"row\"><div class=\"menu\"><div class=\"mh\">CAMPEONATO</div><div class=\"mi\"><span>Águias</span><b>5 vitórias · 2 empates</b></div><div class=\"mi\"><span>Leões</span><b>4 vitórias · 5 empates</b></div><div class=\"mi\"><span>Tubarões</span><b>6 vitórias · 0 empates</b></div></div><div class=\"ql\"><div>Pontos das Águias: <input class=\"in\" data-a=\"17\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Pontos dos Leões: <input class=\"in\" data-a=\"17\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Pontos dos Tubarões: <input class=\"in\" data-a=\"18\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quem foi o campeão? <span class=\"choice\" data-a=\"2\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">Águias</button><button type=\"button\" class=\"opt\" data-v=\"1\">Leões</button><button type=\"button\" class=\"opt\" data-v=\"2\">Tubarões</button></span></div></div></div>",
+    "gab": "17 · 17 · 18 · campeão Tubarões"
+   }
+  ]
+ }
+}

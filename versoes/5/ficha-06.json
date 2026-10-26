@@ -1,0 +1,75 @@
+{
+ "ficha": 6,
+ "qs": {
+  "26": [
+   {
+    "html": "Efetue:<div class=\"row\"><div class=\"arm\"><div class=\"r\">538</div><div class=\"r\"><b class=\"op\">×</b>27</div><div class=\"bar\"></div><input class=\"in\" data-a=\"14526\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">1.906</div><div class=\"r\"><b class=\"op\">×</b>34</div><div class=\"bar\"></div><input class=\"in\" data-a=\"64804\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "14.526 · 64.804"
+   },
+   {
+    "html": "Efetue:<div class=\"row\"><div class=\"arm\"><div class=\"r\">746</div><div class=\"r\"><b class=\"op\">×</b>58</div><div class=\"bar\"></div><input class=\"in\" data-a=\"43268\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">3.215</div><div class=\"r\"><b class=\"op\">×</b>26</div><div class=\"bar\"></div><input class=\"in\" data-a=\"83590\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "43.268 · 83.590"
+   },
+   {
+    "html": "Efetue:<div class=\"row\"><div class=\"arm\"><div class=\"r\">359</div><div class=\"r\"><b class=\"op\">×</b>47</div><div class=\"bar\"></div><input class=\"in\" data-a=\"16873\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">4.072</div><div class=\"r\"><b class=\"op\">×</b>18</div><div class=\"bar\"></div><input class=\"in\" data-a=\"73296\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "16.873 · 73.296"
+   }
+  ],
+  "27": [
+   {
+    "html": "Resolva as divisões:<div class=\"row\"><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">5.208</span><span class=\"dvs\">14</span></div><label>Quociente <input class=\"in\" data-a=\"372\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">7.350</span><span class=\"dvs\">21</span></div><label>Quociente <input class=\"in\" data-a=\"350\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div></div>",
+    "gab": "372 · 350"
+   },
+   {
+    "html": "Resolva as divisões:<div class=\"row\"><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">3.672</span><span class=\"dvs\">17</span></div><label>Quociente <input class=\"in\" data-a=\"216\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">8.064</span><span class=\"dvs\">32</span></div><label>Quociente <input class=\"in\" data-a=\"252\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div></div>",
+    "gab": "216 · 252"
+   },
+   {
+    "html": "Resolva as divisões:<div class=\"row\"><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">6.786</span><span class=\"dvs\">26</span></div><label>Quociente <input class=\"in\" data-a=\"261\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">9.405</span><span class=\"dvs\">45</span></div><label>Quociente <input class=\"in\" data-a=\"209\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div></div>",
+    "gab": "261 · 209"
+   }
+  ],
+  "28": [
+   {
+    "html": "Uma papelaria recebeu <b>24 pacotes</b> com <b>125 figurinhas</b> em cada um. Quantas figurinhas chegaram?<div><input class=\"in\" data-a=\"3000\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> figurinhas</div>",
+    "gab": "3.000 figurinhas"
+   },
+   {
+    "html": "Um supermercado recebeu <b>16 caixas</b> com <b>236 garrafas</b> de água em cada uma. Quantas garrafas chegaram?<div><input class=\"in\" data-a=\"3776\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> garrafas</div>",
+    "gab": "3.776 garrafas"
+   },
+   {
+    "html": "Uma fábrica produz <b>315 bonecas</b> por dia. Quantas bonecas ela produz em <b>23 dias</b>?<div><input class=\"in\" data-a=\"7245\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> bonecas</div>",
+    "gab": "7.245 bonecas"
+   }
+  ],
+  "29": [
+   {
+    "html": "Uma biblioteca tem <b>912 livros</b> arrumados igualmente em <b>24 prateleiras</b>. Quantos livros há em cada prateleira?<div><input class=\"in\" data-a=\"38\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> livros</div>",
+    "gab": "38 livros"
+   },
+   {
+    "html": "Uma escola tem <b>728 alunos</b> divididos igualmente em <b>26 turmas</b>. Quantos alunos há em cada turma?<div><input class=\"in\" data-a=\"28\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> alunos</div>",
+    "gab": "28 alunos"
+   },
+   {
+    "html": "Seu Joaquim colheu <b>1.344 laranjas</b> e colocou a mesma quantidade em <b>32 caixas</b>. Quantas laranjas foram em cada caixa?<div><input class=\"in\" data-a=\"42\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> laranjas</div>",
+    "gab": "42 laranjas"
+   }
+  ],
+  "30": [
+   {
+    "html": "Resolva as expressões (multiplicação e divisão primeiro!):<div class=\"grid\"><div>56 ÷ 7 + 4 × 6 = <input class=\"in\" data-a=\"32\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>90 − 6 × 9 = <input class=\"in\" data-a=\"36\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "32 · 36"
+   },
+   {
+    "html": "Resolva as expressões (multiplicação e divisão primeiro!):<div class=\"grid\"><div>72 ÷ 8 + 3 × 7 = <input class=\"in\" data-a=\"30\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>81 − 45 ÷ 5 = <input class=\"in\" data-a=\"72\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "30 · 72"
+   },
+   {
+    "html": "Resolva as expressões (multiplicação e divisão primeiro!):<div class=\"grid\"><div>9 × 5 − 36 ÷ 4 = <input class=\"in\" data-a=\"36\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>7 + 8 × 6 = <input class=\"in\" data-a=\"55\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "36 · 55"
+   }
+  ]
+ }
+}

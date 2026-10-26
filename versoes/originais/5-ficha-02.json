@@ -1,0 +1,32 @@
+{
+ "ficha": 2,
+ "title": "Frações",
+ "sub": "Equivalência, simplificação e comparação",
+ "qs": [
+  {
+   "n": 6,
+   "html": "Complete as frações equivalentes (escreva só o número que falta):<div class=\"grid\"><div><span class=\"fr\"><span>2</span><span>3</span></span> = <span class=\"fr\"><span><input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:40px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></span><span>9</span></span></div><div><span class=\"fr\"><span>3</span><span>4</span></span> = <span class=\"fr\"><span>12</span><span><input class=\"in\" data-a=\"16\" data-t=\"n\" style=\"width:40px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></span></span></div><div><span class=\"fr\"><span>5</span><span>10</span></span> = <span class=\"fr\"><span>1</span><span><input class=\"in\" data-a=\"2\" data-t=\"n\" style=\"width:40px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></span></span></div></div>",
+   "gab": "6 · 16 · 2"
+  },
+  {
+   "n": 7,
+   "html": "Simplifique as frações até a forma irredutível:<div class=\"grid\"><div><span class=\"fr\"><span>12</span><span>18</span></span> = <input class=\"in\" data-a=\"2/3\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>15</span><span>25</span></span> = <input class=\"in\" data-a=\"3/5\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>8</span><span>32</span></span> = <input class=\"in\" data-a=\"1/4\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "2/3 · 3/5 · 1/4"
+  },
+  {
+   "n": 8,
+   "html": "Compare usando &gt;, &lt; ou =:<div class=\"grid\"><div><span class=\"fr\"><span>3</span><span>5</span></span> <select class=\"sel\" data-a=\"&lt;\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"&gt;\">&gt;</option><option value=\"&lt;\">&lt;</option><option value=\"=\">=</option></select> <span class=\"fr\"><span>4</span><span>5</span></span></div><div><span class=\"fr\"><span>2</span><span>3</span></span> <select class=\"sel\" data-a=\"&lt;\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"&gt;\">&gt;</option><option value=\"&lt;\">&lt;</option><option value=\"=\">=</option></select> <span class=\"fr\"><span>3</span><span>4</span></span></div><div><span class=\"fr\"><span>5</span><span>10</span></span> <select class=\"sel\" data-a=\"=\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"&gt;\">&gt;</option><option value=\"&lt;\">&lt;</option><option value=\"=\">=</option></select> <span class=\"fr\"><span>1</span><span>2</span></span></div></div><svg class=\"ill\" width=\"260\" height=\"40\" viewBox=\"0 0 260 40\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10.0\" y=\"4\" width=\"66.7\" height=\"14\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><rect x=\"76.7\" y=\"4\" width=\"66.7\" height=\"14\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><rect x=\"143.3\" y=\"4\" width=\"66.7\" height=\"14\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><rect x=\"10.0\" y=\"22\" width=\"50.0\" height=\"14\" fill=\"#FF8FAB\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><rect x=\"60.0\" y=\"22\" width=\"50.0\" height=\"14\" fill=\"#FF8FAB\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><rect x=\"110.0\" y=\"22\" width=\"50.0\" height=\"14\" fill=\"#FF8FAB\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><rect x=\"160.0\" y=\"22\" width=\"50.0\" height=\"14\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><text x=\"222\" y=\"15\" font-family=\"Fredoka\" font-size=\"11\" fill=\"#2b2b3a\">2/3</text><text x=\"222\" y=\"33\" font-family=\"Fredoka\" font-size=\"11\" fill=\"#2b2b3a\">3/4</text></svg>",
+   "gab": "< · < · ="
+  },
+  {
+   "n": 9,
+   "html": "Calcule a fração de cada quantidade:<div class=\"grid\"><div><span class=\"fr\"><span>3</span><span>4</span></span> de 60 = <input class=\"in\" data-a=\"45\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>2</span><span>5</span></span> de 35 = <input class=\"in\" data-a=\"14\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "45 · 14"
+  },
+  {
+   "n": 10,
+   "html": "Que número representa a parte pintada?<div class=\"row\"><svg class=\"ill\" width=\"220\" height=\"100\" viewBox=\"0 0 220 100\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(50,50)\"><path d=\"M0 0 L0.00 -44.00 A44 44 0 0 1 0.00 44.00 Z\" fill=\"#FF8FAB\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L0.00 44.00 A44 44 0 0 1 -0.00 -44.00 Z\" fill=\"#FF8FAB\" stroke=\"#2b2b3a\" stroke-width=\"2\"/></g><g transform=\"translate(160,50)\"><path d=\"M0 0 L0.00 -44.00 A44 44 0 0 1 0.00 44.00 Z\" fill=\"#FF8FAB\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M0 0 L0.00 44.00 A44 44 0 0 1 -0.00 -44.00 Z\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"2\"/></g></svg><div class=\"ql\"><div>Como fração: <input class=\"in\" data-a=\"3/2|6/4\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Como número misto: <input class=\"in\" data-a=\"1 1/2\" data-t=\"f\" style=\"width:80px\"  placeholder=\"_ _/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+   "gab": "3/2 · 1 1/2"
+  }
+ ]
+}

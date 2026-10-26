@@ -1,0 +1,75 @@
+{
+ "ficha": 4,
+ "qs": {
+  "16": [
+   {
+    "html": "Escreva como fração decimal:<div class=\"grid\"><div>0,9 = <input class=\"in\" data-a=\"9/10\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>0,48 = <input class=\"in\" data-a=\"48/100|12/25\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>2,3 = <input class=\"in\" data-a=\"23/10\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "9/10 · 48/100 · 23/10"
+   },
+   {
+    "html": "Escreva como fração decimal:<div class=\"grid\"><div>0,3 = <input class=\"in\" data-a=\"3/10\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>0,75 = <input class=\"in\" data-a=\"75/100|3/4\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>1,6 = <input class=\"in\" data-a=\"16/10|8/5\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "3/10 · 75/100 · 16/10"
+   },
+   {
+    "html": "Escreva como fração decimal:<div class=\"grid\"><div>0,1 = <input class=\"in\" data-a=\"1/10\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>0,62 = <input class=\"in\" data-a=\"62/100|31/50\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div><div>3,5 = <input class=\"in\" data-a=\"35/10|7/2\" data-t=\"f\" style=\"width:64px\"  placeholder=\"_/_\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "1/10 · 62/100 · 35/10"
+   }
+  ],
+  "17": [
+   {
+    "html": "Efetue (vírgula embaixo de vírgula!):<div class=\"row\"><div class=\"arm\"><div class=\"r\">23,45</div><div class=\"r\"><b class=\"op\">+</b> 8,67</div><div class=\"bar\"></div><input class=\"in\" data-a=\"32,12\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">40,00</div><div class=\"r\"><b class=\"op\">−</b>15,38</div><div class=\"bar\"></div><input class=\"in\" data-a=\"24,62\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">2,75</div><div class=\"r\"><b class=\"op\">×</b>6</div><div class=\"bar\"></div><input class=\"in\" data-a=\"16,5\" data-t=\"n\" style=\"width:99px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "32,12 · 24,62 · 16,5"
+   },
+   {
+    "html": "Efetue (vírgula embaixo de vírgula!):<div class=\"row\"><div class=\"arm\"><div class=\"r\">16,80</div><div class=\"r\"><b class=\"op\">+</b> 9,35</div><div class=\"bar\"></div><input class=\"in\" data-a=\"26,15\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">32,50</div><div class=\"r\"><b class=\"op\">−</b>17,85</div><div class=\"bar\"></div><input class=\"in\" data-a=\"14,65\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">4,15</div><div class=\"r\"><b class=\"op\">×</b>3</div><div class=\"bar\"></div><input class=\"in\" data-a=\"12,45\" data-t=\"n\" style=\"width:99px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "26,15 · 14,65 · 12,45"
+   },
+   {
+    "html": "Efetue (vírgula embaixo de vírgula!):<div class=\"row\"><div class=\"arm\"><div class=\"r\">34,25</div><div class=\"r\"><b class=\"op\">+</b> 5,98</div><div class=\"bar\"></div><input class=\"in\" data-a=\"40,23\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">50,00</div><div class=\"r\"><b class=\"op\">−</b>26,45</div><div class=\"bar\"></div><input class=\"in\" data-a=\"23,55\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">1,85</div><div class=\"r\"><b class=\"op\">×</b>5</div><div class=\"bar\"></div><input class=\"in\" data-a=\"9,25\" data-t=\"n\" style=\"width:99px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "40,23 · 23,55 · 9,25"
+   }
+  ],
+  "18": [
+   {
+    "html": "Um livro de histórias custa <b>R$ 12,75</b>. Quanto custam <b>4 livros</b>?<div class=\"row\"><svg class=\"ill\" width=\"156\" height=\"72\" viewBox=\"0 0 156 72\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"8\" y=\"6\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><rect x=\"38\" y=\"8\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><rect x=\"68\" y=\"10\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><rect x=\"98\" y=\"12\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#FF8FAB\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/></svg>R$ <input class=\"in\" data-a=\"51,00\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "R$ 51,00"
+   },
+   {
+    "html": "Um estojo custa <b>R$ 23,60</b>. Quanto custam <b>2 estojos</b>?<div class=\"row\"><svg class=\"ill\" width=\"96\" height=\"72\" viewBox=\"0 0 96 72\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"8\" y=\"6\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#a77bd1\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><rect x=\"38\" y=\"8\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/></svg>R$ <input class=\"in\" data-a=\"47,20\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "R$ 47,20"
+   },
+   {
+    "html": "Uma caixa de lápis de cor custa <b>R$ 8,45</b>. Quanto custam <b>5 caixas</b>?<div class=\"row\"><svg class=\"ill\" width=\"186\" height=\"72\" viewBox=\"0 0 186 72\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"8\" y=\"6\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#3D6FD1\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><rect x=\"38\" y=\"8\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><rect x=\"68\" y=\"10\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#FF8FAB\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><rect x=\"98\" y=\"12\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><rect x=\"128\" y=\"14\" width=\"54\" height=\"60\" rx=\"4\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/></svg>R$ <input class=\"in\" data-a=\"42,25\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "R$ 42,25"
+   }
+  ],
+  "19": [
+   {
+    "html": "Gustavo tinha <b>R$ 100,00</b>. Gastou <b>R$ 37,90</b> na livraria e <b>R$ 24,65</b> na lanchonete. Quanto sobrou?<div>R$ <input class=\"in\" data-a=\"37,45\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "R$ 37,45"
+   },
+   {
+    "html": "Larissa tinha <b>R$ 80,00</b>. Gastou <b>R$ 29,45</b> na papelaria e <b>R$ 15,80</b> no cinema. Quanto sobrou?<div>R$ <input class=\"in\" data-a=\"34,75\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "R$ 34,75"
+   },
+   {
+    "html": "Seu Antônio tinha <b>R$ 200,00</b>. Gastou <b>R$ 86,70</b> na feira e <b>R$ 47,55</b> no açougue. Quanto sobrou?<div>R$ <input class=\"in\" data-a=\"65,75\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "R$ 65,75"
+   }
+  ],
+  "20": [
+   {
+    "html": "Multiplique por 10 e por 100:<div class=\"grid\"><div>3,7 × 10 = <input class=\"in\" data-a=\"37\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>0,25 × 100 = <input class=\"in\" data-a=\"25\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>4,125 × 10 = <input class=\"in\" data-a=\"41,25\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>0,9 × 100 = <input class=\"in\" data-a=\"90\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "37 · 25 · 41,25 · 90"
+   },
+   {
+    "html": "Multiplique por 10 e por 100:<div class=\"grid\"><div>6,4 × 10 = <input class=\"in\" data-a=\"64\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>1,08 × 100 = <input class=\"in\" data-a=\"108\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>0,375 × 10 = <input class=\"in\" data-a=\"3,75\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>2,5 × 100 = <input class=\"in\" data-a=\"250\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "64 · 108 · 3,75 · 250"
+   },
+   {
+    "html": "Multiplique por 10 e por 100:<div class=\"grid\"><div>0,8 × 10 = <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>3,46 × 100 = <input class=\"in\" data-a=\"346\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>2,045 × 10 = <input class=\"in\" data-a=\"20,45\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>0,07 × 100 = <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "8 · 346 · 20,45 · 7"
+   }
+  ]
+ }
+}
