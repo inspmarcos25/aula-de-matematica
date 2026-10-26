@@ -1,0 +1,75 @@
+{
+ "ficha": 4,
+ "qs": {
+  "16": [
+   {
+    "html": "Resolva as divisões:<div class=\"row\"><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">936</span><span class=\"dvs\">4</span></div><label>Quociente <input class=\"in\" data-a=\"234\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"0\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">857</span><span class=\"dvs\">6</span></div><label>Quociente <input class=\"in\" data-a=\"142\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"5\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">1.584</span><span class=\"dvs\">12</span></div><label>Quociente <input class=\"in\" data-a=\"132\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"0\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div></div>",
+    "gab": "234 · 142 resto 5 · 132"
+   },
+   {
+    "html": "Resolva as divisões:<div class=\"row\"><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">765</span><span class=\"dvs\">5</span></div><label>Quociente <input class=\"in\" data-a=\"153\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"0\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">923</span><span class=\"dvs\">7</span></div><label>Quociente <input class=\"in\" data-a=\"131\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">2.016</span><span class=\"dvs\">14</span></div><label>Quociente <input class=\"in\" data-a=\"144\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"0\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div></div>",
+    "gab": "153 · 131 resto 6 · 144"
+   },
+   {
+    "html": "Resolva as divisões:<div class=\"row\"><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">872</span><span class=\"dvs\">8</span></div><label>Quociente <input class=\"in\" data-a=\"109\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"0\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">659</span><span class=\"dvs\">3</span></div><label>Quociente <input class=\"in\" data-a=\"219\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"2\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">1.875</span><span class=\"dvs\">15</span></div><label>Quociente <input class=\"in\" data-a=\"125\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"0\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div></div>",
+    "gab": "109 · 219 resto 2 · 125"
+   }
+  ],
+  "17": [
+   {
+    "html": "Confira a divisão de 857 por 6: quociente × divisor + resto.<div class=\"big\">142 × 6 + 5 = <input class=\"in\" data-a=\"857\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "857"
+   },
+   {
+    "html": "Confira a divisão de 923 por 7: quociente × divisor + resto.<div class=\"big\">131 × 7 + 6 = <input class=\"in\" data-a=\"923\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "923"
+   },
+   {
+    "html": "Confira a divisão de 659 por 3: quociente × divisor + resto.<div class=\"big\">219 × 3 + 2 = <input class=\"in\" data-a=\"659\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "659"
+   }
+  ],
+  "18": [
+   {
+    "html": "Júlia tem <b>345 adesivos</b> e vai colá-los em cartelas com <b>6</b> em cada. Quantas cartelas completas ela consegue? Quantos adesivos sobram?<div class=\"row\"><svg class=\"ill\" width=\"110\" height=\"70\" viewBox=\"0 0 110 70\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"8\" y=\"8\" width=\"94\" height=\"54\" rx=\"6\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><path transform=\"translate(24,24) scale(0.55)\" d=\"M0 -16 L4.7 -6.5 L15.2 -4.9 L7.6 2.5 L9.4 13 L0 8 L-9.4 13 L-7.6 2.5 L-15.2 -4.9 L-4.7 -6.5 Z\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1.6\"/><path transform=\"translate(55,24) scale(0.55)\" d=\"M0 -16 L4.7 -6.5 L15.2 -4.9 L7.6 2.5 L9.4 13 L0 8 L-9.4 13 L-7.6 2.5 L-15.2 -4.9 L-4.7 -6.5 Z\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1.6\"/><path transform=\"translate(86,24) scale(0.55)\" d=\"M0 -16 L4.7 -6.5 L15.2 -4.9 L7.6 2.5 L9.4 13 L0 8 L-9.4 13 L-7.6 2.5 L-15.2 -4.9 L-4.7 -6.5 Z\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1.6\"/><path transform=\"translate(24,48) scale(0.55)\" d=\"M0 -16 L4.7 -6.5 L15.2 -4.9 L7.6 2.5 L9.4 13 L0 8 L-9.4 13 L-7.6 2.5 L-15.2 -4.9 L-4.7 -6.5 Z\" fill=\"#7fd3a0\" stroke=\"#2b2b3a\" stroke-width=\"1.6\"/><path transform=\"translate(55,48) scale(0.55)\" d=\"M0 -16 L4.7 -6.5 L15.2 -4.9 L7.6 2.5 L9.4 13 L0 8 L-9.4 13 L-7.6 2.5 L-15.2 -4.9 L-4.7 -6.5 Z\" fill=\"#a77bd1\" stroke=\"#2b2b3a\" stroke-width=\"1.6\"/><path transform=\"translate(86,48) scale(0.55)\" d=\"M0 -16 L4.7 -6.5 L15.2 -4.9 L7.6 2.5 L9.4 13 L0 8 L-9.4 13 L-7.6 2.5 L-15.2 -4.9 L-4.7 -6.5 Z\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"1.6\"/></svg><div class=\"grid\"><div>Cartelas: <input class=\"in\" data-a=\"57\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Sobram: <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "57 cartelas · sobram 3"
+   },
+   {
+    "html": "Uma granja recolheu <b>190 ovos</b> e vai colocá-los em caixas com <b>12</b> cada. Quantas caixas completas ela consegue? Quantos ovos sobram?<div class=\"row\"><svg class=\"ill\" width=\"120\" height=\"64\" viewBox=\"0 0 120 64\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"4\" y=\"24\" width=\"112\" height=\"34\" rx=\"5\" fill=\"#c9a77c\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><ellipse cx=\"16\" cy=\"24\" rx=\"7\" ry=\"9\" fill=\"#fffaf0\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><ellipse cx=\"34\" cy=\"24\" rx=\"7\" ry=\"9\" fill=\"#fffaf0\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><ellipse cx=\"52\" cy=\"24\" rx=\"7\" ry=\"9\" fill=\"#fffaf0\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><ellipse cx=\"70\" cy=\"24\" rx=\"7\" ry=\"9\" fill=\"#fffaf0\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><ellipse cx=\"88\" cy=\"24\" rx=\"7\" ry=\"9\" fill=\"#fffaf0\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><ellipse cx=\"106\" cy=\"24\" rx=\"7\" ry=\"9\" fill=\"#fffaf0\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/></svg><div class=\"grid\"><div>Caixas: <input class=\"in\" data-a=\"15\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Sobram: <input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "15 caixas · sobram 10"
+   },
+   {
+    "html": "Uma escola tem <b>278 alunos</b> e vai formar times com <b>9</b> alunos cada para a gincana. Quantos times completos dá para formar? Quantos alunos sobram?<div class=\"row\"><svg class=\"ill\" width=\"120\" height=\"64\" viewBox=\"0 0 120 64\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"18\" cy=\"34\" r=\"12\" fill=\"#F07E26\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><path d=\"M6 34 h24 M18 22 v24\" stroke=\"#2b2b3a\" stroke-width=\"1\" opacity=\".5\"/><circle cx=\"46\" cy=\"34\" r=\"12\" fill=\"#ffffff\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><path d=\"M34 34 h24 M46 22 v24\" stroke=\"#2b2b3a\" stroke-width=\"1\" opacity=\".5\"/><circle cx=\"74\" cy=\"34\" r=\"12\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><path d=\"M62 34 h24 M74 22 v24\" stroke=\"#2b2b3a\" stroke-width=\"1\" opacity=\".5\"/><circle cx=\"102\" cy=\"34\" r=\"12\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1.4\"/><path d=\"M90 34 h24 M102 22 v24\" stroke=\"#2b2b3a\" stroke-width=\"1\" opacity=\".5\"/></svg><div class=\"grid\"><div>Times: <input class=\"in\" data-a=\"30\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Sobram: <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "30 times · sobram 8"
+   }
+  ],
+  "19": [
+   {
+    "html": "A divisão é a operação inversa da multiplicação. Complete:<div class=\"grid\"><div>7 × 8 = 56 → 56 ÷ 8 = <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>9 × 6 = 54 → 54 ÷ 9 = <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div><input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> × 4 = 36 → 36 ÷ 4 = 9</div><div>11 × 5 = <input class=\"in\" data-a=\"55\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> → 55 ÷ 5 = 11</div></div>",
+    "gab": "7 · 6 · 9 · 55"
+   },
+   {
+    "html": "A divisão é a operação inversa da multiplicação. Complete:<div class=\"grid\"><div>6 × 9 = 54 → 54 ÷ 9 = <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>8 × 7 = 56 → 56 ÷ 8 = <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div><input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> × 6 = 42 → 42 ÷ 6 = 7</div><div>15 × 3 = <input class=\"in\" data-a=\"45\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> → 45 ÷ 3 = 15</div></div>",
+    "gab": "6 · 7 · 7 · 45"
+   },
+   {
+    "html": "A divisão é a operação inversa da multiplicação. Complete:<div class=\"grid\"><div>9 × 7 = 63 → 63 ÷ 7 = <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>4 × 8 = 32 → 32 ÷ 4 = <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div><input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> × 9 = 81 → 81 ÷ 9 = 9</div><div>13 × 6 = <input class=\"in\" data-a=\"78\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> → 78 ÷ 6 = 13</div></div>",
+    "gab": "9 · 8 · 9 · 78"
+   }
+  ],
+  "20": [
+   {
+    "html": "Uma fábrica fez <b>208 bombons</b> e vai colocá-los em caixas com <b>16 bombons</b> cada. Quantas caixas serão necessárias?<div><input class=\"in\" data-a=\"13\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> caixas</div>",
+    "gab": "13 caixas"
+   },
+   {
+    "html": "Na feira, seu Antônio tem <b>225 laranjas</b> e vai colocá-las em sacos com <b>15 laranjas</b> cada. Quantos sacos ele vai usar?<div><input class=\"in\" data-a=\"15\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> sacos</div>",
+    "gab": "15 sacos"
+   },
+   {
+    "html": "Um sítio recolheu <b>420 ovos</b> e vai arrumá-los em bandejas com <b>30 ovos</b> cada. Quantas bandejas serão necessárias?<div><input class=\"in\" data-a=\"14\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> bandejas</div>",
+    "gab": "14 bandejas"
+   }
+  ]
+ }
+}

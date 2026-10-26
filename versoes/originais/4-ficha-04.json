@@ -1,0 +1,32 @@
+{
+ "ficha": 4,
+ "title": "Divisão",
+ "sub": "Divisão exata, com resto e problemas",
+ "qs": [
+  {
+   "n": 16,
+   "html": "Resolva as divisões:<div class=\"row\"><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">846</span><span class=\"dvs\">6</span></div><label>Quociente <input class=\"in\" data-a=\"141\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"0\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">975</span><span class=\"dvs\">4</span></div><label>Quociente <input class=\"in\" data-a=\"243\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div><div class=\"chave\"><div class=\"cg\"><span class=\"dvd\">1.536</span><span class=\"dvs\">12</span></div><label>Quociente <input class=\"in\" data-a=\"128\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label><label>Resto <input class=\"in\" data-a=\"0\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></label></div></div>",
+   "gab": "141 · 243 resto 3 · 128"
+  },
+  {
+   "n": 17,
+   "html": "Confira a divisão de 975 por 4: quociente × divisor + resto.<div class=\"big\">243 × 4 + 3 = <input class=\"in\" data-a=\"975\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "975"
+  },
+  {
+   "n": 18,
+   "html": "Lucas tem <b>250 figurinhas</b> e vai guardá-las em pacotes com <b>8</b> cada. Quantos pacotes completos ele consegue? Quantas sobram?<div class=\"row\"><svg class=\"ill\" width=\"110\" height=\"70\" viewBox=\"0 0 110 70\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"6\" y=\"10\" width=\"30\" height=\"40\" rx=\"3\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1.2\" transform=\"rotate(-12 20 30)\"/><rect x=\"24\" y=\"16\" width=\"30\" height=\"40\" rx=\"3\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1.2\" transform=\"rotate(-4 38 30)\"/><rect x=\"42\" y=\"10\" width=\"30\" height=\"40\" rx=\"3\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1.2\" transform=\"rotate(4 56 30)\"/><rect x=\"60\" y=\"16\" width=\"30\" height=\"40\" rx=\"3\" fill=\"#7fd3a0\" stroke=\"#2b2b3a\" stroke-width=\"1.2\" transform=\"rotate(12 74 30)\"/></svg><div class=\"grid\"><div>Pacotes: <input class=\"in\" data-a=\"31\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Sobram: <input class=\"in\" data-a=\"2\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+   "gab": "31 pacotes · sobram 2"
+  },
+  {
+   "n": 19,
+   "html": "A divisão é a operação inversa da multiplicação. Complete:<div class=\"grid\"><div>8 × 9 = 72 → 72 ÷ 9 = <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>6 × 7 = 42 → 42 ÷ 6 = <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div><input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> × 5 = 45 → 45 ÷ 5 = 9</div><div>12 × 4 = <input class=\"in\" data-a=\"48\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> → 48 ÷ 4 = 12</div></div>",
+   "gab": "8 · 7 · 9 · 48"
+  },
+  {
+   "n": 20,
+   "html": "Uma padaria fez <b>144 pães</b> e vai colocá-los em sacos com <b>12 pães</b> cada. Quantos sacos serão necessários?<div><input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> sacos</div>",
+   "gab": "12 sacos"
+  }
+ ]
+}

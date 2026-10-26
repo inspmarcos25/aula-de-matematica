@@ -1,0 +1,32 @@
+{
+ "ficha": 6,
+ "title": "Números decimais e dinheiro",
+ "sub": "Décimos, centésimos e o real",
+ "qs": [
+  {
+   "n": 26,
+   "html": "Escreva na forma decimal (use vírgula):<div class=\"grid\"><div><span class=\"fr\"><span>3</span><span>10</span></span> = <input class=\"in\" data-a=\"0,3\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>45</span><span>100</span></span> = <input class=\"in\" data-a=\"0,45\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div><span class=\"fr\"><span>7</span><span>10</span></span> = <input class=\"in\" data-a=\"0,7\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "0,3 · 0,45 · 0,7"
+  },
+  {
+   "n": 27,
+   "html": "Ana comprou um livro de <b>R$ 12,75</b> e um caderno de <b>R$ 8,50</b>. Quanto gastou?<div class=\"row\"><div class=\"arm\"><div class=\"r\">12,75</div><div class=\"r\"><b class=\"op\">+</b> 8,50</div><div class=\"bar\"></div><input class=\"in\" data-a=\"21,25\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "R$ 21,25"
+  },
+  {
+   "n": 28,
+   "html": "Paguei uma compra de <b>R$ 37,80</b> com uma nota de <b>R$ 50,00</b>. Qual foi o troco?<div class=\"row\"><svg class=\"ill\" width=\"104\" height=\"54\" viewBox=\"0 0 104 54\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(4,2)\"><rect width=\"96\" height=\"48\" rx=\"5\" fill=\"#d98c4a\" stroke=\"#00000033\"/><rect x=\"4\" y=\"4\" width=\"88\" height=\"40\" rx=\"3\" fill=\"none\" stroke=\"#ffffffaa\" stroke-dasharray=\"3 2\"/><circle cx=\"30.72\" cy=\"24.0\" r=\"13.440000000000001\" fill=\"#ffffff55\"/><text x=\"88\" y=\"26.400000000000002\" text-anchor=\"end\" font-family=\"Fredoka\" font-weight=\"700\" font-size=\"20.16\" fill=\"#fff\">50</text><text x=\"88\" y=\"40.8\" text-anchor=\"end\" font-family=\"Nunito\" font-weight=\"800\" font-size=\"8.64\" fill=\"#fff\">REAIS</text></g></svg><div class=\"arm\"><div class=\"r\">50,00</div><div class=\"r\"><b class=\"op\">−</b>37,80</div><div class=\"bar\"></div><input class=\"in\" data-a=\"12,20\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "R$ 12,20"
+  },
+  {
+   "n": 29,
+   "html": "Clique nas moedas para formar <b>exatamente R$ 2,35</b>.<div class=\"money\" data-target=\"2.35\" data-items=\"1,0.5,0.25,0.1,0.05\" data-t=\"m\"></div>",
+   "gab": "Ex.: 2 × R$ 1 + 25¢ + 10¢"
+  },
+  {
+   "n": 30,
+   "html": "Coloque os números decimais em <b>ordem crescente</b>:<div class=\"row\"><span class=\"chip\">0,5</span><span class=\"chip\">0,25</span><span class=\"chip\">0,75</span><span class=\"chip\">0,1</span></div><div class=\"seq\"><input class=\"in\" data-a=\"0,1\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &lt; <input class=\"in\" data-a=\"0,25\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &lt; <input class=\"in\" data-a=\"0,5\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &lt; <input class=\"in\" data-a=\"0,75\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "0,1 < 0,25 < 0,5 < 0,75"
+  }
+ ]
+}

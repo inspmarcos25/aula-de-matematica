@@ -1,0 +1,75 @@
+{
+ "ficha": 2,
+ "qs": {
+  "6": [
+   {
+    "html": "Efetue:<div class=\"row\"><div class=\"arm\"><div class=\"r\">46.789</div><div class=\"r\"><b class=\"op\">+</b>25.437</div><div class=\"bar\"></div><input class=\"in\" data-a=\"72226\" data-t=\"n\" style=\"width:133px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">70.000</div><div class=\"r\"><b class=\"op\">−</b>34.528</div><div class=\"bar\"></div><input class=\"in\" data-a=\"35472\" data-t=\"n\" style=\"width:133px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "72.226 · 35.472"
+   },
+   {
+    "html": "Efetue:<div class=\"row\"><div class=\"arm\"><div class=\"r\">28.956</div><div class=\"r\"><b class=\"op\">+</b>43.678</div><div class=\"bar\"></div><input class=\"in\" data-a=\"72634\" data-t=\"n\" style=\"width:133px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">60.000</div><div class=\"r\"><b class=\"op\">−</b>27.394</div><div class=\"bar\"></div><input class=\"in\" data-a=\"32606\" data-t=\"n\" style=\"width:133px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "72.634 · 32.606"
+   },
+   {
+    "html": "Efetue:<div class=\"row\"><div class=\"arm\"><div class=\"r\">57.348</div><div class=\"r\"><b class=\"op\">+</b>31.875</div><div class=\"bar\"></div><input class=\"in\" data-a=\"89223\" data-t=\"n\" style=\"width:133px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">80.000</div><div class=\"r\"><b class=\"op\">−</b>45.769</div><div class=\"bar\"></div><input class=\"in\" data-a=\"34231\" data-t=\"n\" style=\"width:133px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "89.223 · 34.231"
+   }
+  ],
+  "7": [
+   {
+    "html": "Para um show foram colocados à venda <b>25.000</b> ingressos. Já foram vendidos <b>18.346</b>. Quantos ingressos ainda faltam vender?<div class=\"row\"><svg class=\"ill\" width=\"150\" height=\"66\" viewBox=\"0 0 150 66\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"12\" y=\"10\" width=\"126\" height=\"46\" rx=\"6\" fill=\"#ffcf33\"/><circle cx=\"12\" cy=\"33\" r=\"7\" fill=\"#fff\"/><circle cx=\"138\" cy=\"33\" r=\"7\" fill=\"#fff\"/><line x1=\"100\" y1=\"14\" x2=\"100\" y2=\"52\" stroke=\"#c99a1a\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/><text x=\"56\" y=\"30\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#5a4a1a\">SHOW</text><text x=\"56\" y=\"46\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5a4a1a\">INGRESSO</text><text x=\"119\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" fill=\"#e5506a\">★</text></svg><input class=\"in\" data-a=\"6654\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> ingressos</div>",
+    "gab": "6.654 ingressos"
+   },
+   {
+    "html": "Uma maratona teve <b>12.000</b> corredores inscritos e <b>9.638</b> chegaram ao final. Quantos corredores não terminaram a prova?<div class=\"row\"><svg class=\"ill\" width=\"150\" height=\"66\" viewBox=\"0 0 150 66\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"0\" y=\"54\" width=\"150\" height=\"12\" fill=\"#d98c4a\"/><rect x=\"20\" y=\"8\" width=\"4\" height=\"48\" fill=\"#5d6678\"/><rect x=\"126\" y=\"8\" width=\"4\" height=\"48\" fill=\"#5d6678\"/><rect x=\"24\" y=\"8\" width=\"102\" height=\"16\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"1.5\"/><rect x=\"24.00\" y=\"8\" width=\"12.75\" height=\"8\" fill=\"#2b2b3a\"/><rect x=\"36.75\" y=\"16\" width=\"12.75\" height=\"8\" fill=\"#2b2b3a\"/><rect x=\"49.50\" y=\"8\" width=\"12.75\" height=\"8\" fill=\"#2b2b3a\"/><rect x=\"62.25\" y=\"16\" width=\"12.75\" height=\"8\" fill=\"#2b2b3a\"/><rect x=\"75.00\" y=\"8\" width=\"12.75\" height=\"8\" fill=\"#2b2b3a\"/><rect x=\"87.75\" y=\"16\" width=\"12.75\" height=\"8\" fill=\"#2b2b3a\"/><rect x=\"100.50\" y=\"8\" width=\"12.75\" height=\"8\" fill=\"#2b2b3a\"/><rect x=\"113.25\" y=\"16\" width=\"12.75\" height=\"8\" fill=\"#2b2b3a\"/><text x=\"75\" y=\"44\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#2b2b3a\">CHEGADA</text></svg><input class=\"in\" data-a=\"2362\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> corredores</div>",
+    "gab": "2.362 corredores"
+   },
+   {
+    "html": "A biblioteca da cidade tem <b>20.000</b> livros. Hoje, <b>13.587</b> estão emprestados. Quantos livros estão nas prateleiras?<div class=\"row\"><svg class=\"ill\" width=\"150\" height=\"66\" viewBox=\"0 0 150 66\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"4\" width=\"130\" height=\"60\" rx=\"3\" fill=\"#c98b4b\"/><rect x=\"16\" y=\"8\" width=\"118\" height=\"24\" fill=\"#f3e3cf\"/><rect x=\"16\" y=\"36\" width=\"118\" height=\"24\" fill=\"#f3e3cf\"/><rect x=\"18\" y=\"14\" width=\"9\" height=\"18\" fill=\"#e5506a\"/><rect x=\"29\" y=\"12\" width=\"9\" height=\"20\" fill=\"#4c9be8\"/><rect x=\"40\" y=\"12\" width=\"9\" height=\"20\" fill=\"#ffcf33\"/><rect x=\"51\" y=\"14\" width=\"9\" height=\"18\" fill=\"#7fd3a0\"/><rect x=\"62\" y=\"12\" width=\"9\" height=\"20\" fill=\"#a77bd1\"/><rect x=\"73\" y=\"12\" width=\"9\" height=\"20\" fill=\"#e58a5a\"/><rect x=\"84\" y=\"14\" width=\"9\" height=\"18\" fill=\"#4c9be8\"/><rect x=\"95\" y=\"12\" width=\"9\" height=\"20\" fill=\"#e5506a\"/><rect x=\"106\" y=\"12\" width=\"9\" height=\"20\" fill=\"#ffcf33\"/><rect x=\"117\" y=\"14\" width=\"9\" height=\"18\" fill=\"#7fd3a0\"/><rect x=\"18\" y=\"42\" width=\"9\" height=\"18\" fill=\"#a77bd1\"/><rect x=\"29\" y=\"40\" width=\"9\" height=\"20\" fill=\"#ffcf33\"/><rect x=\"40\" y=\"42\" width=\"9\" height=\"18\" fill=\"#e5506a\"/><rect x=\"51\" y=\"40\" width=\"9\" height=\"20\" fill=\"#4c9be8\"/><rect x=\"62\" y=\"42\" width=\"9\" height=\"18\" fill=\"#7fd3a0\"/><rect x=\"73\" y=\"40\" width=\"9\" height=\"20\" fill=\"#e58a5a\"/></svg><input class=\"in\" data-a=\"6413\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> livros</div>",
+    "gab": "6.413 livros"
+   }
+  ],
+  "8": [
+   {
+    "html": "Faça a <b>prova real</b> da subtração:<div class=\"big\">9.312 − 4.785 = <input class=\"in\" data-a=\"4527\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"big\">Prova: <input class=\"in\" data-a=\"4527\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 4.785 = <input class=\"in\" data-a=\"9312\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "4.527 · 4.527 + 4.785 = 9.312"
+   },
+   {
+    "html": "Faça a <b>prova real</b> da subtração:<div class=\"big\">7.064 − 2.398 = <input class=\"in\" data-a=\"4666\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"big\">Prova: <input class=\"in\" data-a=\"4666\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 2.398 = <input class=\"in\" data-a=\"7064\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "4.666 · 4.666 + 2.398 = 7.064"
+   },
+   {
+    "html": "Faça a <b>prova real</b> da subtração:<div class=\"big\">6.250 − 1.873 = <input class=\"in\" data-a=\"4377\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"big\">Prova: <input class=\"in\" data-a=\"4377\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 1.873 = <input class=\"in\" data-a=\"6250\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "4.377 · 4.377 + 1.873 = 6.250"
+   }
+  ],
+  "9": [
+   {
+    "html": "Resolva a expressão:<div class=\"big\">2.360 + 4.150 − 1.510 = <input class=\"in\" data-a=\"5000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "5.000"
+   },
+   {
+    "html": "Resolva a expressão:<div class=\"big\">5.400 − 2.750 + 1.350 = <input class=\"in\" data-a=\"4000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "4.000"
+   },
+   {
+    "html": "Resolva a expressão:<div class=\"big\">3.725 + 1.275 − 2.500 = <input class=\"in\" data-a=\"2500\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "2.500"
+   }
+  ],
+  "10": [
+   {
+    "html": "Uma cidade tinha <b>23.480</b> habitantes em 2010 e <b>31.205</b> em 2020. Quantos habitantes a mais a cidade tinha em 2020?<div><input class=\"in\" data-a=\"7725\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> habitantes</div>",
+    "gab": "7.725 habitantes"
+   },
+   {
+    "html": "Uma fábrica de sucos encheu <b>15.200</b> garrafas na segunda-feira e <b>12.785</b> na terça-feira. Quantas garrafas a menos foram enchidas na terça?<div><input class=\"in\" data-a=\"2415\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> garrafas</div>",
+    "gab": "2.415 garrafas"
+   },
+   {
+    "html": "Na campanha do agasalho, a escola de Helena arrecadou <b>10.430</b> peças e a escola de Otávio arrecadou <b>8.965</b>. Quantas peças a escola de Helena arrecadou a mais?<div><input class=\"in\" data-a=\"1465\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> peças</div>",
+    "gab": "1.465 peças"
+   }
+  ]
+ }
+}

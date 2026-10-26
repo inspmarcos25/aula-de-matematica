@@ -1,0 +1,32 @@
+{
+ "ficha": 1,
+ "title": "Números até 99.999",
+ "sub": "Leitura, escrita, decomposição e ordem",
+ "qs": [
+  {
+   "n": 1,
+   "html": "Escreva por extenso o número <b>45.308</b>:<div><input class=\"in\" data-a=\"quarenta e cinco mil trezentos e oito\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "Quarenta e cinco mil, trezentos e oito"
+  },
+  {
+   "n": 2,
+   "html": "Decomponha o número <b>72.416</b>:<div class=\"big\">72.416 = <input class=\"in\" data-a=\"70000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"2000\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"400\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:40px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "70.000 + 2.000 + 400 + 10 + 6"
+  },
+  {
+   "n": 3,
+   "html": "Observe o quadro de ordens e responda:<table class=\"ord\"><tr><th>DM</th><th>UM</th><th>C</th><th>D</th><th>U</th></tr><tr><td>6</td><td>3</td><td>8</td><td>4</td><td>5</td></tr></table><div class=\"grid\"><div>a) Que número está representado? <input class=\"in\" data-a=\"63845\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Qual o valor do algarismo 3? <input class=\"in\" data-a=\"3000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "a) 63.845 · b) 3.000"
+  },
+  {
+   "n": 4,
+   "html": "Usando os cartões, sem repetir, forme:<div class=\"row\"><span class=\"card\">4</span><span class=\"card\">9</span><span class=\"card\">1</span><span class=\"card\">7</span><span class=\"card\">0</span></div><div class=\"grid\"><div>a) o <b>maior</b> número possível: <input class=\"in\" data-a=\"97410\" data-t=\"n\" style=\"width:86px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) o <b>menor</b> número de 5 algarismos: <input class=\"in\" data-a=\"10479\" data-t=\"n\" style=\"width:86px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "a) 97.410 · b) 10.479"
+  },
+  {
+   "n": 5,
+   "html": "Escreva em <b>ordem decrescente</b> (do maior para o menor):<div class=\"row\"><span class=\"chip\">38.205</span><span class=\"chip\">38.520</span><span class=\"chip\">32.850</span><span class=\"chip\">38.250</span></div><div class=\"seq\"><input class=\"in\" data-a=\"38520\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"38250\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"38205\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"32850\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "38.520 > 38.250 > 38.205 > 32.850"
+  }
+ ]
+}

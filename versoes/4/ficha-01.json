@@ -1,0 +1,75 @@
+{
+ "ficha": 1,
+ "qs": {
+  "1": [
+   {
+    "html": "Escreva por extenso o número <b>27.091</b>:<div><input class=\"in\" data-a=\"vinte e sete mil e noventa e um|vinte e sete mil noventa e um\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "Vinte e sete mil e noventa e um"
+   },
+   {
+    "html": "Escreva por extenso o número <b>80.540</b>:<div><input class=\"in\" data-a=\"oitenta mil quinhentos e quarenta\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "Oitenta mil, quinhentos e quarenta"
+   },
+   {
+    "html": "Escreva por extenso o número <b>63.017</b>:<div><input class=\"in\" data-a=\"sessenta e três mil e dezessete|sessenta e três mil dezessete\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "Sessenta e três mil e dezessete"
+   }
+  ],
+  "2": [
+   {
+    "html": "Decomponha o número <b>38.527</b>:<div class=\"big\">38.527 = <input class=\"in\" data-a=\"30000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"8000\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"500\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"20\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:40px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "30.000 + 8.000 + 500 + 20 + 7"
+   },
+   {
+    "html": "Decomponha o número <b>91.648</b>:<div class=\"big\">91.648 = <input class=\"in\" data-a=\"90000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"1000\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"600\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"40\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:40px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "90.000 + 1.000 + 600 + 40 + 8"
+   },
+   {
+    "html": "Decomponha o número <b>46.293</b>:<div class=\"big\">46.293 = <input class=\"in\" data-a=\"40000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"6000\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"200\" data-t=\"n\" style=\"width:54px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"90\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:40px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "40.000 + 6.000 + 200 + 90 + 3"
+   }
+  ],
+  "3": [
+   {
+    "html": "Observe o quadro de ordens e responda:<table class=\"ord\"><tr><th>DM</th><th>UM</th><th>C</th><th>D</th><th>U</th></tr><tr><td>5</td><td>9</td><td>2</td><td>7</td><td>1</td></tr></table><div class=\"grid\"><div>a) Que número está representado? <input class=\"in\" data-a=\"59271\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Qual o valor do algarismo 9? <input class=\"in\" data-a=\"9000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "a) 59.271 · b) 9.000"
+   },
+   {
+    "html": "Observe o quadro de ordens e responda:<table class=\"ord\"><tr><th>DM</th><th>UM</th><th>C</th><th>D</th><th>U</th></tr><tr><td>8</td><td>2</td><td>4</td><td>1</td><td>6</td></tr></table><div class=\"grid\"><div>a) Que número está representado? <input class=\"in\" data-a=\"82416\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Qual o valor do algarismo 4? <input class=\"in\" data-a=\"400\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "a) 82.416 · b) 400"
+   },
+   {
+    "html": "Observe o quadro de ordens e responda:<table class=\"ord\"><tr><th>DM</th><th>UM</th><th>C</th><th>D</th><th>U</th></tr><tr><td>4</td><td>7</td><td>5</td><td>6</td><td>3</td></tr></table><div class=\"grid\"><div>a) Que número está representado? <input class=\"in\" data-a=\"47563\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Qual o valor do algarismo 7? <input class=\"in\" data-a=\"7000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "a) 47.563 · b) 7.000"
+   }
+  ],
+  "4": [
+   {
+    "html": "Usando os cartões, sem repetir, forme:<div class=\"row\"><span class=\"card\">3</span><span class=\"card\">8</span><span class=\"card\">0</span><span class=\"card\">5</span><span class=\"card\">6</span></div><div class=\"grid\"><div>a) o <b>maior</b> número possível: <input class=\"in\" data-a=\"86530\" data-t=\"n\" style=\"width:86px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) o <b>menor</b> número de 5 algarismos: <input class=\"in\" data-a=\"30568\" data-t=\"n\" style=\"width:86px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "a) 86.530 · b) 30.568"
+   },
+   {
+    "html": "Usando os cartões, sem repetir, forme:<div class=\"row\"><span class=\"card\">2</span><span class=\"card\">0</span><span class=\"card\">9</span><span class=\"card\">6</span><span class=\"card\">4</span></div><div class=\"grid\"><div>a) o <b>maior</b> número possível: <input class=\"in\" data-a=\"96420\" data-t=\"n\" style=\"width:86px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) o <b>menor</b> número de 5 algarismos: <input class=\"in\" data-a=\"20469\" data-t=\"n\" style=\"width:86px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "a) 96.420 · b) 20.469"
+   },
+   {
+    "html": "Usando os cartões, sem repetir, forme:<div class=\"row\"><span class=\"card\">7</span><span class=\"card\">1</span><span class=\"card\">5</span><span class=\"card\">0</span><span class=\"card\">8</span></div><div class=\"grid\"><div>a) o <b>maior</b> número possível: <input class=\"in\" data-a=\"87510\" data-t=\"n\" style=\"width:86px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) o <b>menor</b> número de 5 algarismos: <input class=\"in\" data-a=\"10578\" data-t=\"n\" style=\"width:86px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "a) 87.510 · b) 10.578"
+   }
+  ],
+  "5": [
+   {
+    "html": "Escreva em <b>ordem decrescente</b> (do maior para o menor):<div class=\"row\"><span class=\"chip\">47.103</span><span class=\"chip\">47.310</span><span class=\"chip\">41.730</span><span class=\"chip\">47.130</span></div><div class=\"seq\"><input class=\"in\" data-a=\"47310\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"47130\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"47103\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"41730\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "47.310 > 47.130 > 47.103 > 41.730"
+   },
+   {
+    "html": "Escreva em <b>ordem decrescente</b> (do maior para o menor):<div class=\"row\"><span class=\"chip\">65.890</span><span class=\"chip\">56.980</span><span class=\"chip\">65.098</span><span class=\"chip\">65.980</span></div><div class=\"seq\"><input class=\"in\" data-a=\"65980\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"65890\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"65098\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"56980\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "65.980 > 65.890 > 65.098 > 56.980"
+   },
+   {
+    "html": "Escreva em <b>ordem decrescente</b> (do maior para o menor):<div class=\"row\"><span class=\"chip\">29.405</span><span class=\"chip\">24.950</span><span class=\"chip\">29.540</span><span class=\"chip\">29.450</span></div><div class=\"seq\"><input class=\"in\" data-a=\"29540\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"29450\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"29405\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &gt; <input class=\"in\" data-a=\"24950\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "29.540 > 29.450 > 29.405 > 24.950"
+   }
+  ]
+ }
+}
