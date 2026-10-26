@@ -313,6 +313,10 @@ button.tab[data-g="tabu"]{box-shadow:inset 0 4px #b48ae6}
 .tb-res em{font-style:normal;color:var(--star);letter-spacing:1px}
 .tb-res em i{font-style:normal;color:var(--line)}
 
+/* crédito no rodapé da página */
+.credit{text-align:center;font-size:13px;font-weight:700;color:var(--muted);padding-block:0 max(24px,env(safe-area-inset-bottom,0px))}
+.credit b{color:var(--d);font-weight:800}
+.wrap.reset{padding-bottom:12px}
 /* rodapé da ficha */
 .sfoot{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-top:18px;padding-top:14px;border-top:2px dashed var(--line)}
 .sfoot .bncc{font-size:12px;font-weight:800;color:var(--muted)}
@@ -396,6 +400,7 @@ button.tab[data-g="tabu"]{box-shadow:inset 0 4px #b48ae6}
   <section class="tb-view" id="tabu" hidden aria-label="Tabuada de multiplicar"></section>
 </main>
 <div class="wrap reset"><button class="linkbtn" id="reset">Zerar respostas</button></div>
+<footer class="wrap credit">Criado por <b>Marcos Noronha</b></footer>
 <div class="zov" id="zov" hidden>
   <div class="zbox" role="dialog" aria-modal="true" aria-labelledby="ztitle">
     <h3 id="ztitle">Zerar respostas</h3>
