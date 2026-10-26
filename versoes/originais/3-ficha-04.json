@@ -1,0 +1,32 @@
+{
+ "ficha": 4,
+ "title": "Subtração",
+ "sub": "Tirar, comparar e completar quantidades",
+ "qs": [
+  {
+   "n": 16,
+   "html": "Efetue as subtrações:<div class=\"row\"><div class=\"arm\"><div class=\"r\">4.876</div><div class=\"r\"><b class=\"op\">−</b>2.543</div><div class=\"bar\"></div><input class=\"in\" data-a=\"2333\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">5.000</div><div class=\"r\"><b class=\"op\">−</b>1.275</div><div class=\"bar\"></div><input class=\"in\" data-a=\"3725\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">732</div><div class=\"r\"><b class=\"op\">−</b>458</div><div class=\"bar\"></div><input class=\"in\" data-a=\"274\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "2.333 · 3.725 · 274"
+  },
+  {
+   "n": 17,
+   "html": "Pedro tinha <b>R$ 900,00</b> guardados e comprou uma bicicleta de <b>R$ 365,00</b>. Quanto dinheiro sobrou?<div class=\"row\"><svg class=\"ill\" width=\"110\" height=\"72\" viewBox=\"0 0 110 72\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"25\" cy=\"50\" r=\"18\" fill=\"none\" stroke=\"#2b2b3a\" stroke-width=\"4\"/><circle cx=\"85\" cy=\"50\" r=\"18\" fill=\"none\" stroke=\"#2b2b3a\" stroke-width=\"4\"/><path d=\"M25 50 L45 22 L72 22 L85 50 M45 22 L55 50 L72 22 M40 14 h12 M68 14 l4 8\" stroke=\"#e5506a\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>R$ <input class=\"in\" data-a=\"535\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "R$ 535,00"
+  },
+  {
+   "n": 18,
+   "html": "Uma granja tinha <b>1.500</b> galinhas e vendeu <b>680</b>. Quantas galinhas ficaram na granja?<div><input class=\"in\" data-a=\"820\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> galinhas</div>",
+   "gab": "820 galinhas"
+  },
+  {
+   "n": 19,
+   "html": "Descubra o número que falta:<div class=\"grid\"><div>800 − <input class=\"in\" data-a=\"300\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 500</div><div><input class=\"in\" data-a=\"900\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> − 200 = 700</div><div>1.000 − 350 = <input class=\"in\" data-a=\"650\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>2.400 − <input class=\"in\" data-a=\"400\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 2.000</div></div>",
+   "gab": "300 · 900 · 650 · 400"
+  },
+  {
+   "n": 20,
+   "html": "Faça a <b>prova real</b>: resolva a subtração e confira somando o resultado com o número que foi tirado.<div class=\"row\"><div class=\"arm\"><div class=\"r\">963</div><div class=\"r\"><b class=\"op\">−</b>478</div><div class=\"bar\"></div><input class=\"in\" data-a=\"485\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"big\"><input class=\"in\" data-a=\"485\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 478 = <input class=\"in\" data-a=\"963\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "485 · 485 + 478 = 963"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "ficha": 4,
+ "qs": {
+  "16": [
+   {
+    "html": "Efetue as subtrações:<div class=\"row\"><div class=\"arm\"><div class=\"r\">6.798</div><div class=\"r\"><b class=\"op\">−</b>3.452</div><div class=\"bar\"></div><input class=\"in\" data-a=\"3346\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">4.000</div><div class=\"r\"><b class=\"op\">−</b>1.638</div><div class=\"bar\"></div><input class=\"in\" data-a=\"2362\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">843</div><div class=\"r\"><b class=\"op\">−</b>567</div><div class=\"bar\"></div><input class=\"in\" data-a=\"276\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "3.346 · 2.362 · 276"
+   },
+   {
+    "html": "Efetue as subtrações:<div class=\"row\"><div class=\"arm\"><div class=\"r\">5.987</div><div class=\"r\"><b class=\"op\">−</b>2.765</div><div class=\"bar\"></div><input class=\"in\" data-a=\"3222\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">3.000</div><div class=\"r\"><b class=\"op\">−</b>1.456</div><div class=\"bar\"></div><input class=\"in\" data-a=\"1544\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">921</div><div class=\"r\"><b class=\"op\">−</b>385</div><div class=\"bar\"></div><input class=\"in\" data-a=\"536\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "3.222 · 1.544 · 536"
+   },
+   {
+    "html": "Efetue as subtrações:<div class=\"row\"><div class=\"arm\"><div class=\"r\">7.659</div><div class=\"r\"><b class=\"op\">−</b>4.328</div><div class=\"bar\"></div><input class=\"in\" data-a=\"3331\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">6.000</div><div class=\"r\"><b class=\"op\">−</b>2.347</div><div class=\"bar\"></div><input class=\"in\" data-a=\"3653\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">614</div><div class=\"r\"><b class=\"op\">−</b>279</div><div class=\"bar\"></div><input class=\"in\" data-a=\"335\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "3.331 · 3.653 · 335"
+   }
+  ],
+  "17": [
+   {
+    "html": "Ana tinha <b>R$ 800,00</b> guardados e comprou um skate de <b>R$ 274,00</b>. Quanto dinheiro sobrou?<div class=\"row\"><svg class=\"ill\" width=\"110\" height=\"72\" viewBox=\"0 0 110 72\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 34 q0 10 12 10 h70 q12 0 12 -10\" fill=\"none\" stroke=\"#e5506a\" stroke-width=\"6\" stroke-linecap=\"round\"/><rect x=\"26\" y=\"44\" width=\"6\" height=\"8\" fill=\"#2b2b3a\"/><rect x=\"78\" y=\"44\" width=\"6\" height=\"8\" fill=\"#2b2b3a\"/><circle cx=\"29\" cy=\"56\" r=\"7\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><circle cx=\"81\" cy=\"56\" r=\"7\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"2\"/></svg>R$ <input class=\"in\" data-a=\"526\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "R$ 526,00"
+   },
+   {
+    "html": "Caio tinha <b>R$ 600,00</b> guardados e comprou uma bola de futebol de <b>R$ 158,00</b>. Quanto dinheiro sobrou?<div class=\"row\"><svg class=\"ill\" width=\"110\" height=\"72\" viewBox=\"0 0 110 72\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"55\" cy=\"36\" r=\"30\" fill=\"#fff\" stroke=\"#2b2b3a\" stroke-width=\"3\"/><polygon points=\"55,24 66,32 62,45 48,45 44,32\" fill=\"#2b2b3a\"/><path d=\"M55 24 V8 M66 32 L82 26 M62 45 L72 60 M48 45 L38 60 M44 32 L28 26\" stroke=\"#2b2b3a\" stroke-width=\"2.5\"/></svg>R$ <input class=\"in\" data-a=\"442\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "R$ 442,00"
+   },
+   {
+    "html": "Bia tinha <b>R$ 700,00</b> guardados e comprou uma mochila de <b>R$ 236,00</b>. Quanto dinheiro sobrou?<div class=\"row\"><svg class=\"ill\" width=\"110\" height=\"72\" viewBox=\"0 0 110 72\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M42 16 q13 -14 26 0\" fill=\"none\" stroke=\"#2b2b3a\" stroke-width=\"4\"/><rect x=\"30\" y=\"14\" width=\"50\" height=\"54\" rx=\"12\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><rect x=\"38\" y=\"40\" width=\"34\" height=\"20\" rx=\"5\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><path d=\"M38 48 h34\" stroke=\"#2b2b3a\" stroke-width=\"2\"/></svg>R$ <input class=\"in\" data-a=\"464\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "gab": "R$ 464,00"
+   }
+  ],
+  "18": [
+   {
+    "html": "Um sítio tinha <b>1.200</b> pés de alface e colheu <b>450</b>. Quantos pés de alface ficaram na horta?<div><input class=\"in\" data-a=\"750\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> pés de alface</div>",
+    "gab": "750 pés de alface"
+   },
+   {
+    "html": "Uma fábrica fez <b>1.800</b> bonés e vendeu <b>960</b>. Quantos bonés ainda estão na fábrica?<div><input class=\"in\" data-a=\"840\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> bonés</div>",
+    "gab": "840 bonés"
+   },
+   {
+    "html": "Uma loja de animais tinha <b>1.300</b> peixinhos e vendeu <b>570</b>. Quantos peixinhos ficaram na loja?<div><input class=\"in\" data-a=\"730\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> peixinhos</div>",
+    "gab": "730 peixinhos"
+   }
+  ],
+  "19": [
+   {
+    "html": "Descubra o número que falta:<div class=\"grid\"><div>900 − <input class=\"in\" data-a=\"600\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 300</div><div><input class=\"in\" data-a=\"800\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> − 300 = 500</div><div>1.000 − 250 = <input class=\"in\" data-a=\"750\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>3.600 − <input class=\"in\" data-a=\"600\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 3.000</div></div>",
+    "gab": "600 · 800 · 750 · 600"
+   },
+   {
+    "html": "Descubra o número que falta:<div class=\"grid\"><div>600 − <input class=\"in\" data-a=\"400\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 200</div><div><input class=\"in\" data-a=\"900\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> − 400 = 500</div><div>1.000 − 450 = <input class=\"in\" data-a=\"550\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>4.800 − <input class=\"in\" data-a=\"800\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 4.000</div></div>",
+    "gab": "400 · 900 · 550 · 800"
+   },
+   {
+    "html": "Descubra o número que falta:<div class=\"grid\"><div>1.000 − <input class=\"in\" data-a=\"300\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 700</div><div><input class=\"in\" data-a=\"900\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> − 500 = 400</div><div>1.000 − 150 = <input class=\"in\" data-a=\"850\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>5.300 − <input class=\"in\" data-a=\"300\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 5.000</div></div>",
+    "gab": "300 · 900 · 850 · 300"
+   }
+  ],
+  "20": [
+   {
+    "html": "Faça a <b>prova real</b>: resolva a subtração e confira somando o resultado com o número que foi tirado.<div class=\"row\"><div class=\"arm\"><div class=\"r\">841</div><div class=\"r\"><b class=\"op\">−</b>376</div><div class=\"bar\"></div><input class=\"in\" data-a=\"465\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"big\"><input class=\"in\" data-a=\"465\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 376 = <input class=\"in\" data-a=\"841\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "465 · 465 + 376 = 841"
+   },
+   {
+    "html": "Faça a <b>prova real</b>: resolva a subtração e confira somando o resultado com o número que foi tirado.<div class=\"row\"><div class=\"arm\"><div class=\"r\">724</div><div class=\"r\"><b class=\"op\">−</b>258</div><div class=\"bar\"></div><input class=\"in\" data-a=\"466\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"big\"><input class=\"in\" data-a=\"466\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 258 = <input class=\"in\" data-a=\"724\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "466 · 466 + 258 = 724"
+   },
+   {
+    "html": "Faça a <b>prova real</b>: resolva a subtração e confira somando o resultado com o número que foi tirado.<div class=\"row\"><div class=\"arm\"><div class=\"r\">935</div><div class=\"r\"><b class=\"op\">−</b>569</div><div class=\"bar\"></div><input class=\"in\" data-a=\"366\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"big\"><input class=\"in\" data-a=\"366\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> + 569 = <input class=\"in\" data-a=\"935\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "366 · 366 + 569 = 935"
+   }
+  ]
+ }
+}

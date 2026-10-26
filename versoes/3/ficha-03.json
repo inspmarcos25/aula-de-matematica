@@ -1,0 +1,75 @@
+{
+ "ficha": 3,
+ "qs": {
+  "11": [
+   {
+    "html": "Efetue as adições:<div class=\"row\"><div class=\"arm\"><div class=\"r\">3.214</div><div class=\"r\"><b class=\"op\">+</b>2.563</div><div class=\"bar\"></div><input class=\"in\" data-a=\"5777\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">2.759</div><div class=\"r\"><b class=\"op\">+</b>1.867</div><div class=\"bar\"></div><input class=\"in\" data-a=\"4626\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">678</div><div class=\"r\"><b class=\"op\">+</b>254</div><div class=\"bar\"></div><input class=\"in\" data-a=\"932\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "5.777 · 4.626 · 932"
+   },
+   {
+    "html": "Efetue as adições:<div class=\"row\"><div class=\"arm\"><div class=\"r\">4.123</div><div class=\"r\"><b class=\"op\">+</b>3.542</div><div class=\"bar\"></div><input class=\"in\" data-a=\"7665\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">3.486</div><div class=\"r\"><b class=\"op\">+</b>2.795</div><div class=\"bar\"></div><input class=\"in\" data-a=\"6281\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">467</div><div class=\"r\"><b class=\"op\">+</b>398</div><div class=\"bar\"></div><input class=\"in\" data-a=\"865\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "7.665 · 6.281 · 865"
+   },
+   {
+    "html": "Efetue as adições:<div class=\"row\"><div class=\"arm\"><div class=\"r\">1.532</div><div class=\"r\"><b class=\"op\">+</b>6.245</div><div class=\"bar\"></div><input class=\"in\" data-a=\"7777\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">2.869</div><div class=\"r\"><b class=\"op\">+</b>3.457</div><div class=\"bar\"></div><input class=\"in\" data-a=\"6326\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">795</div><div class=\"r\"><b class=\"op\">+</b>168</div><div class=\"bar\"></div><input class=\"in\" data-a=\"963\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "7.777 · 6.326 · 963"
+   }
+  ],
+  "12": [
+   {
+    "html": "Efetue a adição:<div class=\"row\"><div class=\"arm\"><div class=\"r\">2.413</div><div class=\"r\"><b class=\"op\">+</b>  352</div><div class=\"bar\"></div><input class=\"in\" data-a=\"2765\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"note\">Some primeiro as <b>unidades</b>, depois as dezenas e as centenas.</div></div>",
+    "gab": "2.765"
+   },
+   {
+    "html": "Efetue a adição:<div class=\"row\"><div class=\"arm\"><div class=\"r\">3.124</div><div class=\"r\"><b class=\"op\">+</b>  641</div><div class=\"bar\"></div><input class=\"in\" data-a=\"3765\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"note\">Some primeiro as <b>unidades</b>, depois as dezenas e as centenas.</div></div>",
+    "gab": "3.765"
+   },
+   {
+    "html": "Efetue a adição:<div class=\"row\"><div class=\"arm\"><div class=\"r\">4.302</div><div class=\"r\"><b class=\"op\">+</b>  576</div><div class=\"bar\"></div><input class=\"in\" data-a=\"4878\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"note\">Some primeiro as <b>unidades</b>, depois as dezenas e as centenas.</div></div>",
+    "gab": "4.878"
+   }
+  ],
+  "13": [
+   {
+    "html": "A gibiteca da escola tinha <b>1.356</b> gibis e recebeu mais <b>287</b> gibis de presente. Quantos gibis há agora?<div class=\"row\"><svg class=\"ill\" width=\"122\" height=\"72\" viewBox=\"0 0 122 72\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"6\" y=\"22\" width=\"12\" height=\"44\" rx=\"2\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"20\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"34\" y=\"26\" width=\"12\" height=\"40\" rx=\"2\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"48\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"62\" y=\"20\" width=\"12\" height=\"46\" rx=\"2\" fill=\"#f4a261\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"76\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#a77bd1\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"90\" y=\"26\" width=\"12\" height=\"40\" rx=\"2\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"104\" y=\"18\" width=\"12\" height=\"48\" rx=\"2\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"0\" y=\"66\" width=\"122\" height=\"5\" fill=\"#8a5a3b\"/></svg><input class=\"in\" data-a=\"1643\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> gibis</div>",
+    "gab": "1.643 gibis"
+   },
+   {
+    "html": "Na campanha de reciclagem, a escola juntou <b>2.475</b> tampinhas na primeira semana e <b>368</b> na segunda. Quantas tampinhas foram juntadas ao todo?<div class=\"row\"><svg class=\"ill\" width=\"122\" height=\"72\" viewBox=\"0 0 122 72\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"14\" cy=\"18\" r=\"8\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"33\" cy=\"18\" r=\"8\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"52\" cy=\"18\" r=\"8\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"71\" cy=\"18\" r=\"8\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"90\" cy=\"18\" r=\"8\" fill=\"#a77bd1\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"109\" cy=\"18\" r=\"8\" fill=\"#f4a261\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"14\" cy=\"40\" r=\"8\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"33\" cy=\"40\" r=\"8\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"52\" cy=\"40\" r=\"8\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"71\" cy=\"40\" r=\"8\" fill=\"#a77bd1\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"90\" cy=\"40\" r=\"8\" fill=\"#f4a261\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"109\" cy=\"40\" r=\"8\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"14\" cy=\"62\" r=\"8\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"33\" cy=\"62\" r=\"8\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"52\" cy=\"62\" r=\"8\" fill=\"#a77bd1\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"71\" cy=\"62\" r=\"8\" fill=\"#f4a261\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"90\" cy=\"62\" r=\"8\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><circle cx=\"109\" cy=\"62\" r=\"8\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1\"/></svg><input class=\"in\" data-a=\"2843\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> tampinhas</div>",
+    "gab": "2.843 tampinhas"
+   },
+   {
+    "html": "Uma livraria tinha <b>1.589</b> livros nas estantes e chegaram mais <b>446</b> livros novos. Com quantos livros a livraria ficou?<div class=\"row\"><svg class=\"ill\" width=\"122\" height=\"72\" viewBox=\"0 0 122 72\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"6\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"20\" y=\"20\" width=\"12\" height=\"46\" rx=\"2\" fill=\"#a77bd1\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"34\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"48\" y=\"24\" width=\"12\" height=\"42\" rx=\"2\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"62\" y=\"16\" width=\"12\" height=\"50\" rx=\"2\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"76\" y=\"20\" width=\"12\" height=\"46\" rx=\"2\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"90\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#f4a261\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"104\" y=\"22\" width=\"12\" height=\"44\" rx=\"2\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"0\" y=\"66\" width=\"122\" height=\"5\" fill=\"#8a5a3b\"/></svg><input class=\"in\" data-a=\"2035\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> livros</div>",
+    "gab": "2.035 livros"
+   }
+  ],
+  "14": [
+   {
+    "html": "Cálculo mental! Complete:<div class=\"grid\"><div>350 + <input class=\"in\" data-a=\"650\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 1.000</div><div>700 + 300 = <input class=\"in\" data-a=\"1000\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>2.500 + <input class=\"in\" data-a=\"500\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 3.000</div><div>4.000 + 600 = <input class=\"in\" data-a=\"4600\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "650 · 1.000 · 500 · 4.600"
+   },
+   {
+    "html": "Cálculo mental! Complete:<div class=\"grid\"><div>450 + <input class=\"in\" data-a=\"550\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 1.000</div><div>800 + 200 = <input class=\"in\" data-a=\"1000\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>1.200 + <input class=\"in\" data-a=\"800\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 2.000</div><div>5.000 + 300 = <input class=\"in\" data-a=\"5300\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "550 · 1.000 · 800 · 5.300"
+   },
+   {
+    "html": "Cálculo mental! Complete:<div class=\"grid\"><div>150 + <input class=\"in\" data-a=\"850\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 1.000</div><div>500 + 500 = <input class=\"in\" data-a=\"1000\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>3.500 + <input class=\"in\" data-a=\"500\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 4.000</div><div>2.000 + 800 = <input class=\"in\" data-a=\"2800\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "850 · 1.000 · 500 · 2.800"
+   }
+  ],
+  "15": [
+   {
+    "html": "Na feira do livro foram vendidos <b>376</b> livros no sábado e <b>548</b> no domingo. Quantos livros foram vendidos nos dois dias?<div><input class=\"in\" data-a=\"924\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> livros</div>",
+    "gab": "924 livros"
+   },
+   {
+    "html": "Uma padaria vendeu <b>289</b> pães de manhã e <b>467</b> pães à tarde. Quantos pães foram vendidos no dia?<div><input class=\"in\" data-a=\"756\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> pães</div>",
+    "gab": "756 pães"
+   },
+   {
+    "html": "Na gincana, a equipe azul juntou <b>645</b> latinhas e a equipe verde juntou <b>278</b>. Quantas latinhas as duas equipes juntaram?<div><input class=\"in\" data-a=\"923\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> latinhas</div>",
+    "gab": "923 latinhas"
+   }
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "ficha": 7,
+ "title": "Sistema monetário",
+ "sub": "Cédulas, moedas, troco e compras",
+ "qs": [
+  {
+   "n": 31,
+   "html": "Quanto dinheiro há no cofrinho de Lia?<svg class=\"ill\" width=\"500\" height=\"62\" viewBox=\"0 0 500 62\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(0,6)\"><rect width=\"96\" height=\"48\" rx=\"5\" fill=\"#d98c4a\" stroke=\"#00000033\"/><rect x=\"4\" y=\"4\" width=\"88\" height=\"40\" rx=\"3\" fill=\"none\" stroke=\"#ffffffaa\" stroke-dasharray=\"3 2\"/><circle cx=\"30.72\" cy=\"24.0\" r=\"13.440000000000001\" fill=\"#ffffff55\"/><text x=\"88\" y=\"26.400000000000002\" text-anchor=\"end\" font-family=\"Fredoka\" font-weight=\"700\" font-size=\"20.16\" fill=\"#fff\">50</text><text x=\"88\" y=\"40.8\" text-anchor=\"end\" font-family=\"Nunito\" font-weight=\"800\" font-size=\"8.64\" fill=\"#fff\">REAIS</text></g><g transform=\"translate(104,6)\"><rect width=\"96\" height=\"48\" rx=\"5\" fill=\"#e8c547\" stroke=\"#00000033\"/><rect x=\"4\" y=\"4\" width=\"88\" height=\"40\" rx=\"3\" fill=\"none\" stroke=\"#ffffffaa\" stroke-dasharray=\"3 2\"/><circle cx=\"30.72\" cy=\"24.0\" r=\"13.440000000000001\" fill=\"#ffffff55\"/><text x=\"88\" y=\"26.400000000000002\" text-anchor=\"end\" font-family=\"Fredoka\" font-weight=\"700\" font-size=\"20.16\" fill=\"#fff\">20</text><text x=\"88\" y=\"40.8\" text-anchor=\"end\" font-family=\"Nunito\" font-weight=\"800\" font-size=\"8.64\" fill=\"#fff\">REAIS</text></g><g transform=\"translate(208,6)\"><rect width=\"96\" height=\"48\" rx=\"5\" fill=\"#e8c547\" stroke=\"#00000033\"/><rect x=\"4\" y=\"4\" width=\"88\" height=\"40\" rx=\"3\" fill=\"none\" stroke=\"#ffffffaa\" stroke-dasharray=\"3 2\"/><circle cx=\"30.72\" cy=\"24.0\" r=\"13.440000000000001\" fill=\"#ffffff55\"/><text x=\"88\" y=\"26.400000000000002\" text-anchor=\"end\" font-family=\"Fredoka\" font-weight=\"700\" font-size=\"20.16\" fill=\"#fff\">20</text><text x=\"88\" y=\"40.8\" text-anchor=\"end\" font-family=\"Nunito\" font-weight=\"800\" font-size=\"8.64\" fill=\"#fff\">REAIS</text></g><g transform=\"translate(312,6)\"><rect width=\"96\" height=\"48\" rx=\"5\" fill=\"#a77bd1\" stroke=\"#00000033\"/><rect x=\"4\" y=\"4\" width=\"88\" height=\"40\" rx=\"3\" fill=\"none\" stroke=\"#ffffffaa\" stroke-dasharray=\"3 2\"/><circle cx=\"30.72\" cy=\"24.0\" r=\"13.440000000000001\" fill=\"#ffffff55\"/><text x=\"88\" y=\"26.400000000000002\" text-anchor=\"end\" font-family=\"Fredoka\" font-weight=\"700\" font-size=\"20.16\" fill=\"#fff\">5</text><text x=\"88\" y=\"40.8\" text-anchor=\"end\" font-family=\"Nunito\" font-weight=\"800\" font-size=\"8.64\" fill=\"#fff\">REAIS</text></g><g transform=\"translate(432,30)\"><circle r=\"17\" fill=\"#f2c94c\" stroke=\"#c99a1a\" stroke-width=\"2.4\"/><circle r=\"10.54\" fill=\"#d9dde6\" stroke=\"#9aa1ad\" stroke-width=\"1.2\"/><text y=\"5.1\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"13.94\" fill=\"#5a4a1a\">1</text></g><g transform=\"translate(472,30)\"><circle r=\"17\" fill=\"#f2c94c\" stroke=\"#c99a1a\" stroke-width=\"2.4\"/><circle r=\"10.54\" fill=\"#d9dde6\" stroke=\"#9aa1ad\" stroke-width=\"1.2\"/><text y=\"5.1\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"13.94\" fill=\"#5a4a1a\">1</text></g></svg><div>Total: R$ <input class=\"in\" data-a=\"97\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "R$ 97,00"
+  },
+  {
+   "n": 32,
+   "html": "Um lanche custa <b>R$ 7,50</b>. Paguei com uma nota de <b>R$ 10,00</b>. Quanto recebi de troco?<div class=\"row\"><svg class=\"ill\" width=\"104\" height=\"54\" viewBox=\"0 0 104 54\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(4,2)\"><rect width=\"96\" height=\"48\" rx=\"5\" fill=\"#e58a5a\" stroke=\"#00000033\"/><rect x=\"4\" y=\"4\" width=\"88\" height=\"40\" rx=\"3\" fill=\"none\" stroke=\"#ffffffaa\" stroke-dasharray=\"3 2\"/><circle cx=\"30.72\" cy=\"24.0\" r=\"13.440000000000001\" fill=\"#ffffff55\"/><text x=\"88\" y=\"26.400000000000002\" text-anchor=\"end\" font-family=\"Fredoka\" font-weight=\"700\" font-size=\"20.16\" fill=\"#fff\">10</text><text x=\"88\" y=\"40.8\" text-anchor=\"end\" font-family=\"Nunito\" font-weight=\"800\" font-size=\"8.64\" fill=\"#fff\">REAIS</text></g></svg>Troco: R$ <input class=\"in\" data-a=\"2,50\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "R$ 2,50"
+  },
+  {
+   "n": 33,
+   "html": "Clique nas cédulas para pagar <b>exatamente R$ 85,00</b>. Clique numa cédula da bandeja para devolvê-la.<div class=\"money\" data-target=\"85\" data-items=\"50,20,10,5,2\" data-t=\"m\"></div>",
+   "gab": "Ex.: 50 + 20 + 10 + 5"
+  },
+  {
+   "n": 34,
+   "html": "Quanto custa <b>1 suco</b>, <b>1 sanduíche</b> e <b>2 frutas</b>?<div class=\"row\"><div class=\"menu\"><div class=\"mh\">CANTINA DA ESCOLA</div><div class=\"mi\"><span>Suco</span><b>R$ 4,00</b></div><div class=\"mi\"><span>Sanduíche</span><b>R$ 6,00</b></div><div class=\"mi\"><span>Fruta</span><b>R$ 2,00</b></div></div>R$ <input class=\"in\" data-a=\"14\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "R$ 14,00"
+  },
+  {
+   "n": 35,
+   "html": "Quantas moedas de <b>50 centavos</b> são necessárias para formar <b>R$ 5,00</b>?<div class=\"row\"><svg class=\"ill\" width=\"120\" height=\"44\" viewBox=\"0 0 120 44\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(22,22)\"><circle r=\"19\" fill=\"#f2c94c\" stroke=\"#c99a1a\" stroke-width=\"2.4\"/><text y=\"5.7\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"11.78\" fill=\"#5a4a1a\">50¢</text></g><g transform=\"translate(64,22)\"><circle r=\"19\" fill=\"#f2c94c\" stroke=\"#c99a1a\" stroke-width=\"2.4\"/><text y=\"5.7\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"11.78\" fill=\"#5a4a1a\">50¢</text></g><text x=\"96\" y=\"28\" font-family=\"Fredoka\" font-size=\"18\" fill=\"#2b2b3a\">...</text></svg><input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> moedas</div>",
+   "gab": "10 moedas"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "ficha": 3,
+ "title": "Adição",
+ "sub": "Somando com e sem reagrupamento",
+ "qs": [
+  {
+   "n": 11,
+   "html": "Efetue as adições:<div class=\"row\"><div class=\"arm\"><div class=\"r\">2.345</div><div class=\"r\"><b class=\"op\">+</b>1.432</div><div class=\"bar\"></div><input class=\"in\" data-a=\"3777\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">1.678</div><div class=\"r\"><b class=\"op\">+</b>2.546</div><div class=\"bar\"></div><input class=\"in\" data-a=\"4224\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">589</div><div class=\"r\"><b class=\"op\">+</b>376</div><div class=\"bar\"></div><input class=\"in\" data-a=\"965\" data-t=\"n\" style=\"width:82px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "3.777 · 4.224 · 965"
+  },
+  {
+   "n": 12,
+   "html": "Efetue a adição:<div class=\"row\"><div class=\"arm\"><div class=\"r\">1.205</div><div class=\"r\"><b class=\"op\">+</b>  314</div><div class=\"bar\"></div><input class=\"in\" data-a=\"1519\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"note\">Some primeiro as <b>unidades</b>, depois as dezenas e as centenas.</div></div>",
+   "gab": "1.519"
+  },
+  {
+   "n": 13,
+   "html": "A biblioteca da escola tinha <b>1.248</b> livros e recebeu mais <b>375</b> livros de doação. Quantos livros há agora?<div class=\"row\"><svg class=\"ill\" width=\"122\" height=\"72\" viewBox=\"0 0 122 72\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"6\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"20\" y=\"18\" width=\"12\" height=\"48\" rx=\"2\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"34\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#ffcf33\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"48\" y=\"18\" width=\"12\" height=\"48\" rx=\"2\" fill=\"#2E9E6B\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"62\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#a77bd1\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"76\" y=\"18\" width=\"12\" height=\"48\" rx=\"2\" fill=\"#f4a261\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"90\" y=\"14\" width=\"12\" height=\"52\" rx=\"2\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"104\" y=\"18\" width=\"12\" height=\"48\" rx=\"2\" fill=\"#e5506a\" stroke=\"#2b2b3a\" stroke-width=\"1\"/><rect x=\"0\" y=\"66\" width=\"122\" height=\"5\" fill=\"#8a5a3b\"/></svg><input class=\"in\" data-a=\"1623\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> livros</div>",
+   "gab": "1.623 livros"
+  },
+  {
+   "n": 14,
+   "html": "Cálculo mental! Complete:<div class=\"grid\"><div>250 + <input class=\"in\" data-a=\"750\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 1.000</div><div>600 + 400 = <input class=\"in\" data-a=\"1000\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>1.500 + <input class=\"in\" data-a=\"500\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> = 2.000</div><div>3.000 + 700 = <input class=\"in\" data-a=\"3700\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "750 · 1.000 · 500 · 3.700"
+  },
+  {
+   "n": 15,
+   "html": "Na festa junina foram vendidos <b>458</b> pastéis no sábado e <b>537</b> no domingo. Quantos pastéis foram vendidos nos dois dias?<div><input class=\"in\" data-a=\"995\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> pastéis</div>",
+   "gab": "995 pastéis"
+  }
+ ]
+}
