@@ -1,0 +1,190 @@
+{
+ "ficha": 11,
+ "title": "Probleminhas",
+ "sub": "Situações-problema para pensar e resolver",
+ "bncc": "EF03MA05 · EF03MA06 · EF03MA07 · EF03MA08 · EF03MA24",
+ "tip": "Leia com calma: <b>o que a pergunta quer saber?</b>",
+ "mascot": 2,
+ "qs": {
+  "51": [
+   {
+    "html": "Ana tinha <b>1.250</b> figurinhas. Ganhou <b>380</b> do primo e depois deu <b>245</b> para a irmã. Com quantas figurinhas Ana ficou?<div class=\"ql\"><div>Primeiro, depois de ganhar: <input class=\"in\" data-a=\"1630\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: <input class=\"in\" data-a=\"1385\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "1.630 · 1.385"
+   },
+   {
+    "html": "A biblioteca da escola tinha <b>1.460</b> livros. Comprou mais <b>275</b> e depois doou <b>390</b> para outra escola. Quantos livros a biblioteca tem agora?<div class=\"ql\"><div>Primeiro, depois de ganhar: <input class=\"in\" data-a=\"1735\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: <input class=\"in\" data-a=\"1345\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "1.735 · 1.345"
+   },
+   {
+    "html": "Caio tinha <b>R$ 850,00</b> guardados. Recebeu <b>R$ 120,00</b> de mesada e gastou <b>R$ 395,00</b> numa chuteira. Quanto dinheiro sobrou?<div class=\"ql\"><div>Primeiro, depois de ganhar: <input class=\"in\" data-a=\"970\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: <input class=\"in\" data-a=\"575\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "970 · 575"
+   },
+   {
+    "html": "Uma granja tinha <b>2.300</b> ovos. De manhã recolheu mais <b>640</b> e à tarde vendeu <b>1.150</b>. Quantos ovos ficaram na granja?<div class=\"ql\"><div>Primeiro, depois de ganhar: <input class=\"in\" data-a=\"2940\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: <input class=\"in\" data-a=\"1790\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "2.940 · 1.790"
+   }
+  ],
+  "52": [
+   {
+    "html": "Júlia comprou <b>4 pacotes</b> com <b>8 balas</b> cada um e comeu <b>5 balas</b>. Quantas balas sobraram?<div class=\"ql\"><div>Balas nos pacotes: <input class=\"in\" data-a=\"32\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Balas que sobraram: <input class=\"in\" data-a=\"27\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> balas</div></div>",
+    "gab": "32 · 27 balas"
+   },
+   {
+    "html": "Na festa junina havia <b>6 mesas</b> com <b>7 cadeiras</b> cada. <b>9 cadeiras</b> ficaram vazias. Quantas pessoas estavam sentadas?<div class=\"ql\"><div>Total de cadeiras: <input class=\"in\" data-a=\"42\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Pessoas sentadas: <input class=\"in\" data-a=\"33\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> pessoas</div></div>",
+    "gab": "42 · 33 pessoas"
+   },
+   {
+    "html": "Pedro tem <b>3 álbuns</b> com <b>9 figurinhas</b> cada e ganhou mais <b>15 figurinhas</b> soltas. Quantas figurinhas ele tem ao todo?<div class=\"ql\"><div>Figurinhas nos álbuns: <input class=\"in\" data-a=\"27\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Total de figurinhas: <input class=\"in\" data-a=\"42\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> figurinhas</div></div>",
+    "gab": "27 · 42 figurinhas"
+   },
+   {
+    "html": "Na feira, seu Zé tem <b>5 caixas</b> com <b>10 laranjas</b> cada e mais <b>8 laranjas</b> soltas na banca. Quantas laranjas ele tem?<div class=\"ql\"><div>Laranjas nas caixas: <input class=\"in\" data-a=\"50\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Total de laranjas: <input class=\"in\" data-a=\"58\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> laranjas</div></div>",
+    "gab": "50 · 58 laranjas"
+   }
+  ],
+  "53": [
+   {
+    "html": "Tia Rosa fez <b>45 brigadeiros</b> e colocou <b>5</b> em cada caixinha. Quantas caixinhas ela encheu?<div class=\"ql\"><div><input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> caixinhas</div><div>Ela quer encher <b>10 caixinhas</b>. Quantos brigadeiros ainda faltam fazer? <input class=\"in\" data-a=\"5\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: quantos brigadeiros cabem em 10 caixinhas?</div>",
+    "gab": "9 caixinhas · faltam 5"
+   },
+   {
+    "html": "No recreio, <b>32 crianças</b> vão jogar e formar times de <b>4 jogadores</b>. Quantos times serão formados?<div class=\"ql\"><div><input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> times</div><div>Para formar <b>10 times</b>, quantas crianças ainda faltam? <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "8 times · faltam 8"
+   },
+   {
+    "html": "Dona Célia tem <b>56 ovos</b> para guardar em bandejas de <b>8 ovos</b>. Quantas bandejas ela vai usar?<div class=\"ql\"><div><input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> bandejas</div><div>Se ela ganhar mais <b>16 ovos</b>, quantas bandejas vai usar ao todo? <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "7 bandejas · 9 bandejas"
+   },
+   {
+    "html": "<b>36 lápis</b> foram repartidos igualmente entre <b>4 amigos</b>. Quantos lápis cada um recebeu?<div class=\"ql\"><div><input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> lápis</div><div>Depois, Gabi deu <b>3 lápis</b> para o Téo. Com quantos lápis o Téo ficou? <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "9 lápis · Téo ficou com 12"
+   }
+  ],
+  "54": [
+   {
+    "html": "No videogame, <b>Lucas</b> fez <b>1.240</b> pontos e <b>Bia</b> fez <b>985</b> pontos.<div class=\"ql\"><div>Quem fez mais pontos? <span class=\"choice\" data-a=\"0\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">Lucas</button><button type=\"button\" class=\"opt\" data-v=\"1\">Bia</button></span></div><div>Quantos pontos a mais? <input class=\"in\" data-a=\"255\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "Lucas · 255"
+   },
+   {
+    "html": "A escola <b>Sol</b> tem <b>2.150</b> alunos e a escola <b>Lua</b> tem <b>2.415</b> alunos.<div class=\"ql\"><div>Qual escola tem mais alunos? <span class=\"choice\" data-a=\"1\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">Sol</button><button type=\"button\" class=\"opt\" data-v=\"1\">Lua</button></span></div><div>Quantos alunos a mais? <input class=\"in\" data-a=\"265\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "Lua · 265"
+   },
+   {
+    "html": "No mês de leitura, <b>Maria</b> leu <b>128</b> páginas e <b>João</b> leu <b>215</b> páginas.<div class=\"ql\"><div>Quem leu menos? <span class=\"choice\" data-a=\"0\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">Maria</button><button type=\"button\" class=\"opt\" data-v=\"1\">João</button></span></div><div>Quantas páginas a menos? <input class=\"in\" data-a=\"87\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "Maria · 87"
+   },
+   {
+    "html": "O cachorro <b>Thor</b> pesa <b>18 kg</b> e a gata <b>Mimi</b> pesa <b>4 kg</b>.<div class=\"ql\"><div>Quem é mais leve? <span class=\"choice\" data-a=\"1\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">Thor</button><button type=\"button\" class=\"opt\" data-v=\"1\">Mimi</button></span></div><div>Quantos quilos a menos? <input class=\"in\" data-a=\"14\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "Mimi · 14"
+   }
+  ],
+  "55": [
+   {
+    "html": "A professora Lúcia disse: <i>“Pensei num número, somei <b>15</b> e deu <b>42</b>.”</i> Em que número ela pensou?<div><input class=\"in\" data-a=\"27\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"note\">Dica: faça o caminho de volta: o contrário de somar é…</div>",
+    "gab": "27 (42 − 15)"
+   },
+   {
+    "html": "Vovô Bento brincou: <i>“Pensei num número, calculei o <b>dobro</b> dele e deu <b>36</b>.”</i> Em que número ele pensou?<div><input class=\"in\" data-a=\"18\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"note\">Dica: o contrário do dobro é a metade.</div>",
+    "gab": "18 (36 ÷ 2)"
+   },
+   {
+    "html": "Rafa disse: <i>“Pensei num número, tirei <b>8</b> e depois dobrei. Deu <b>24</b>.”</i> Em que número ele pensou?<div class=\"ql\"><div>Antes de dobrar era: <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>O número pensado: <input class=\"in\" data-a=\"20\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: comece pelo fim: desfaça o dobro, depois desfaça o “tirei 8”.</div>",
+    "gab": "12 · 20"
+   },
+   {
+    "html": "Luna disse: <i>“Pensei num número, multipliquei por <b>3</b> e somei <b>4</b>. Deu <b>31</b>.”</i> Em que número ela pensou?<div class=\"ql\"><div>Antes de somar 4 era: <input class=\"in\" data-a=\"27\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>O número pensado: <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: comece pelo fim e faça as contas ao contrário.</div>",
+    "gab": "27 · 9"
+   }
+  ],
+  "56": [
+   {
+    "html": "No estacionamento da praça há <b>bicicletas</b> (2 rodas) e <b>triciclos</b> (3 rodas). São <b>7 veículos</b> e <b>17 rodas</b> ao todo. Quantos são de cada tipo?<div class=\"ql\"><div>Bicicletas: <input class=\"in\" data-a=\"4\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Triciclos: <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: experimente: se fossem 7 bicicletas, quantas rodas seriam? Depois vá trocando.</div>",
+    "gab": "4 bicicletas e 3 triciclos"
+   },
+   {
+    "html": "Ana e o irmão Beto têm, juntos, <b>15 anos</b>. Beto tem <b>3 anos a mais</b> que Ana. Quantos anos tem cada um?<div class=\"ql\"><div>Ana: <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> anos</div><div>Beto: <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> anos</div></div><div class=\"note\">Dica: teste idades que somam 15 e confira a diferença.</div>",
+    "gab": "Ana 6 · Beto 9"
+   },
+   {
+    "html": "No sítio do tio Zeca há <b>galinhas</b> e <b>coelhos</b>. Contando, são <b>6 cabeças</b> e <b>16 patas</b>. Quantos animais há de cada tipo?<div class=\"ql\"><div>Galinhas: <input class=\"in\" data-a=\"4\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Coelhos: <input class=\"in\" data-a=\"2\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: galinha tem 2 patas e coelho tem 4. Experimente e confira.</div>",
+    "gab": "4 galinhas e 2 coelhos"
+   },
+   {
+    "html": "Duas caixas têm, juntas, <b>20 bombons</b>. A caixa <b>azul</b> tem <b>4 bombons a mais</b> que a caixa <b>vermelha</b>. Quantos bombons há em cada caixa?<div class=\"ql\"><div>Azul: <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Vermelha: <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: teste números que somam 20 e veja qual par tem diferença 4.</div>",
+    "gab": "Azul 12 · Vermelha 8"
+   }
+  ],
+  "57": [
+   {
+    "html": "Rafa tinha <b>R$ 20,00</b>. Comprou uma pipoca de <b>R$ 6,00</b> e um refrigerante de <b>R$ 5,00</b>.<div class=\"ql\"><div>Quanto sobrou? R$ <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Com o que sobrou, dá para comprar um sorvete de <b>R$ 8,00</b>? <span class=\"choice\" data-a=\"0\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">sim</button><button type=\"button\" class=\"opt\" data-v=\"1\">não</button></span></div></div>",
+    "gab": "R$ 9,00 · sim"
+   },
+   {
+    "html": "Lia tinha <b>R$ 50,00</b>. Comprou um livro de <b>R$ 27,00</b> e um caderno de <b>R$ 15,00</b>.<div class=\"ql\"><div>Quanto sobrou? R$ <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Com o que sobrou, dá para comprar um estojo de <b>R$ 12,00</b>? <span class=\"choice\" data-a=\"1\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">sim</button><button type=\"button\" class=\"opt\" data-v=\"1\">não</button></span></div></div>",
+    "gab": "R$ 8,00 · não"
+   },
+   {
+    "html": "Gui pagou um tênis de <b>R$ 74,00</b> com uma nota de <b>R$ 100,00</b>.<div class=\"ql\"><div>Quanto sobrou? R$ <input class=\"in\" data-a=\"26\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Com o que sobrou, dá para comprar uma bola de <b>R$ 25,00</b>? <span class=\"choice\" data-a=\"0\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">sim</button><button type=\"button\" class=\"opt\" data-v=\"1\">não</button></span></div></div>",
+    "gab": "R$ 26,00 · sim"
+   },
+   {
+    "html": "Duda tinha <b>R$ 30,00</b> e comprou <b>3 pastéis</b> de <b>R$ 7,00</b> cada.<div class=\"ql\"><div>Quanto sobrou? R$ <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Com o que sobrou, dá para comprar um caldo de cana de <b>R$ 10,00</b>? <span class=\"choice\" data-a=\"1\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">sim</button><button type=\"button\" class=\"opt\" data-v=\"1\">não</button></span></div></div>",
+    "gab": "R$ 9,00 · não"
+   }
+  ],
+  "58": [
+   {
+    "html": "Nina tem <b>3 camisetas</b> (azul, branca e rosa) e <b>2 shorts</b> (jeans e preto). Quantas combinações diferentes de 1 camiseta com 1 short ela pode fazer?<div><input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> combinações</div><div class=\"note\">Dica: para cada camiseta, quantos shorts ela pode escolher?</div>",
+    "gab": "6 combinações"
+   },
+   {
+    "html": "A sorveteria tem <b>4 sabores</b> (chocolate, morango, coco e uva) e serve na <b>casquinha</b> ou no <b>copinho</b>. Quantos pedidos diferentes de 1 bola dá para fazer?<div><input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> pedidos</div><div class=\"note\">Dica: faça uma lista organizada: chocolate na casquinha, chocolate no copinho…</div>",
+    "gab": "8 pedidos"
+   },
+   {
+    "html": "Na cantina há <b>3 lanches</b> (misto, pão de queijo e esfiha) e <b>3 sucos</b> (laranja, uva e maracujá). De quantas maneiras diferentes dá para escolher 1 lanche e 1 suco?<div><input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> maneiras</div>",
+    "gab": "9 maneiras"
+   },
+   {
+    "html": "Usando os cartões <span class=\"card\">1</span> <span class=\"card\">5</span> <span class=\"card\">8</span>, sem repetir, quantos números de <b>2 algarismos</b> dá para formar? Qual é o maior deles?<div class=\"ql\"><div>Quantos números: <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>O maior: <input class=\"in\" data-a=\"85\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: comece pelos números que começam com 1, depois com 5…</div>",
+    "gab": "6 números (15, 18, 51, 58, 81, 85) · maior 85"
+   }
+  ],
+  "59": [
+   {
+    "html": "Nina começou a ler um livro: no <b>1º dia</b> leu <b>5 páginas</b> e, a cada dia, leu <b>2 páginas a mais</b> que no dia anterior.<div class=\"ql\"><div>Quantas páginas ela leu no <b>5º dia</b>? <input class=\"in\" data-a=\"13\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quantas páginas leu nos 5 dias, ao todo? <input class=\"in\" data-a=\"45\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "13 páginas · 45 ao todo"
+   },
+   {
+    "html": "Téo guarda dinheiro no cofrinho: na <b>1ª semana</b> guardou <b>R$ 3,00</b>, e a cada semana guarda <b>R$ 3,00 a mais</b> que na anterior.<div class=\"ql\"><div>Quanto ele guardou na <b>4ª semana</b>? R$ <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto juntou nas 4 semanas? R$ <input class=\"in\" data-a=\"30\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "R$ 12,00 · R$ 30,00"
+   },
+   {
+    "html": "Uma plantinha tinha <b>4 cm</b> de altura e cresce <b>3 cm por semana</b>.<div class=\"ql\"><div>Qual será a altura depois de <b>3 semanas</b>? <input class=\"in\" data-a=\"13\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> cm</div><div>E depois de <b>6 semanas</b>? <input class=\"in\" data-a=\"22\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> cm</div></div>",
+    "gab": "13 cm · 22 cm"
+   },
+   {
+    "html": "No teatro da escola, a <b>1ª fileira</b> tem <b>10 cadeiras</b> e cada fileira seguinte tem <b>2 cadeiras a menos</b>.<div class=\"ql\"><div>Quantas cadeiras tem a <b>4ª fileira</b>? <input class=\"in\" data-a=\"4\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quantas cadeiras há nas 4 fileiras? <input class=\"in\" data-a=\"28\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "gab": "4 cadeiras · 28 ao todo"
+   }
+  ],
+  "60": [
+   {
+    "html": "Léo comprou <b>2 pães de queijo</b> e <b>1 suco</b> e pagou com <b>R$ 15,00</b>.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">CANTINA</div><div class=\"mi\"><span>Pão de queijo</span><b>R$ 3,00</b></div><div class=\"mi\"><span>Suco</span><b>R$ 4,00</b></div><div class=\"mi\"><span>Bolo</span><b>R$ 5,00</b></div></div><div class=\"ql\"><div>Quanto ele gastou? R$ <input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto recebeu de troco? R$ <input class=\"in\" data-a=\"5\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "R$ 10,00 · troco R$ 5,00"
+   },
+   {
+    "html": "O quadro mostra quantas figurinhas cada amigo tem.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">FIGURINHAS</div><div class=\"mi\"><span>Ana</span><b>45</b></div><div class=\"mi\"><span>Beto</span><b>38</b></div><div class=\"mi\"><span>Caio</span><b>52</b></div></div><div class=\"ql\"><div>Quantas figurinhas eles têm juntos? <input class=\"in\" data-a=\"135\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quantas faltam para o Beto ter tantas quanto o Caio? <input class=\"in\" data-a=\"14\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "135 · 14"
+   },
+   {
+    "html": "Mamãe comprou na feira <b>2 dúzias de banana</b> e <b>1 caixa de uva</b>, e pagou com <b>R$ 50,00</b>.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">FEIRA</div><div class=\"mi\"><span>Banana (dúzia)</span><b>R$ 6,00</b></div><div class=\"mi\"><span>Maçã (quilo)</span><b>R$ 8,00</b></div><div class=\"mi\"><span>Uva (caixa)</span><b>R$ 7,00</b></div></div><div class=\"ql\"><div>Quanto ela gastou? R$ <input class=\"in\" data-a=\"19\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto recebeu de troco? R$ <input class=\"in\" data-a=\"31\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "gab": "R$ 19,00 · troco R$ 31,00"
+   },
+   {
+    "html": "O quadro mostra os gols do time da escola no campeonato.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">GOLS DO TIME</div><div class=\"mi\"><span>1º jogo</span><b>3</b></div><div class=\"mi\"><span>2º jogo</span><b>1</b></div><div class=\"mi\"><span>3º jogo</span><b>4</b></div><div class=\"mi\"><span>4º jogo</span><b>2</b></div></div><div class=\"ql\"><div>Quantos gols o time fez ao todo? <input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Em qual jogo fez mais gols? <select class=\"sel\" data-a=\"3º jogo\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"1º jogo\">1º jogo</option><option value=\"2º jogo\">2º jogo</option><option value=\"3º jogo\">3º jogo</option><option value=\"4º jogo\">4º jogo</option></select></div></div></div>",
+    "gab": "10 gols · 3º jogo"
+   }
+  ]
+ }
+}
