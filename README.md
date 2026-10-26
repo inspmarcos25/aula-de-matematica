@@ -2,6 +2,8 @@
 
 Caderno interativo de matemática do 3º ao 5º ano (BNCC), num único arquivo HTML que funciona sem internet.
 
+**Abrir online:** https://inspmarcos25.github.io/aula-de-matematica/
+
 - **Caderno de Matemática.html**: abra no navegador. São 12 fichas por ano (incluindo duas de Probleminhas), correção na hora, aba Tabuada (estudar, treinar e desafio do minuto) e aba Resultados para conferência.
 - **Rodadas:** o botão "Novas questões" troca as questões do ano. Cada questão tem 4 versões, e as respostas da rodada anterior ficam no histórico.
 
