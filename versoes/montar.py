@@ -44,6 +44,25 @@ for ano in ("3", "4", "5"):
     resumo.append(f"{ano}º ano: {len(bank[ano])} questões, {'/'.join(map(str, sorted(nv)))} versões novas cada")
 
 texto = HTML.read_text(encoding="utf-8")
+
+# As 150 questões originais (versão 1 das fichas 1–10) vêm de originais/<ano>-ficha-XX.json.
+md = re.search(r"^const DATA = (.*);$", texto, flags=re.M)
+if not md:
+    raise SystemExit("Não achei a linha 'const DATA = ...;' no HTML.")
+data = json.loads(md.group(1))
+trocadas = 0
+for fn in sorted((BASE / "originais").glob("*-ficha-*.json")):
+    o = json.loads(fn.read_text(encoding="utf-8"))
+    ficha = data["grades"][fn.name[0]][o["ficha"] - 1]
+    for q in o["qs"]:
+        alvo = next(x for x in ficha["qs"] if x["n"] == q["n"])
+        if alvo["html"] != q["html"] or alvo["gab"] != q["gab"]:
+            alvo["html"], alvo["gab"] = q["html"], q["gab"]
+            trocadas += 1
+if trocadas:
+    linha_data = "const DATA = " + json.dumps(data, ensure_ascii=False).replace("</", "<\\/") + ";"
+    texto = texto[:md.start()] + linha_data + texto[md.end():]
+resumo.append(f"originais atualizadas no HTML: {trocadas}")
 linha = "const BANK = " + json.dumps(bank, ensure_ascii=False).replace("</", "<\\/") + ";"
 novo, n = re.subn(r"^const BANK = .*;$", lambda _: linha, texto, count=1, flags=re.M)
 if n != 1:
