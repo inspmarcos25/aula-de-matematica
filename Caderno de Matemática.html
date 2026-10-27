@@ -328,6 +328,59 @@ button.tab[data-g="tabu"]{box-shadow:inset 0 4px #b48ae6}
 @media (prefers-reduced-motion:reduce){.pop{animation:none}*{transition:none!important}}
 @media (max-width:520px){.tipbox{max-width:none;width:100%}.tipbox .mascot{width:60px;height:60px}.q{grid-template-columns:30px 1fr;padding:12px 12px 10px}.num{width:30px;height:30px;font-size:15px}.arm{font-size:20px}.sym button{width:24px;height:24px}}
 
+/* resultados: resumo, mapa das fichas, revisão e detalhes recolhíveis */
+.rsum-txt{max-width:62ch!important;font-size:14.5px!important}
+.rsum-txt b{color:var(--ink)}
+.rev{background:var(--no-bg);border-radius:14px;padding:10px 12px}
+.rev>b{font-family:var(--display);font-weight:600;color:var(--no);font-size:16px}
+.rev-list{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.rev-chip{border:2px solid #f3b9c4;background:var(--paper);border-radius:12px;padding:6px 10px;cursor:pointer;display:flex;flex-direction:column;align-items:flex-start;text-align:left;font-weight:800;font-size:13.5px;color:var(--ink);line-height:1.25}
+.rev-chip em{font-style:normal;color:var(--no);font-size:12.5px}
+.rev-chip:hover{border-color:var(--no)}
+.fmap-h{display:flex;justify-content:space-between;align-items:baseline;gap:4px 10px;flex-wrap:wrap}
+.fmap-h b{font-family:var(--display);font-weight:600;color:var(--d);font-size:17px}
+.fmap-h span{font-size:12.5px;font-weight:700;color:var(--muted)}
+.fmap{display:grid;grid-template-columns:repeat(auto-fill,minmax(145px,1fr));gap:8px}
+.ftile{border:2px solid var(--line);background:var(--paper);border-radius:14px;padding:8px 10px;cursor:pointer;display:flex;flex-direction:column;gap:7px;text-align:left;min-width:0;color:var(--ink)}
+.ftile:hover{border-color:var(--c)}
+.ft-top{display:flex;gap:8px;align-items:center;min-width:0}
+.ft-top .n{flex:none;width:24px;height:24px;border-radius:50%;background:var(--l);color:var(--d);font-family:var(--display);font-size:13px;display:flex;align-items:center;justify-content:center}
+.ft-t{font-weight:800;font-size:13px;line-height:1.2;min-width:0;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.mbar{display:flex;height:8px;border-radius:999px;background:var(--desk);overflow:hidden}
+.mbar i{display:block;height:100%;background:var(--dot)}
+.ft-bot{display:flex;justify-content:space-between;align-items:center;gap:4px 6px;flex-wrap:wrap}
+.ft-c{font-family:var(--display);font-size:14px;color:var(--d);font-variant-numeric:tabular-nums}
+.ftile .pill{font-size:11px;padding:1px 8px}
+.rfilters button small{font-family:var(--body);font-weight:800;font-size:11.5px;opacity:.75;margin-left:2px;font-variant-numeric:tabular-nums}
+.rbtns{display:inline-flex;gap:8px;flex-wrap:wrap}
+.qbq{font-family:var(--display);font-weight:600;font-size:20px;color:var(--d);margin:4px 4px -4px}
+details.rcard>summary{display:flex;align-items:center;gap:8px 12px;padding:12px 16px;background:var(--l);flex-wrap:wrap;cursor:pointer;list-style:none}
+details.rcard>summary::-webkit-details-marker{display:none}
+details.rcard>summary b.n{flex:none;width:30px;height:30px;border-radius:50%;background:var(--c);color:#fff;font-family:var(--display);font-size:15px;display:flex;align-items:center;justify-content:center}
+details.rcard>summary h3{font-family:var(--display);font-weight:600;font-size:19px;margin:0;color:var(--d);flex:1;min-width:150px}
+details.rcard>summary .cnt{font-family:var(--display);font-weight:600;font-variant-numeric:tabular-nums;color:var(--d)}
+details.rcard:not([open])>summary{background:var(--paper)}
+.chev{width:10px;height:10px;border-right:3px solid var(--d);border-bottom:3px solid var(--d);transform:rotate(45deg);margin:0 4px 4px;transition:transform .2s}
+details[open].rcard>summary .chev{transform:rotate(-135deg);margin-bottom:-4px}
+.pt{font-family:var(--display)}
+.pt-ok{color:var(--ok)}
+.pt-no{background:var(--no-bg);color:var(--no);border-radius:5px;padding:0 4px;text-decoration:line-through;text-decoration-thickness:1.5px}
+.pt-em{color:var(--muted)}
+.pt-sep{color:var(--muted);margin:0 5px}
+.rt tr.row-no td.qn{color:var(--no)}
+.hrows{display:flex;flex-direction:column;gap:8px;margin-top:8px}
+.hbar{display:grid;grid-template-columns:1fr auto;gap:4px 10px;font-size:13px;font-weight:700;color:var(--muted)}
+.hbar .mbar{grid-column:1/-1;height:10px}
+.hbar b{font-family:var(--body);color:var(--ink);font-weight:800}
+@media print{
+  body{background:#fff}
+  .top,.trail,.rbar,.reset,.credit,.rtools,.zov,.fmap-h span,.go,.chev,.rtop .seg{display:none!important}
+  .rhead,.rcard{border-color:#bbb!important;box-shadow:none}
+  details.rcard{break-inside:avoid-page}
+  .rt{min-width:0}
+  .ftile{break-inside:avoid}
+}
+
 /* celular: aproveitar a largura e encurtar a rolagem */
 @media (max-width:600px){
   .top .wrap{padding-block:10px 0;gap:8px}
@@ -357,7 +410,9 @@ button.tab[data-g="tabu"]{box-shadow:inset 0 4px #b48ae6}
   .sfoot .nav{width:100%}
   .sfoot .nav .btn{flex:1 1 140px}
   .rhead,.tb-card{padding:14px 12px;border-radius:18px}
-  .rcard>header{padding:10px 12px}
+  .rcard>header,details.rcard>summary{padding:10px 12px}
+  .qbq{font-size:18px}
+  .hbar{grid-template-columns:1fr}
   .rt{min-width:0;font-size:14px}
   .rt thead{display:none}
   .rt,.rt tbody,.rt td{display:block}
@@ -623,7 +678,7 @@ const META = {};
 function meta(g, q){
   const id = `${g}-${q.n}`; if (META[id]) return META[id];
   const tp = document.createElement("template"); tp.innerHTML = q.html;
-  const fs = $$("[data-t]", tp.content).map(el => ({t: el.dataset.t, opts: $$(".opt", el).map(o => plain(o))}));
+  const fs = $$("[data-t]", tp.content).map(el => ({t: el.dataset.t, a: el.dataset.a, opts: $$(".opt", el).map(o => plain(o))}));
   const c = tp.content.cloneNode(true);
   $$("svg,table,.choice,.sel,.in,.money,.sym,.arm,.chave,.grid,.ql,.row,.seq,.note,.ex,.big,div", c).forEach(n => n.remove());
   let txt = plain(c).replace(/\s+/g, " ").replace(/\s*(Resposta|R):\s*$/, "").trim();
@@ -666,53 +721,104 @@ function gradeStats(g){
   DATA.grades[g].forEach(f => { let all = true; f.qs.forEach(q => { const id=`${g}-${q.n}`, s=status(id); c[s]++; if (s==="ok" && !st.tries[id] && !st.peek[id]) c.first++; if (s!=="ok") all=false; }); if (all) c.fichas++; });
   return c;
 }
+const RF = [["all","Todas"],["no","Erradas"],["nc","Sem conferir"],["em","Em branco"],["ok","Certas"]];
+const ROPEN = new Set();
+function fichaTag(n, len){
+  if (n.em === len) return ["Não começada", "st-em"];
+  if (n.ok === len) return ["Completa ✓", "st-ok"];
+  if (n.no) return [`${n.no} a revisar`, "st-no"];
+  return ["Em andamento", "st-nc"];
+}
+function partsHtml(m, vals){
+  const parts = m.fs.map((f, k) => {
+    const v = vals[k];
+    if (v === undefined || v === "" || (Array.isArray(v) && !v.length)) return {t: "□", c: "pt-em"};
+    let txt, ok = null;
+    if (f.t === "ch"){ txt = f.opts[+v] ?? v; ok = String(v) === f.a; }
+    else if (f.t === "m") txt = `${brl(v.reduce((a,b)=>a+b,0))} (${v.map(x => x>=1 ? x : Math.round(x*100)+"¢").join(" + ")})`;
+    else if (f.t === "sym") txt = `${v.length} quadradinho${v.length>1?"s":""} pintado${v.length>1?"s":""}`;
+    else { txt = String(v).trim(); if (!txt) return {t: "□", c: "pt-em"}; ok = f.t === "s" ? txt === f.a : same(txt, f.a || "", f.t); }
+    return {t: txt, c: ok === null ? "" : ok ? "pt-ok" : "pt-no"};
+  });
+  if (parts.every(p => p.c === "pt-em")) return "";
+  return parts.map(p => `<span class="pt ${p.c}">${esc(p.t)}</span>`).join('<span class="pt-sep">·</span>');
+}
 function renderResults(){
-  const g = st.pos.g, box = $("#results"), c = gradeStats(g), T = qTotal(g), pct = Math.round(c.ok/T*100);
-  const flt = st.rfilter;
+  const g = st.pos.g, box = $("#results"), c = gradeStats(g), T = qTotal(g);
+  const answered = c.ok + c.no + c.nc, checked = c.ok + c.no;
+  const prog = Math.round(answered / T * 100), acc = checked ? Math.round(c.ok / checked * 100) : 0;
+  let flt = st.rfilter; if (!RF.some(([k]) => k === flt)) flt = st.rfilter = (flt === "todo" ? "no" : "all");
+  const cnt = {all: T, ok: c.ok, no: c.no, nc: c.nc, em: c.em};
+  const fichas = DATA.grades[g].map((f, i) => {
+    const rows = f.qs.map((q, k) => { const id = `${g}-${q.n}`; return {q, k, id, s: status(id)}; });
+    const n = {ok:0, no:0, nc:0, em:0}; rows.forEach(r => n[r.s]++);
+    return {f, i, rows, n};
+  });
+  const rev = fichas.filter(F => F.n.no).sort((a, b) => b.n.no - a.n.no || a.i - b.i).slice(0, 4);
+  const resumo = answered === 0 ? `Nenhuma questão do ${g}º ano foi respondida ainda nesta rodada.`
+    : `Já respondeu <b>${answered} de ${T}</b> questões do ${g}º ano${checked ? ` e acertou <b>${acc}%</b> das que conferiu` : ""}.` +
+      (c.no ? ` Há <b>${c.no}</b> para revisar.` : checked ? " Nenhuma errada até agora!" : "") +
+      (c.nc ? ` <b>${c.nc}</b> ${c.nc === 1 ? "ficou" : "ficaram"} sem conferir.` : "");
+  const bar = n => { const L = n.ok + n.no + n.nc + n.em || 1; return `<span class="mbar" aria-hidden="true">${["ok","no","nc"].map(s => `<i class="st-${s}" style="width:${n[s]/L*100}%"></i>`).join("")}</span>`; };
   box.innerHTML = `
     <div class="rhead">
       <div class="rtop"><div><small>Conferência · ${g}º ano${nVers(g) > 1 ? ` · rodada ${st.round[g]}` : ""}</small><h2>Resultados</h2>
-        <p>Veja o que a criança respondeu em cada questão, a resposta certa e quantas tentativas ela precisou.</p></div>
+        <p class="rsum-txt">${resumo}</p></div>
         <div class="seg" role="group" aria-label="Escolher ano">${[3,4,5].map(x=>`<button type="button" data-g="${x}" aria-pressed="${x===g}">${x}º ano</button>`).join("")}</div></div>
       <div class="kpis">
-        <div class="kpi k-main"><b>${c.ok} de ${T}</b><span>questões certas (${pct}%)</span></div>
-        <div class="kpi k-ok"><b>${c.first}</b><span>certas de primeira</span></div>
+        <div class="kpi k-main"><b>${prog}%</b><span>do ano respondido (${answered} de ${T})</span></div>
+        <div class="kpi k-ok"><b>${checked ? acc + "%" : "—"}</b><span>de acerto nas conferidas${checked ? ` (${c.ok} de ${checked})` : ""}</span></div>
+        <div class="kpi"><b>${c.first}</b><span>certas de primeira</span></div>
         <div class="kpi k-no"><b>${c.no}</b><span>erradas, a revisar</span></div>
         <div class="kpi k-nc"><b>${c.nc}</b><span>respondidas sem conferir</span></div>
-        <div class="kpi"><b>${c.em}</b><span>em branco</span></div>
       </div>
       <div class="meter" role="img" aria-label="${c.ok} certas, ${c.no} erradas, ${c.nc} sem conferir, ${c.em} em branco">
         <i class="st-ok" style="width:${c.ok/T*100}%;background:var(--dot)"></i><i class="st-no" style="width:${c.no/T*100}%;background:var(--dot)"></i><i class="st-nc" style="width:${c.nc/T*100}%;background:var(--dot)"></i></div>
-      <div class="legend"><span class="st-ok">Certa</span><span class="st-no">Errada</span><span class="st-nc">Não conferida</span><span class="st-em">Em branco</span><span style="--dot:transparent">Fichas completas: ${c.fichas} de ${DATA.grades[g].length}</span></div>
+      <div class="legend"><span class="st-ok">Certa (${c.ok})</span><span class="st-no">Errada (${c.no})</span><span class="st-nc">Não conferida (${c.nc})</span><span class="st-em">Em branco (${c.em})</span></div>
+      ${rev.length ? `<div class="rev"><b>Para revisar primeiro</b><div class="rev-list">${rev.map(F => `<button type="button" class="rev-chip" data-i="${F.i}"><span>Ficha ${F.i+1} · ${esc(F.f.title)}</span><em>${F.n.no} ${F.n.no === 1 ? "errada" : "erradas"}</em></button>`).join("")}</div></div>` : ""}
+      <div class="fmap-h"><b>Fichas do ${g}º ano</b><span>${c.fichas} de ${fichas.length} completas · toque numa ficha para ver as questões</span></div>
+      <div class="fmap">${fichas.map(F => { const [tg, tc] = fichaTag(F.n, F.rows.length); return `<button type="button" class="ftile" data-i="${F.i}">
+        <span class="ft-top"><b class="n">${F.i+1}</b><span class="ft-t">${esc(F.f.title)}</span></span>
+        ${bar(F.n)}<span class="ft-bot"><span class="ft-c">${F.n.ok} de ${F.rows.length}</span><span class="pill ${tc}">${tg}</span></span></button>`; }).join("")}</div>
       <div class="rtools">
-        <div class="seg" role="group" aria-label="Filtro">
-          <button type="button" data-f="all" aria-pressed="${flt==="all"}">Todas as questões</button>
-          <button type="button" data-f="todo" aria-pressed="${flt==="todo"}">Só o que falta acertar</button></div>
-        <button type="button" class="btn ghost small" id="copy">Copiar resumo</button><span class="copied" id="copied" aria-live="polite"></span>
+        <div class="seg rfilters" role="group" aria-label="Mostrar">${RF.map(([k, l]) => `<button type="button" data-f="${k}" aria-pressed="${flt===k}">${l} <small>${cnt[k]}</small></button>`).join("")}</div>
+        <span class="rbtns"><button type="button" class="btn ghost small" id="copy">Copiar resumo</button><button type="button" class="btn ghost small" id="print">Imprimir</button></span>
+        <span class="copied" id="copied" aria-live="polite"></span>
       </div>
       <div id="copyfb"></div>
       ${histHtml(g)}
       ${tabuResHtml()}
     </div>
-    ${DATA.grades[g].map((f,i) => {
-      const rows = f.qs.map((q, k) => { const id=`${g}-${q.n}`; return {q, k, id, s: status(id), m: meta(g,q)}; });
-      const vis = flt==="todo" ? rows.filter(r => r.s!=="ok") : rows;
-      const okn = rows.filter(r=>r.s==="ok").length;
+    <h3 class="qbq">Questão por questão</h3>
+    ${fichas.map(F => {
+      const vis = flt === "all" ? F.rows : F.rows.filter(r => r.s === flt);
       if (!vis.length) return "";
-      return `<article class="rcard"><header><b class="n">${i+1}</b><h3>${f.title}</h3>
-        <span class="dots" aria-hidden="true">${rows.map(r=>`<i class="st-${r.s}"></i>`).join("")}</span><span class="cnt">${okn} de ${f.qs.length}</span></header>
+      const open = flt !== "all" || ROPEN.has(`${g}-${F.i}`);
+      const [tg, tc] = fichaTag(F.n, F.rows.length);
+      return `<details class="rcard" data-i="${F.i}"${open ? " open" : ""}><summary><b class="n">${F.i+1}</b><h3>${esc(F.f.title)}</h3>
+        <span class="dots" aria-hidden="true">${F.rows.map(r=>`<i class="st-${r.s}"></i>`).join("")}</span><span class="cnt">${F.n.ok} de ${F.rows.length}</span><span class="pill ${tc}">${tg}</span><span class="chev" aria-hidden="true"></span></summary>
         <div class="rtw"><table class="rt"><thead><tr><th>Nº</th><th>Questão</th><th>Resposta da criança</th><th>Resposta certa</th><th>Situação</th><th></th></tr></thead><tbody>
-        ${vis.map(r => { const a = shown(r.m, st.ans[r.id]||[]); return `<tr>
-          <td class="qn">${r.k+1}</td><td class="qt">${esc(r.m.txt)}</td>
-          <td class="ans ${a?"":"empty"}" data-l="Criança respondeu">${a?esc(a):"—"}</td><td class="right" data-l="Resposta certa">${esc(r.q.gab)}</td>
+        ${vis.map(r => { const a = partsHtml(meta(g, r.q), st.ans[r.id] || []); return `<tr class="row-${r.s}">
+          <td class="qn">${r.k+1}</td><td class="qt">${esc(meta(g, r.q).txt)}</td>
+          <td class="ans ${a ? "" : "empty"}" data-l="Criança respondeu">${a || "—"}</td><td class="right" data-l="Resposta certa">${esc(r.q.gab)}</td>
           <td><span class="pill st-${r.s}">${LBL[r.s]}</span><span class="tries">${tryNote(r.id, r.s)}</span></td>
-          <td><button type="button" class="go" data-f="${i}">Abrir ficha</button></td></tr>`; }).join("")}
-        </tbody></table></div></article>`;
-    }).join("") || `<div class="rhead"><p style="margin:0;font-weight:700">Todas as ${T} questões do ${g}º ano estão certas. Parabéns!</p></div>`}`;
+          <td><button type="button" class="go" data-f="${F.i}" data-id="${r.id}">Ver questão</button></td></tr>`; }).join("")}
+        </tbody></table></div></details>`;
+    }).join("") || `<div class="rhead"><p style="margin:0;font-weight:700">${flt === "all" ? `Todas as ${T} questões do ${g}º ano estão certas. Parabéns!` : `Nenhuma questão nesta categoria.`}</p></div>`}`;
+  const openCard = i => { ROPEN.add(`${g}-${i}`); const d = $(`details.rcard[data-i="${i}"]`, box); if (d){ d.open = true; d.scrollIntoView({behavior: "smooth", block: "start"}); } };
   $$(".rtop .seg button", box).forEach(b => b.onclick = () => { st.pos.g = +b.dataset.g; save(); render(); });
-  $$(".rtools .seg button", box).forEach(b => b.onclick = () => { st.rfilter = b.dataset.f; save(); renderResults(); });
-  $$(".go", box).forEach(b => b.onclick = () => { st.view = "fichas"; st.pos.f[g] = +b.dataset.f; save(); render(); window.scrollTo({top:0, behavior:"smooth"}); });
+  $$(".rfilters button", box).forEach(b => b.onclick = () => { st.rfilter = b.dataset.f; save(); renderResults(); $(".qbq", box).scrollIntoView({behavior: "smooth", block: "start"}); });
+  $$(".ftile, .rev-chip", box).forEach(b => b.onclick = () => {
+    if (st.rfilter !== "all" && !$(`details.rcard[data-i="${b.dataset.i}"]`, box)){ st.rfilter = "all"; save(); renderResults(); }
+    openCard(+b.dataset.i);
+  });
+  if (flt === "all") $$("details.rcard", box).forEach(d => d.addEventListener("toggle", () => { const k = `${g}-${d.dataset.i}`; d.open ? ROPEN.add(k) : ROPEN.delete(k); }));
+  $$(".go", box).forEach(b => b.onclick = () => {
+    st.view = "fichas"; st.pos.f[g] = +b.dataset.f; save(); render();
+    const q = $(`.q[data-id="${b.dataset.id}"]`); if (q){ q.scrollIntoView({block: "center"}); q.classList.remove("pop"); void q.offsetWidth; q.classList.add("pop"); }
+  });
   $("#copy").onclick = () => copySummary(g);
+  $("#print").onclick = () => { $$("details.rcard", box).forEach(d => d.open = true); window.print(); };
 }
 const esc = s => String(s).replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
 function copySummary(g){
@@ -965,8 +1071,10 @@ function novaRodada(g){
 }
 function histHtml(g){
   const h = st.hist[g] || []; if (!h.length) return "";
-  return `<div class="hist"><b>Rodadas anteriores</b><ul>${h.slice().reverse().map(x =>
-    `<li>Rodada ${x.r} (versão ${x.v}) · ${x.d} · <span>${x.ok} de ${x.t || 50} certas</span>, ${x.first} de primeira, ${x.no} erradas, ${x.em} em branco</li>`).join("")}</ul></div>`;
+  return `<div class="hist"><b>Rodadas anteriores</b><div class="hrows">${h.slice().reverse().map(x => {
+    const T = x.t || 50, n = {ok: x.ok, no: x.no, nc: Math.max(0, T - x.ok - x.no - x.em)};
+    return `<div class="hbar"><span><b>Rodada ${x.r}</b> · ${x.d}</span><span>${x.ok} de ${T} certas · ${x.first} de primeira · ${x.no} erradas</span><span class="mbar" aria-hidden="true">${["ok","no","nc"].map(s => `<i class="st-${s}" style="width:${n[s]/T*100}%"></i>`).join("")}</span></div>`;
+  }).join("")}</div></div>`;
 }
 
 [3, 4, 5].forEach(applyRound);
