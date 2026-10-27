@@ -25,7 +25,7 @@
   },
   {
    "n": 5,
-   "html": "Escreva o <b>antecessor</b> e o <b>sucessor</b>:<div class=\"row\"><input class=\"in\" data-a=\"999\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> <span class=\"big\">1.000</span> <input class=\"in\" data-a=\"1001\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"><input class=\"in\" data-a=\"2498\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> <span class=\"big\">2.499</span> <input class=\"in\" data-a=\"2500\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "html": "Escreva o <b>antecessor</b> e o <b>sucessor</b>:<div class=\"ql\"><div><input class=\"in\" data-a=\"999\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> <span class=\"big\">1.000</span> <input class=\"in\" data-a=\"1001\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div><input class=\"in\" data-a=\"2498\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> <span class=\"big\">2.499</span> <input class=\"in\" data-a=\"2500\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
    "gab": "999 e 1.001 · 2.498 e 2.500"
   }
  ]

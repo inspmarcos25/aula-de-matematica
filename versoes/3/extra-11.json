@@ -12,15 +12,15 @@
     "gab": "1.630 · 1.385"
    },
    {
-    "html": "A biblioteca da escola tinha <b>1.460</b> livros. Comprou mais <b>275</b> e depois doou <b>390</b> para outra escola. Quantos livros a biblioteca tem agora?<div class=\"ql\"><div>Primeiro, depois de ganhar: <input class=\"in\" data-a=\"1735\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: <input class=\"in\" data-a=\"1345\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "html": "A biblioteca da escola tinha <b>1.460</b> livros. Comprou mais <b>275</b> e depois doou <b>390</b> para outra escola. Quantos livros a biblioteca tem agora?<div class=\"ql\"><div>Primeiro, depois de comprar: <input class=\"in\" data-a=\"1735\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: <input class=\"in\" data-a=\"1345\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
     "gab": "1.735 · 1.345"
    },
    {
-    "html": "Caio tinha <b>R$ 850,00</b> guardados. Recebeu <b>R$ 120,00</b> de mesada e gastou <b>R$ 395,00</b> numa chuteira. Quanto dinheiro sobrou?<div class=\"ql\"><div>Primeiro, depois de ganhar: <input class=\"in\" data-a=\"970\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: <input class=\"in\" data-a=\"575\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "html": "Caio tinha <b>R$ 850,00</b> guardados. Recebeu <b>R$ 120,00</b> de mesada e gastou <b>R$ 395,00</b> numa chuteira. Quanto dinheiro sobrou?<div class=\"ql\"><div>Primeiro, depois da mesada: R$ <input class=\"in\" data-a=\"970\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: R$ <input class=\"in\" data-a=\"575\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
     "gab": "970 · 575"
    },
    {
-    "html": "Uma granja tinha <b>2.300</b> ovos. De manhã recolheu mais <b>640</b> e à tarde vendeu <b>1.150</b>. Quantos ovos ficaram na granja?<div class=\"ql\"><div>Primeiro, depois de ganhar: <input class=\"in\" data-a=\"2940\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: <input class=\"in\" data-a=\"1790\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "html": "Uma granja tinha <b>2.300</b> ovos. De manhã recolheu mais <b>640</b> e à tarde vendeu <b>1.150</b>. Quantos ovos ficaram na granja?<div class=\"ql\"><div>Primeiro, depois de recolher: <input class=\"in\" data-a=\"2940\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Depois, no fim: <input class=\"in\" data-a=\"1790\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
     "gab": "2.940 · 1.790"
    }
   ],
@@ -56,7 +56,7 @@
     "gab": "7 bandejas · 9 bandejas"
    },
    {
-    "html": "<b>36 lápis</b> foram repartidos igualmente entre <b>4 amigos</b>. Quantos lápis cada um recebeu?<div class=\"ql\"><div><input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> lápis</div><div>Depois, Gabi deu <b>3 lápis</b> para o Téo. Com quantos lápis o Téo ficou? <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "html": "<b>36 lápis</b> foram repartidos igualmente entre <b>4 amigos</b>: Gabi, Téo, Rui e Bia. Quantos lápis cada um recebeu?<div class=\"ql\"><div><input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> lápis</div><div>Depois, Gabi deu <b>3 lápis</b> para o Téo. Com quantos lápis o Téo ficou? <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
     "gab": "9 lápis · Téo ficou com 12"
    }
   ],
@@ -124,7 +124,7 @@
     "gab": "R$ 8,00 · não"
    },
    {
-    "html": "Gui pagou um tênis de <b>R$ 74,00</b> com uma nota de <b>R$ 100,00</b>.<div class=\"ql\"><div>Quanto sobrou? R$ <input class=\"in\" data-a=\"26\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Com o que sobrou, dá para comprar uma bola de <b>R$ 25,00</b>? <span class=\"choice\" data-a=\"0\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">sim</button><button type=\"button\" class=\"opt\" data-v=\"1\">não</button></span></div></div>",
+    "html": "Gui pagou um tênis de <b>R$ 74,00</b> com uma nota de <b>R$ 100,00</b>.<div class=\"ql\"><div>Quanto recebeu de troco? R$ <input class=\"in\" data-a=\"26\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Com o troco, dá para comprar uma bola de <b>R$ 25,00</b>? <span class=\"choice\" data-a=\"0\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">sim</button><button type=\"button\" class=\"opt\" data-v=\"1\">não</button></span></div></div>",
     "gab": "R$ 26,00 · sim"
    },
    {
@@ -160,7 +160,7 @@
     "gab": "R$ 12,00 · R$ 30,00"
    },
    {
-    "html": "Uma plantinha tinha <b>4 cm</b> de altura e cresce <b>3 cm por semana</b>.<div class=\"ql\"><div>Qual será a altura depois de <b>3 semanas</b>? <input class=\"in\" data-a=\"13\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> cm</div><div>E depois de <b>6 semanas</b>? <input class=\"in\" data-a=\"22\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> cm</div></div>",
+    "html": "Uma plantinha tem <b>4 cm</b> de altura hoje e cresce <b>3 cm por semana</b>.<div class=\"ql\"><div>Qual será a altura depois de <b>3 semanas</b>? <input class=\"in\" data-a=\"13\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> cm</div><div>E depois de <b>6 semanas</b>? <input class=\"in\" data-a=\"22\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> cm</div></div>",
     "gab": "13 cm · 22 cm"
    },
    {
@@ -178,7 +178,7 @@
     "gab": "135 · 14"
    },
    {
-    "html": "Mamãe comprou na feira <b>2 dúzias de banana</b> e <b>1 caixa de uva</b>, e pagou com <b>R$ 50,00</b>.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">FEIRA</div><div class=\"mi\"><span>Banana (dúzia)</span><b>R$ 6,00</b></div><div class=\"mi\"><span>Maçã (quilo)</span><b>R$ 8,00</b></div><div class=\"mi\"><span>Uva (caixa)</span><b>R$ 7,00</b></div></div><div class=\"ql\"><div>Quanto ela gastou? R$ <input class=\"in\" data-a=\"19\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto recebeu de troco? R$ <input class=\"in\" data-a=\"31\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+    "html": "Mamãe comprou na feira <b>2 dúzias de bananas</b> e <b>1 caixa de uva</b>, e pagou com <b>R$ 50,00</b>.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">FEIRA</div><div class=\"mi\"><span>Banana (dúzia)</span><b>R$ 6,00</b></div><div class=\"mi\"><span>Maçã (quilo)</span><b>R$ 8,00</b></div><div class=\"mi\"><span>Uva (caixa)</span><b>R$ 7,00</b></div></div><div class=\"ql\"><div>Quanto ela gastou? R$ <input class=\"in\" data-a=\"19\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quanto recebeu de troco? R$ <input class=\"in\" data-a=\"31\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
     "gab": "R$ 19,00 · troco R$ 31,00"
    },
    {

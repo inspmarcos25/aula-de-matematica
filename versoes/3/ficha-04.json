@@ -31,7 +31,7 @@
   ],
   "18": [
    {
-    "html": "Um sítio tinha <b>1.200</b> pés de alface e colheu <b>450</b>. Quantos pés de alface ficaram na horta?<div><input class=\"in\" data-a=\"750\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> pés de alface</div>",
+    "html": "Um sítio tinha <b>1.200</b> pés de alface na horta e colheu <b>450</b>. Quantos pés de alface ficaram na horta?<div><input class=\"in\" data-a=\"750\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> pés de alface</div>",
     "gab": "750 pés de alface"
    },
    {

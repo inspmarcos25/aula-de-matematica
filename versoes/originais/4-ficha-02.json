@@ -26,7 +26,7 @@
   {
    "n": 10,
    "html": "Uma fábrica produziu <b>12.350</b> brinquedos em março e <b>9.875</b> em abril. Quantos brinquedos a mais foram produzidos em março?<div><input class=\"in\" data-a=\"2475\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> brinquedos</div>",
-   "gab": "2.475"
+   "gab": "2.475 brinquedos"
   }
  ]
 }

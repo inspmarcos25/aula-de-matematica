@@ -20,7 +20,7 @@
   },
   {
    "n": 29,
-   "html": "Clique nas moedas para formar <b>exatamente R$ 2,35</b>.<div class=\"money\" data-target=\"2.35\" data-items=\"1,0.5,0.25,0.1,0.05\" data-t=\"m\"></div>",
+   "html": "Clique nas moedas para formar <b>exatamente R$ 2,35</b>. Clique numa moeda da bandeja para devolvê-la.<div class=\"money\" data-target=\"2.35\" data-items=\"1,0.5,0.25,0.1,0.05\" data-t=\"m\"></div>",
    "gab": "Ex.: 2 × R$ 1 + 25¢ + 10¢"
   },
   {

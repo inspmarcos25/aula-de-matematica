@@ -26,7 +26,7 @@
   ],
   "52": [
    {
-    "html": "A escola vai levar <b>94 alunos</b> ao museu em vans. Cada van leva <b>15 alunos</b>. Quantas vans são necessárias para que ninguém fique para trás?<div class=\"ql\"><div>94 ÷ 15 = <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> resto <input class=\"in\" data-a=\"4\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Vans necessárias: <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: o que fazer com os alunos que sobram no resto?</div>",
+    "html": "A escola vai levar <b>94 alunos</b> ao museu em vans. Cada van leva <b>15 alunos</b>. Quantas vans, <b>no mínimo</b>, são necessárias para que ninguém fique para trás?<div class=\"ql\"><div>94 ÷ 15 = <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> resto <input class=\"in\" data-a=\"4\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Vans necessárias: <input class=\"in\" data-a=\"7\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: o que fazer com os alunos que sobram no resto?</div>",
     "gab": "6 resto 4 · 7 vans"
    },
    {
@@ -34,7 +34,7 @@
     "gab": "19 caixas · sobram 2 ovos"
    },
    {
-    "html": "Na festa de aniversário da Júlia vão <b>157 convidados</b>. Cada mesa tem <b>8 lugares</b>. Quantas mesas é preciso montar para todos sentarem? Quantos lugares vão ficar vazios?<div class=\"ql\"><div>Mesas: <input class=\"in\" data-a=\"20\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Lugares vazios: <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: faça a divisão e pense no resto: ele também precisa de mesa.</div>",
+    "html": "Na festa de aniversário da Júlia vão <b>157 convidados</b>. Cada mesa tem <b>8 lugares</b>. Quantas mesas, <b>no mínimo</b>, é preciso montar para todos sentarem? Quantos lugares vão ficar vazios?<div class=\"ql\"><div>Mesas: <input class=\"in\" data-a=\"20\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Lugares vazios: <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: faça a divisão e pense no resto: ele também precisa de mesa.</div>",
     "gab": "20 mesas · 3 lugares vazios"
    },
    {
@@ -56,7 +56,7 @@
     "gab": "180 · 120 · 60 laranjas"
    },
    {
-    "html": "A turma juntou <b>R$ 500,00</b> para o passeio. Gastou <b>3/5</b> desse dinheiro com o ônibus. Quanto custou o ônibus? Quanto sobrou para o lanche?<div class=\"ql\"><div>Ônibus: R$ <input class=\"in\" data-a=\"300\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Sobrou: R$ <input class=\"in\" data-a=\"200\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "html": "A turma juntou <b>R$ 500,00</b> para o passeio. Gastou <b>3/5</b> desse dinheiro com o ônibus. Quanto custou o ônibus? Quanto sobrou para o lanche?<div class=\"ql\"><div>Ônibus: R$ <input class=\"in\" data-a=\"300\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Sobrou: R$ <input class=\"in\" data-a=\"200\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: ache primeiro quanto vale 1/5 do dinheiro.</div>",
     "gab": "R$ 300,00 · sobrou R$ 200,00"
    }
   ],
@@ -80,19 +80,19 @@
   ],
   "55": [
    {
-    "html": "Gabriel disse: <i>“Pensei num número, multipliquei por <b>3</b> e depois somei <b>7</b> e deu <b>52</b>.”</i> Em que número pensou?<div class=\"ql\"><div>Número pensado: <input class=\"in\" data-a=\"15\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: faça o caminho de volta: desfaça a soma primeiro, depois a multiplicação.</div>",
+    "html": "Gabriel disse: <i>“Pensei num número, multipliquei por <b>3</b>, depois somei <b>7</b> e deu <b>52</b>.”</i> Em que número pensou?<div class=\"ql\"><div>Número pensado: <input class=\"in\" data-a=\"15\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: faça o caminho de volta: desfaça a soma primeiro, depois a multiplicação.</div>",
     "gab": "15"
    },
    {
-    "html": "A professora Helena disse: <i>“Pensei num número, multipliquei por <b>4</b> e depois tirei <b>9</b> e deu <b>91</b>.”</i> Em que número pensou?<div class=\"ql\"><div>Número pensado: <input class=\"in\" data-a=\"25\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: comece pelo fim: o contrário de tirar 9 é somar 9.</div>",
+    "html": "A professora Helena disse: <i>“Pensei num número, multipliquei por <b>4</b>, depois tirei <b>9</b> e deu <b>91</b>.”</i> Em que número pensou?<div class=\"ql\"><div>Número pensado: <input class=\"in\" data-a=\"25\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: comece pelo fim: o contrário de tirar 9 é somar 9.</div>",
     "gab": "25"
    },
    {
-    "html": "Yasmin disse: <i>“Pensei num número, somei <b>15</b> e depois dobrei o resultado e deu <b>86</b>.”</i> Em que número pensou?<div class=\"ql\"><div>Número pensado: <input class=\"in\" data-a=\"28\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: volte de trás para frente: o contrário de dobrar é dividir por 2.</div>",
+    "html": "Yasmin disse: <i>“Pensei num número, somei <b>15</b>, depois dobrei o resultado e deu <b>86</b>.”</i> Em que número pensou?<div class=\"ql\"><div>Número pensado: <input class=\"in\" data-a=\"28\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: volte de trás para frente: o contrário de dobrar é dividir por 2.</div>",
     "gab": "28"
    },
    {
-    "html": "Vovô Sebastião disse: <i>“Pensei num número, dividi por <b>5</b> e depois somei <b>24</b> e deu <b>40</b>.”</i> Em que número pensou?<div class=\"ql\"><div>Número pensado: <input class=\"in\" data-a=\"80\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: volte de trás para frente: desfaça a soma e depois a divisão.</div>",
+    "html": "Vovô Sebastião disse: <i>“Pensei num número, dividi por <b>5</b>, depois somei <b>24</b> e deu <b>40</b>.”</i> Em que número pensou?<div class=\"ql\"><div>Número pensado: <input class=\"in\" data-a=\"80\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div><div class=\"note\">Dica: volte de trás para frente: desfaça a soma e depois a divisão.</div>",
     "gab": "80"
    }
   ],
@@ -120,7 +120,7 @@
     "gab": "R$ 2,50 cada · R$ 17,50"
    },
    {
-    "html": "Para fazer <b>3 bolos</b>, Dona Cida usa <b>9 ovos</b>. Quantos bolos ela consegue fazer com <b>15 ovos</b>?<div class=\"ql\"><div>Ovos para 1 bolo: <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Bolos com 15 ovos: <input class=\"in\" data-a=\"5\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "html": "Para fazer <b>3 bolos</b>, dona Cida usa <b>9 ovos</b>. Quantos bolos ela consegue fazer com <b>15 ovos</b>?<div class=\"ql\"><div>Ovos para 1 bolo: <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Bolos com 15 ovos: <input class=\"in\" data-a=\"5\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
     "gab": "3 ovos por bolo · 5 bolos"
    },
    {

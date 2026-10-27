@@ -8,7 +8,7 @@
    },
    {
     "html": "Escreva por extenso o número <b>80.540</b>:<div><input class=\"in\" data-a=\"oitenta mil quinhentos e quarenta\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
-    "gab": "Oitenta mil, quinhentos e quarenta"
+    "gab": "Oitenta mil quinhentos e quarenta"
    },
    {
     "html": "Escreva por extenso o número <b>63.017</b>:<div><input class=\"in\" data-a=\"sessenta e três mil e dezessete|sessenta e três mil dezessete\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
