@@ -4,7 +4,7 @@ Caderno interativo de matemática do 3º ao 5º ano (BNCC), num único arquivo H
 
 **Abrir online:** https://inspmarcos25.github.io/aula-de-matematica/
 
-- **Caderno de Matemática.html**: abra no navegador. São 12 fichas por ano (10 de assuntos com 15 questões e 2 de Probleminhas com 20), 570 atividades no total, correção na hora, aba Tabuada (estudar, treinar e desafio do minuto) e aba Resultados para conferência.
+- **Caderno de Matemática.html**: abra no navegador. São 10 fichas de assuntos com 15 questões e 2 de Probleminhas com 20 em cada ano, mais a ficha de Educação financeira (30 questões) no 5º ano: 600 atividades no total, correção na hora, aba Tabuada (estudar, treinar e desafio do minuto) e aba Resultados para conferência.
 - **Rodadas:** o botão "Novas questões" troca as questões do ano. Cada questão tem 4 versões, e as respostas da rodada anterior ficam no histórico.
 
 ## Editar as questões
@@ -17,3 +17,7 @@ Depois de editar:
 python3 versoes/validar.py 3      # confere o 3º ano (troque por 4 ou 5)
 python3 versoes/montar.py         # coloca o banco dentro do HTML
 ```
+
+## Revisão
+
+Todas as questões foram revisadas em todas as versões. O resumo está em [REVISAO.md](REVISAO.md), e os detalhes de cada ficha ficam em `versoes/revisao/`.

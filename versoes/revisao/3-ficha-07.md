@@ -28,3 +28,6 @@
 - Bandejas `data-t="m"` (Q33, Q167): alvos formáveis com os itens oferecidos; valores ≥ 2 aparecem como cédula e 1/centavos como moeda (todas as cores de cédula existem no widget).
 - Botões de escolha: Q161 (0,1,0,1) e Q168 (1,0,1,0) alternam a posição; sem empates.
 - `python3 -I versoes/validar.py 3 7` → 0 problemas.
+
+## Ajuste posterior (revisão geral)
+- Q166 v1–v4 — a sugestão do revisor foi aplicada: o desenho mostra vários itens com um único preço e a criança podia multiplicar; o enunciado agora diz "Cada etiqueta mostra o preço de **tudo** o que está naquele saquinho" (e foi tirado o espaço antes do "?").

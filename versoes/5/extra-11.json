@@ -92,7 +92,7 @@
     "gab": "25 · 50 · 75"
    },
    {
-    "html": "Uma corda de <b>45 metros</b> foi cortada em 2 pedaços. Um pedaço ficou <b>4 vezes maior</b> que o outro.<div class=\"ql\"><div>Pedaço menor: <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m</div><div>Pedaço maior: <input class=\"in\" data-a=\"36\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m</div></div>",
+    "html": "Uma corda de <b>45 metros</b> foi cortada em 2 pedaços. Um pedaço ficou com o <b>quádruplo</b> (4 vezes) do comprimento do outro.<div class=\"ql\"><div>Pedaço menor: <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m</div><div>Pedaço maior: <input class=\"in\" data-a=\"36\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> m</div></div>",
     "gab": "9 m e 36 m"
    }
   ],
@@ -142,7 +142,7 @@
     "gab": "24 combos"
    },
    {
-    "html": "De casa até a praça há <b>2 caminhos</b>. Da praça até a escola há <b>5 caminhos</b>.<div class=\"ql\"><div>Quantos caminhos diferentes vão de casa à escola passando pela praça? <input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Se abrirem mais <b>2 caminhos diretos</b> de casa à escola, quantos caminhos haverá ao todo? <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+    "html": "De casa até a praça há <b>2 caminhos</b>. Da praça até a escola há <b>5 caminhos</b>.<div class=\"ql\"><div>Quantos caminhos diferentes vão de casa à escola passando pela praça? <input class=\"in\" data-a=\"10\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Se abrirem mais <b>2 caminhos diretos</b> de casa à escola, quantos caminhos de casa à escola haverá ao todo? <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
     "gab": "10 · 12"
    },
    {
@@ -182,7 +182,7 @@
     "gab": "R$ 29,50 · tomate"
    },
    {
-    "html": "No campeonato, cada <b>vitória vale 3 pontos</b> e cada <b>empate vale 1 ponto</b>. Veja o quadro:<div class=\"row\"><div class=\"menu\"><div class=\"mh\">CAMPEONATO</div><div class=\"mi\"><span>Águias</span><b>5 vitórias · 2 empates</b></div><div class=\"mi\"><span>Leões</span><b>4 vitórias · 5 empates</b></div><div class=\"mi\"><span>Tubarões</span><b>6 vitórias · 0 empates</b></div></div><div class=\"ql\"><div>Pontos das Águias: <input class=\"in\" data-a=\"17\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Pontos dos Leões: <input class=\"in\" data-a=\"17\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Pontos dos Tubarões: <input class=\"in\" data-a=\"18\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quem foi o campeão? <span class=\"choice\" data-a=\"2\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">Águias</button><button type=\"button\" class=\"opt\" data-v=\"1\">Leões</button><button type=\"button\" class=\"opt\" data-v=\"2\">Tubarões</button></span></div></div></div>",
+    "html": "No campeonato, cada <b>vitória vale 3 pontos</b> e cada <b>empate vale 1 ponto</b>. Veja o quadro:<div class=\"row\"><div class=\"menu\"><div class=\"mh\">CAMPEONATO</div><div class=\"mi\"><span>Águias</span><b>5 vitórias · 2 empates</b></div><div class=\"mi\"><span>Leões</span><b>4 vitórias · 5 empates</b></div><div class=\"mi\"><span>Tubarões</span><b>6 vitórias · 0 empates</b></div></div><div class=\"ql\"><div>Pontos das Águias: <input class=\"in\" data-a=\"17\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Pontos dos Leões: <input class=\"in\" data-a=\"17\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Pontos dos Tubarões: <input class=\"in\" data-a=\"18\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>Quem foi o campeão? <span class=\"choice\" data-a=\"0\" data-t=\"ch\"><button type=\"button\" class=\"opt\" data-v=\"0\">Tubarões</button><button type=\"button\" class=\"opt\" data-v=\"1\">Águias</button><button type=\"button\" class=\"opt\" data-v=\"2\">Leões</button></span></div></div></div>",
     "gab": "17 · 17 · 18 · campeão Tubarões"
    }
   ]
