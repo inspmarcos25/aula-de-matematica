@@ -7,7 +7,7 @@
     "gab": "Vinte e sete mil e noventa e um"
    },
    {
-    "html": "Escreva por extenso o número <b>80.540</b>:<div><input class=\"in\" data-a=\"oitenta mil quinhentos e quarenta\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "html": "Escreva por extenso o número <b>80.540</b>:<div><input class=\"in\" data-a=\"oitenta mil quinhentos e quarenta|oitenta mil e quinhentos e quarenta\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
     "gab": "Oitenta mil quinhentos e quarenta"
    },
    {

@@ -5,7 +5,7 @@
  "qs": [
   {
    "n": 1,
-   "html": "Escreva por extenso o número <b>2.375</b>:<div><input class=\"in\" data-a=\"dois mil trezentos e setenta e cinco\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "html": "Escreva por extenso o número <b>2.375</b>:<div><input class=\"in\" data-a=\"dois mil trezentos e setenta e cinco|dois mil e trezentos e setenta e cinco\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
    "gab": "Dois mil, trezentos e setenta e cinco"
   },
   {

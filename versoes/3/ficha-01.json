@@ -3,7 +3,7 @@
  "qs": {
   "1": [
    {
-    "html": "Escreva por extenso o número <b>4.608</b>:<div><input class=\"in\" data-a=\"quatro mil seiscentos e oito\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "html": "Escreva por extenso o número <b>4.608</b>:<div><input class=\"in\" data-a=\"quatro mil seiscentos e oito|quatro mil e seiscentos e oito\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
     "gab": "Quatro mil, seiscentos e oito"
    },
    {
@@ -11,7 +11,7 @@
     "gab": "Sete mil e cinquenta e dois"
    },
    {
-    "html": "Escreva por extenso o número <b>3.940</b>:<div><input class=\"in\" data-a=\"três mil novecentos e quarenta\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+    "html": "Escreva por extenso o número <b>3.940</b>:<div><input class=\"in\" data-a=\"três mil novecentos e quarenta|três mil e novecentos e quarenta\" data-t=\"t\" style=\"width:380px\"  placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
     "gab": "Três mil, novecentos e quarenta"
    }
   ],

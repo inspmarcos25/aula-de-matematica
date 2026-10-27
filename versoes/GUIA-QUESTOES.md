@@ -24,7 +24,7 @@ Público: crianças do 3º ao 5º ano (8 a 11 anos). Tudo em português do Brasi
 | data-t | Elemento | data-a (resposta) | Como corrige |
 |---|---|---|---|
 | `n` | `<input class="in" data-t="n" data-a="1346" style="width:70px" inputmode="decimal" placeholder="" autocomplete="off" spellcheck="false">` | número sem ponto de milhar; decimal com vírgula (`2,50`); alternativas com `\|` | compara o valor (aceita 1.346, 1346, 2,5 = 2,50) |
-| `t` | `<input class="in" data-t="t" data-a="dois mil e cinco" style="width:380px" ...>` | texto em minúsculas sem vírgulas; alternativas com `\|` | ignora acento, maiúscula, espaço e pontuação |
+| `t` | `<input class="in" data-t="t" data-a="dois mil e cinco" style="width:380px" ...>` | texto em minúsculas sem vírgulas; alternativas com `\|` (números por extenso: aceite **sempre** com e sem o "e" depois de "mil", ex. `sete mil e cinquenta e dois\|sete mil cinquenta e dois`) | ignora acento, maiúscula, espaço e pontuação |
 | `f` | `<input class="in" data-t="f" data-a="3/4" style="width:64px" placeholder="_/_" ...>` | fração `a/b`; alternativas com `\|` (ex. `6/8\|3/4`) | compara o texto exato sem espaços |
 | `h` | `<input class="in" data-t="h" data-a="7:30\|19:30" style="width:80px" placeholder="_h_" ...>` | hora `h:mm` | aceita 7h30, 7:30 |
 | `c` | `<input class="in" data-t="c" data-a="B3" style="width:56px" ...>` | coordenada letra+número | ignora maiúscula/espaço |
