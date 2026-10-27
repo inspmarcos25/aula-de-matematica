@@ -195,6 +195,33 @@ def main():
         for e in errs:
             print("   -", e)
         total_err += len(errs)
+    # questões a mais dentro das fichas de assunto (mais-XX.json): 4 versões novas, números 100+10*(ficha-1)+1..10
+    for fn in sorted((BASE / ano).glob("mais-*.json")):
+        data = json.loads(fn.read_text(encoding="utf-8"))
+        nf = data.get("ficha")
+        if so and nf != so:
+            continue
+        errs = []
+        esperado = [100 + 10 * (nf - 1) + k for k in range(1, 11)] if isinstance(nf, int) else []
+        achado = sorted(int(k) for k in data.get("qs", {}))
+        if achado != esperado:
+            errs.append(f"questões esperadas {esperado}, encontradas {achado}")
+        for n, vs in data.get("qs", {}).items():
+            if len(vs) != 4:
+                errs.append(f"Q{n}: precisa de 4 versões, tem {len(vs)}")
+            for i, v in enumerate(vs):
+                r = check_version(v, f"Q{n} v{i+1}")
+                if isinstance(r, list):
+                    errs += r
+                else:
+                    errs += r[0]
+                    total_v += 1
+            if len({v.get("html") for v in vs}) != len(vs):
+                errs.append(f"Q{n}: versões repetidas")
+        print(f"{fn.name}: {'OK' if not errs else f'{len(errs)} problema(s)'}")
+        for e in errs:
+            print("   -", e)
+        total_err += len(errs)
     print(f"\nTotal: {total_v} versões conferidas, {total_err} problema(s).")
     sys.exit(1 if total_err else 0)
 

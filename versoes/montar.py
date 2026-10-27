@@ -32,6 +32,14 @@ for ano in ("3", "4", "5"):
         for n, vs in qs:
             bank[ano][n] = [{"html": v["html"], "gab": v["gab"]} for v in vs[1:]]
         resumo.append(f"{ano}º ano: ficha extra {data['ficha']} '{data['title']}' com {len(qs)} questões")
+    for fn in sorted(pasta.glob("mais-*.json")):
+        data = json.loads(fn.read_text(encoding="utf-8"))
+        qs = sorted(data["qs"].items(), key=lambda kv: int(kv[0]))
+        bank.setdefault("_more", {}).setdefault(ano, {})[str(data["ficha"])] = [
+            {"n": int(n), "html": vs[0]["html"], "gab": vs[0]["gab"]} for n, vs in qs]
+        for n, vs in qs:
+            bank[ano][n] = [{"html": v["html"], "gab": v["gab"]} for v in vs[1:]]
+        resumo.append(f"{ano}º ano: ficha {data['ficha']} ganhou {len(qs)} questões a mais")
     nv = {len(v) for v in bank[ano].values()}
     resumo.append(f"{ano}º ano: {len(bank[ano])} questões, {'/'.join(map(str, sorted(nv)))} versões novas cada")
 
