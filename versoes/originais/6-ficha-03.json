@@ -1,0 +1,32 @@
+{
+ "ficha": 3,
+ "title": "Múltiplos, divisores e primos",
+ "sub": "Divisibilidade, números primos, MMC e MDC",
+ "qs": [
+  {
+   "n": 11,
+   "html": "Clique em todos os <b>números primos</b> de 1 a 30:<div class=\"pick\" data-t=\"pk\" data-n=\"30\" data-a=\"2,3,5,7,11,13,17,19,23,29\"></div>",
+   "gab": "2, 3, 5, 7, 11, 13, 17, 19, 23 e 29"
+  },
+  {
+   "n": 12,
+   "html": "Complete:<div class=\"ql\"><div>a) Múltiplos de 6: 0, 6, 12, 18, <input class=\"in\" data-a=\"24\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\">, <input class=\"in\" data-a=\"30\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\">, <input class=\"in\" data-a=\"36\" data-t=\"n\" style=\"width:50px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Divisores de 18: 1, 2, 3, <input class=\"in\" data-a=\"6\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\">, <input class=\"in\" data-a=\"9\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\">, 18</div><div>c) Fatores primos: 60 = 2 × 2 × 3 × <input class=\"in\" data-a=\"5\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "a) 24, 30, 36 · b) 6, 9 · c) 5"
+  },
+  {
+   "n": 13,
+   "html": "O número <b>2.475</b> é divisível por quais números? Use os critérios de divisibilidade.<div class=\"grid\"><div>por 2: <select class=\"sel\" data-a=\"não\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"sim\">sim</option><option value=\"não\">não</option></select></div><div>por 3: <select class=\"sel\" data-a=\"sim\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"sim\">sim</option><option value=\"não\">não</option></select></div><div>por 5: <select class=\"sel\" data-a=\"sim\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"sim\">sim</option><option value=\"não\">não</option></select></div><div>por 9: <select class=\"sel\" data-a=\"sim\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"sim\">sim</option><option value=\"não\">não</option></select></div><div>por 10: <select class=\"sel\" data-a=\"não\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"sim\">sim</option><option value=\"não\">não</option></select></div></div>",
+   "gab": "por 2 não · por 3 sim · por 5 sim · por 9 sim · por 10 não"
+  },
+  {
+   "n": 14,
+   "html": "Dois ônibus saem juntos do terminal. Um parte a cada <b>12 minutos</b> e o outro a cada <b>18 minutos</b>. Depois de quantos minutos eles vão sair juntos de novo?<div class=\"row\"><svg class=\"ill\" width=\"280\" height=\"82\" viewBox=\"0 0 280 82\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(4,2)\"><rect x=\"0\" y=\"0\" width=\"124\" height=\"46\" rx=\"9\" fill=\"#f4a261\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><rect x=\"8\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"31\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"54\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"77\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"100\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"0\" y=\"26\" width=\"124\" height=\"5\" fill=\"#ffffff66\"/><circle cx=\"28\" cy=\"48\" r=\"9\" fill=\"#2b2b3a\"/><circle cx=\"28\" cy=\"48\" r=\"4\" fill=\"#c9cbd6\"/><circle cx=\"96\" cy=\"48\" r=\"9\" fill=\"#2b2b3a\"/><circle cx=\"96\" cy=\"48\" r=\"4\" fill=\"#c9cbd6\"/><text x=\"62.0\" y=\"74.0\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"13\" fill=\"#2b2b3a\">a cada 12 min</text></g><g transform=\"translate(150,2)\"><rect x=\"0\" y=\"0\" width=\"124\" height=\"46\" rx=\"9\" fill=\"#5ab0f0\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><rect x=\"8\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"31\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"54\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"77\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"100\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\" fill=\"#eaf6ff\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><rect x=\"0\" y=\"26\" width=\"124\" height=\"5\" fill=\"#ffffff66\"/><circle cx=\"28\" cy=\"48\" r=\"9\" fill=\"#2b2b3a\"/><circle cx=\"28\" cy=\"48\" r=\"4\" fill=\"#c9cbd6\"/><circle cx=\"96\" cy=\"48\" r=\"9\" fill=\"#2b2b3a\"/><circle cx=\"96\" cy=\"48\" r=\"4\" fill=\"#c9cbd6\"/><text x=\"62.0\" y=\"74.0\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"13\" fill=\"#2b2b3a\">a cada 18 min</text></g></svg><div><input class=\"in\" data-a=\"36\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> minutos<br><span class=\"small\">(dica: é o menor múltiplo comum de 12 e 18)</span></div></div>",
+   "gab": "MMC(12, 18) = 36 minutos"
+  },
+  {
+   "n": 15,
+   "html": "Ana tem <b>24 balas de morango</b> e <b>36 balas de uva</b>. Ela quer montar o <b>maior número possível</b> de saquinhos iguais, sem sobrar balas.<div class=\"ql\"><div>a) Quantos saquinhos ela vai montar? <input class=\"in\" data-a=\"12\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> <span class=\"small\">(dica: é o maior divisor comum de 24 e 36)</span></div><div>b) Em cada saquinho: <input class=\"in\" data-a=\"2\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> de morango e <input class=\"in\" data-a=\"3\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> de uva</div></div>",
+   "gab": "a) MDC(24, 36) = 12 · b) 2 de morango e 3 de uva"
+  }
+ ]
+}

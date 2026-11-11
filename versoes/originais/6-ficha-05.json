@@ -1,0 +1,32 @@
+{
+ "ficha": 5,
+ "title": "Números decimais",
+ "sub": "Reta numérica e as quatro operações com decimais",
+ "qs": [
+  {
+   "n": 21,
+   "html": "Na reta numérica, o espaço entre 2 e 3 foi dividido em <b>10 partes iguais</b>.<div><svg class=\"ill\" width=\"480\" height=\"76\" viewBox=\"0 0 480 76\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"24\" y1=\"40\" x2=\"456\" y2=\"40\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><line x1=\"24.0\" y1=\"30\" x2=\"24.0\" y2=\"50\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><line x1=\"67.2\" y1=\"34\" x2=\"67.2\" y2=\"46\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><line x1=\"110.4\" y1=\"34\" x2=\"110.4\" y2=\"46\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><line x1=\"153.6\" y1=\"34\" x2=\"153.6\" y2=\"46\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><line x1=\"196.8\" y1=\"34\" x2=\"196.8\" y2=\"46\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><line x1=\"240.0\" y1=\"34\" x2=\"240.0\" y2=\"46\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><line x1=\"283.2\" y1=\"34\" x2=\"283.2\" y2=\"46\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><line x1=\"326.4\" y1=\"34\" x2=\"326.4\" y2=\"46\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><line x1=\"369.6\" y1=\"34\" x2=\"369.6\" y2=\"46\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><line x1=\"412.8\" y1=\"34\" x2=\"412.8\" y2=\"46\" stroke=\"#2b2b3a\" stroke-width=\"1.2\"/><line x1=\"456.0\" y1=\"30\" x2=\"456.0\" y2=\"50\" stroke=\"#2b2b3a\" stroke-width=\"2\"/><text x=\"24.0\" y=\"67.0\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"15\" fill=\"#2b2b3a\">2</text><text x=\"456.0\" y=\"67.0\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"15\" fill=\"#2b2b3a\">3</text><path d=\"M153.6 28 l-6 -10 h12 Z\" fill=\"#e5506a\"/><text x=\"153.6\" y=\"14.0\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"13\" fill=\"#e5506a\">A</text><path d=\"M369.6 28 l-6 -10 h12 Z\" fill=\"#e5506a\"/><text x=\"369.6\" y=\"14.0\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"13\" fill=\"#e5506a\">B</text></svg></div><div class=\"ql\"><div>a) Quanto vale cada parte? <input class=\"in\" data-a=\"0,1\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Que números as setas indicam? A = <input class=\"in\" data-a=\"2,3\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"> &nbsp; B = <input class=\"in\" data-a=\"2,8\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "a) 0,1 · b) A = 2,3 e B = 2,8"
+  },
+  {
+   "n": 22,
+   "html": "Efetue (vírgula embaixo de vírgula na adição e na subtração):<div class=\"row\"><div class=\"arm\"><div class=\"r\">23,45</div><div class=\"r\"><b class=\"op\">+</b> 8,70</div><div class=\"bar\"></div><input class=\"in\" data-a=\"32,15\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">50,00</div><div class=\"r\"><b class=\"op\">−</b>12,36</div><div class=\"bar\"></div><input class=\"in\" data-a=\"37,64\" data-t=\"n\" style=\"width:116px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div class=\"arm\"><div class=\"r\">4,25</div><div class=\"r\"><b class=\"op\">×</b>3,2</div><div class=\"bar\"></div><input class=\"in\" data-a=\"13,6\" data-t=\"n\" style=\"width:99px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "32,15 · 37,64 · 13,6"
+  },
+  {
+   "n": 23,
+   "html": "Calcule as divisões:<div class=\"grid\"><div>18 ÷ 4 = <input class=\"in\" data-a=\"4,5\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>7,5 ÷ 3 = <input class=\"in\" data-a=\"2,5\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>9,6 ÷ 1,2 = <input class=\"in\" data-a=\"8\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "4,5 · 2,5 · 8"
+  },
+  {
+   "n": 24,
+   "html": "Multiplique ou divida por 10, 100 e 1.000:<div class=\"grid\"><div>3,47 × 100 = <input class=\"in\" data-a=\"347\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>82,5 ÷ 10 = <input class=\"in\" data-a=\"8,25\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>0,6 × 1.000 = <input class=\"in\" data-a=\"600\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>45 ÷ 100 = <input class=\"in\" data-a=\"0,45\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "347 · 8,25 · 600 · 0,45"
+  },
+  {
+   "n": 25,
+   "html": "Dona Lia comprou <b>2,5 kg de carne</b> e <b>3 pacotes de arroz</b>.<div class=\"row\"><div class=\"menu\"><div class=\"mh\">MERCADO</div><div class=\"mi\"><span>Carne (1 kg)</span><b>R$ 32,00</b></div><div class=\"mi\"><span>Arroz (1 pacote)</span><b>R$ 6,45</b></div></div><div class=\"ql\"><div>a) Total gasto: R$ <input class=\"in\" data-a=\"99,35\" data-t=\"n\" style=\"width:76px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Troco para R$ 100,00: R$ <input class=\"in\" data-a=\"0,65\" data-t=\"n\" style=\"width:64px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+   "gab": "a) 80,00 + 19,35 = R$ 99,35 · b) R$ 0,65"
+  }
+ ]
+}
