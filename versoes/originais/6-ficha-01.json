@@ -1,0 +1,32 @@
+{
+ "ficha": 1,
+ "title": "Números naturais",
+ "sub": "Milhões, valor posicional, comparação e números romanos",
+ "qs": [
+  {
+   "n": 1,
+   "html": "Escreva com algarismos o número <b>três milhões, duzentos e quarenta e cinco mil e oitenta</b>:<div><input class=\"in\" data-a=\"3245080\" data-t=\"n\" style=\"width:130px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div>",
+   "gab": "3.245.080"
+  },
+  {
+   "n": 2,
+   "html": "Observe o número no quadro de ordens e responda:<div class=\"tw\"><table class=\"ord\"><tr><th>MILHÕES</th><th colspan=\"3\">MILHARES</th><th colspan=\"3\">UNIDADES</th></tr><tr><th>UMi</th><th>CM</th><th>DM</th><th>UM</th><th>C</th><th>D</th><th>U</th></tr><tr><td>7</td><td>4</td><td>0</td><td>6</td><td>2</td><td>5</td><td>3</td></tr></table></div><div class=\"ql\"><div>a) Qual algarismo ocupa a ordem das centenas de milhar? <input class=\"in\" data-a=\"4\" data-t=\"n\" style=\"width:44px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) Qual é o valor posicional do algarismo 7? <input class=\"in\" data-a=\"7000000\" data-t=\"n\" style=\"width:110px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>c) Qual é o valor posicional do algarismo 6? <input class=\"in\" data-a=\"6000\" data-t=\"n\" style=\"width:80px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "a) 4 · b) 7.000.000 · c) 6.000"
+  },
+  {
+   "n": 3,
+   "html": "Compare os números usando <b>&gt;</b>, <b>&lt;</b> ou <b>=</b>:<div class=\"ql\"><div><span class=\"big\">2.345.678</span> <select class=\"sel\" data-a=\"&lt;\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"&gt;\">&gt;</option><option value=\"&lt;\">&lt;</option><option value=\"=\">=</option></select> <span class=\"big\">2.354.678</span></div><div><span class=\"big\">9.099.999</span> <select class=\"sel\" data-a=\"&lt;\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"&gt;\">&gt;</option><option value=\"&lt;\">&lt;</option><option value=\"=\">=</option></select> <span class=\"big\">9.100.000</span></div><div><span class=\"big\">5.000.000</span> <select class=\"sel\" data-a=\"&gt;\" data-t=\"s\"><option value=\"\">escolha</option><option value=\"&gt;\">&gt;</option><option value=\"&lt;\">&lt;</option><option value=\"=\">=</option></select> <span class=\"big\">4.999.999</span></div></div>",
+   "gab": "< · < · >"
+  },
+  {
+   "n": 4,
+   "html": "Arredonde o número <b>3.468.725</b>:<div class=\"ql\"><div>a) para a unidade de milhar mais próxima: <input class=\"in\" data-a=\"3469000\" data-t=\"n\" style=\"width:110px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>b) para a centena de milhar mais próxima: <input class=\"in\" data-a=\"3500000\" data-t=\"n\" style=\"width:110px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>c) para a unidade de milhão mais próxima: <input class=\"in\" data-a=\"3000000\" data-t=\"n\" style=\"width:110px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div>",
+   "gab": "a) 3.469.000 · b) 3.500.000 · c) 3.000.000"
+  },
+  {
+   "n": 5,
+   "html": "A placa da escola usa números romanos. Lembre: <b>I = 1, V = 5, X = 10, L = 50, C = 100, M = 1.000</b>. Escreva com os nossos algarismos:<div class=\"row\"><svg class=\"ill\" width=\"200\" height=\"72\" viewBox=\"0 0 200 72\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"4\" y=\"6\" width=\"192\" height=\"60\" rx=\"6\" fill=\"#d9d4c7\" stroke=\"#8d8672\" stroke-width=\"3\"/><rect x=\"12\" y=\"14\" width=\"176\" height=\"44\" rx=\"3\" fill=\"none\" stroke=\"#a9a28e\" stroke-width=\"1.5\"/><circle cx=\"20\" cy=\"22\" r=\"2.5\" fill=\"#8d8672\"/><circle cx=\"180\" cy=\"22\" r=\"2.5\" fill=\"#8d8672\"/><circle cx=\"20\" cy=\"50\" r=\"2.5\" fill=\"#8d8672\"/><circle cx=\"180\" cy=\"50\" r=\"2.5\" fill=\"#8d8672\"/><text x=\"100.0\" y=\"33.0\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"600\" font-size=\"11\" fill=\"#6b6553\">FUNDADA EM</text><text x=\"100.0\" y=\"52.0\" text-anchor=\"middle\" font-family=\"Fredoka\" font-weight=\"700\" font-size=\"20\" fill=\"#4a4536\">MMXXVI</text></svg><div class=\"grid\"><div>XIV = <input class=\"in\" data-a=\"14\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>XL = <input class=\"in\" data-a=\"40\" data-t=\"n\" style=\"width:56px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>CXX = <input class=\"in\" data-a=\"120\" data-t=\"n\" style=\"width:60px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div><div>MMXXVI = <input class=\"in\" data-a=\"2026\" data-t=\"n\" style=\"width:70px\" inputmode=\"decimal\" placeholder=\"\" autocomplete=\"off\" spellcheck=\"false\"></div></div></div>",
+   "gab": "14 · 40 · 120 · 2.026"
+  }
+ ]
+}

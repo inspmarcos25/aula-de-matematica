@@ -1,7 +1,10 @@
-# Site estático: o caderno é um único HTML, sem etapa de build.
+# O caderno é um único HTML. Na Netlify, o build só liga o login (scripts/build.mjs) e copia os arquivos para dist/.
 [build]
-  publish = "."
-  command = ""
+  publish = "dist"
+  command = "npm run build"
+
+[functions]
+  directory = "netlify/functions"
 
 [[headers]]
   for = "/*"
